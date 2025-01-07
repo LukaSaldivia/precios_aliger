@@ -216,6 +216,7 @@ body>main {
     font-size: 12px;
     display: flex;
 
+    display: none;
     align-items: center;
     gap: 10px;
 
@@ -236,7 +237,6 @@ body>main {
     display: grid;
     gap: 5px;
     position: relative;
-    min-height: 50dvh;
 
     .row {
 
