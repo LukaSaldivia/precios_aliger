@@ -345,6 +345,25 @@ body>main {
     &:has(.row) span.loader{
       display: none;
     }
+
+    &.searching{
+      .row{
+        display: contents;
+
+        section.group{
+          display: none;
+        }
+
+        section.list-container{
+          display: contents;
+
+          article:not(.found){
+            display: none;
+          }
+        }
+        
+      }
+    }
   }
 }
 

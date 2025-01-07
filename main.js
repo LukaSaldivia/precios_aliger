@@ -1,17 +1,18 @@
 const $ = (selector = '') => document.querySelector(selector)
 const _$ = (element = HTMLElement, selector = '') => element.querySelector(selector)
 const $$ = (selector = '') => document.querySelectorAll(selector)
-const { format } = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'ARS', currencyDisplay : 'narrowSymbol' , maximumFractionDigits : 0})
+const _$$ = (element = HTMLElement, selector = '') => element.querySelectorAll(selector)
+const { format } = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'ARS', currencyDisplay: 'narrowSymbol', maximumFractionDigits: 0 })
 
+
+// Carga de datos
 
 const container = $('#data')
 
 fetch('output.json').then(response => response.json()).then(data => {
 
-
   const empresas = Object.keys(data)
-
-  empresas.sort((a,b) => a == "Aliger" ? -1 : b == "Aliger" ? 1 : 0)
+  empresas.sort((a, b) => a == "Aliger" ? -1 : b == "Aliger" ? 1 : 0)
 
   for (const empresa of empresas) {
 
@@ -28,9 +29,6 @@ fetch('output.json').then(response => response.json()).then(data => {
         <p>${articulo}</p><p>${format(precio)}</p>
       </article>
       `
-
-
-      
     }
 
     div.innerHTML = `
@@ -45,14 +43,60 @@ fetch('output.json').then(response => response.json()).then(data => {
       </label>
     </section>
     <section class="list-container">
-      ${
-        articles
+      ${articles
       }
     </section>
   `
 
     container.append(div)
-    
+
   }
 
+})
+
+// Buscar por productos o empresas
+
+const input = $('[role="group"] input')
+
+input.addEventListener('input', ({ target }) => {
+  let text = target.value.trim().toLowerCase()
+
+  container.classList.toggle('searching', !!text)
+
+  if (text) {
+    const rows = $$('.row')
+
+    for (const row of rows) {
+
+      const articles = _$$(row, 'article')
+
+      for (const article of articles) {
+        article.classList.remove('found')
+      }
+
+      const group_name = _$(row, '.group_name').textContent.toLowerCase()
+
+
+      for (const article of articles) {   
+        
+        let article_name = article.textContent.toLowerCase().split('$')[0]
+        
+        article.classList.toggle('found', article_name.includes(text))
+        
+        if (group_name.includes(text)) {
+          article.classList.add('found')
+          
+        }
+      }
+
+
+
+
+
+
+
+
+
+    }
+  }
 })
