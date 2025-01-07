@@ -3,7 +3,6 @@ import json
 
 # Ruta del archivo de entrada y salida
 input_file = 'may.rtf'
-# output_file = 'output.txt'
 output_file_json = 'output.json'
 
 data = {}
@@ -22,8 +21,6 @@ with open(input_file, 'r') as infile:
        
         for match in matches:
 
-            
-
             if match.groups()[0] == '1860': # Si es un grupo
                 data[match.groups()[1].strip()] = []
                 current_group = match.groups()[1].strip()
@@ -37,14 +34,6 @@ with open(input_file, 'r') as infile:
                 data[current_group][current_product] = precio
                 precio = None
 
-                
-
-
-            
-
-
-
-        # outfile.write(line)
 
 with open(output_file_json, 'w', encoding='utf-8') as outfile_json:
     json.dump(data, outfile_json, indent=4, ensure_ascii=False)
