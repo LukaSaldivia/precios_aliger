@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script type="module" src="main.js"></script>
+  <title>Document</title>
+</head>
+
+<body>
+  <header class="full-width">
+    <div class="wrapper">
+      <div class="left line"></div>
+      <div class="title">
+        <img src="img/aliger_logo.jpg" alt="" width="39" height="30">
+        <p>Lista de precios mayorista</p>
+      </div>
+      <div class="right line"></div>
+    </div>
+  </header>
+
+  <main class="full-width">
+
+    <div class="stack" role="group">
+      <input type="text" placeholder="Buscar por nombre de artículo o empresa">
+      <svg width="27" height="27" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M25 25.1667L16.25 16.4167" stroke="#00009E" stroke-width="2.91667" stroke-linecap="round"/>
+        <path d="M17.7083 9.85418C17.7083 11.9814 16.8632 14.0216 15.359 15.5258C13.8548 17.03 11.8147 17.875 9.68746 17.875C7.5602 17.875 5.52007 17.03 4.01587 15.5258C2.51168 14.0216 1.66663 11.9814 1.66663 9.85418C1.66663 7.72692 2.51168 5.68679 4.01587 4.18259C5.52007 2.67839 7.5602 1.83334 9.68746 1.83334C11.8147 1.83334 13.8548 2.67839 15.359 4.18259C16.8632 5.68679 17.7083 7.72692 17.7083 9.85418Z" stroke="#00009E" stroke-width="2.91667"/>
+        </svg>
+        
+    </div>
+
+    <div class="caption">
+      <div class="sqr"></div>
+      <p>Productos que tuvieron cambios de precios</p>
+    </div>
+
+    <div id="data">
+      <p class="date">Última actualización: DD/MM/AAAA</p>
+      <span class="loader"></span>
+    </div>
+    
+  </main>
+</body>
+
+</html>

@@ -3,13 +3,23 @@ import json
 
 # Ruta del archivo de entrada y salida
 input_file = 'may.rtf'
-# output_file = 'output.txt'
 output_file_json = 'output.json'
 
 data = {}
+data['grupos'] = {}
 current_group = ''
 current_product = ''
 precio = None
+
+# from datetime import datetime
+
+# # Obtener la fecha y hora actual
+# fecha_actual = datetime.now()
+
+# # Formatear la fecha en un formato legible
+# fecha_formateada = fecha_actual.strftime("%Y-%m-%d %H:%M:%S")
+
+# print("Fecha y hora actual:", fecha_formateada)
 
 
 with open(input_file, 'r') as infile:
@@ -22,30 +32,23 @@ with open(input_file, 'r') as infile:
        
         for match in matches:
 
-            
-
             if match.groups()[0] == '1860': # Si es un grupo
-                data[match.groups()[1].strip()] = []
                 current_group = match.groups()[1].strip()
-                data[current_group] = {}
+                data['grupos'][current_group] = {}
 
             if match.groups()[0] == '7980': # Si es un precio
                 precio = match.groups()[1].split(' ')[-1]
 
             if match.groups()[0] == '4620': # Si es un producto
                 current_product = match.groups()[1].strip()
-                data[current_group][current_product] = precio
+                data['grupos'][current_group][current_product] = precio
                 precio = None
 
-                
-
-
-            
 
 
 
-        # outfile.write(line)
 
+# Guardar en JSON
 with open(output_file_json, 'w', encoding='utf-8') as outfile_json:
     json.dump(data, outfile_json, indent=4, ensure_ascii=False)
 print(f"El archivo JSON se ha guardado en '{output_file_json}'.")
