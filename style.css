@@ -237,6 +237,7 @@ body>main {
     display: grid;
     gap: 5px;
     position: relative;
+    margin-top: 20px;
 
     .row {
 
@@ -274,7 +275,7 @@ body>main {
       }
 
       section.list-container {
-        margin-top: 10px;
+        margin-top: 5px;
         display: grid;
         padding-left: 50px;
         gap: 10px;
@@ -326,9 +327,15 @@ body>main {
 
     }
 
+    p.date{
+      justify-self: end;
+      color: var(--clr-primary-light);
+      display: none;
+    }
+
     span.loader {
       position: absolute;
-      top: 50%;
+      top: 100px;
       left: 50%;
       translate: -50% -50%;
       width: 48px;
