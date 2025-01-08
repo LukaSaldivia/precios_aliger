@@ -23,8 +23,8 @@ fetch('output.json').then(response => response.json()).then(data => {
 
     let articles = ''
 
-    for (const articulo in data[empresa]) {
-      const precio = data[empresa][articulo]
+    for (const articulo in data.grupos[empresa]) {
+      const precio = data.grupos[empresa][articulo]
 
       articles += `
       <article>
