@@ -11,7 +11,9 @@ const container = $('#data')
 
 fetch('output.json').then(response => response.json()).then(data => {
 
-  const empresas = Object.keys(data)
+  
+
+  const empresas = Object.keys(data.grupos)
   empresas.sort((a, b) => a == "Aliger" ? -1 : b == "Aliger" ? 1 : 0)
 
   for (const empresa of empresas) {
