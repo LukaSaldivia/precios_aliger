@@ -3,12 +3,12 @@
         "Peipo": {
             "MANI JAPONES X 700 PEIPO": "3122.220",
             "PAPA CHEDDAR PEIPO X 330": "4453.360",
-            "PAPA COMUN X500": "5205.720",
-            "PAPAS CORTE AMERICANO": "5205.720",
-            "PAPAS PAY PEIPO": "5170.210",
+            "PAPA COMUN X500": "5246.720",
+            "PAPAS CORTE AMERICANO": "5246.720",
+            "PAPAS PAY PEIPO": "5210.930",
             "MANI C/CASCARA PEIPO": "5112.780",
             "MANI SALADO PEIPO": "3975.070",
-            "PALITOS SALADOS PEIPO": "3996.060",
+            "PALITOS SALADOS PEIPO": "4028.030",
             "BOLITAS CROCANTES PEIPO": "1807.610",
             "MAIZ INFLADO PEIPO": "2845.030",
             "MANI REPELADO PEIPO": "4123.600",
@@ -41,24 +41,24 @@
             "CREMA QUESADA": "5404.090"
         },
         "Emezeta": {
-            "JAMON BOLON 3783": "4804.790",
-            "LOMO AHUMADO": "8124.840",
-            "MILANCITO EMEZETA": "7904.990",
-            "PALETA CUADRADA MZ": "4953.550",
-            "JAMON NATIVO EMEZETA": "7883.680",
-            "PALETA MINI EMEZETA": "4958.000",
-            "PERNIL EMEZETA": "5302.450",
-            "MORTADELA EMEZETA": "3642.610",
-            "SALCHICHON C/JAMON EMEZETA": "3260.780",
-            "SALCHICHON PRIMAVERA EMEZETA": "3260.780",
-            "BASTON EMEZETA": "8521.050",
-            "MILAN EMEZETA": "6883.220",
-            "BONDIOLA EMEZETA": "12826.470",
-            "CRUDO EMEZETA": "16647.700",
-            "LOMO CANADIENSE EMEZETA": "9494.170",
-            "PANCETA AHUM C/C EMEZETA": "10278.300",
-            "PANCETA SALADA EMEZETA": "9696.550",
-            "PANCETA TIERNIZADA EMEZETA": "5286.790"
+            "JAMON BOLON 3783": "5045.010",
+            "LOMO AHUMADO": "8531.090",
+            "MILANCITO EMEZETA": "8300.250",
+            "PALETA CUADRADA MZ": "5201.230",
+            "JAMON NATIVO EMEZETA": "8277.860",
+            "PALETA MINI EMEZETA": "5205.900",
+            "PERNIL EMEZETA": "5567.590",
+            "MORTADELA EMEZETA": "3824.740",
+            "SALCHICHON C/JAMON EMEZETA": "3423.830",
+            "SALCHICHON PRIMAVERA EMEZETA": "3423.830",
+            "BASTON EMEZETA": "8947.080",
+            "MILAN EMEZETA": "7227.370",
+            "BONDIOLA EMEZETA": "13467.780",
+            "CRUDO EMEZETA": "17480.080",
+            "LOMO CANADIENSE EMEZETA": "9968.860",
+            "PANCETA AHUM C/C EMEZETA": "10792.210",
+            "PANCETA SALADA EMEZETA": "10181.380",
+            "PANCETA TIERNIZADA EMEZETA": "5551.140"
         },
         "Productos W": {
             "BONDIOLA W": "11346.000",
@@ -81,9 +81,9 @@
             "MEMBRILLO LATA": "13057.910",
             "MERMELADA CORMILLOT DURAZNO": "1374.560",
             "POSTRE DCE.LECHE C/CHOC.": "18220.770",
-            "DULCE DE BATATA": "7144.720",
-            "DULCE DE BATATA C/CHOC": "7144.720",
-            "DULCE DE MEMBRILLO": "8734.430"
+            "DULCE DE BATATA": "7204.270",
+            "DULCE DE BATATA C/CHOC": "7204.270",
+            "DULCE DE MEMBRILLO": "8807.230"
         },
         "San Cayetano": {
             "AJI EN VINAGRE X900GR": "9652.500",
@@ -131,7 +131,7 @@
             "PATEGRAS ALIGER": "7875.000",
             "ROMANITO ALIGER": "8125.010",
             "SARDO ALIGER": "7500.000",
-            "BARRA ALIGER": "6000.000"
+            "BARRA ALIGER": "6360.000"
         },
         "El Artesano": {
             "CRUDO EL ARTESANO": "14900.000"
@@ -166,32 +166,32 @@
             "PIM BLANCA MOLIDA X 1 KG": "12666.140",
             "PIMENTON X 1 KG": "7069.340",
             "PROVENZAL X 1 KG": "5579.750",
-            "ADOBO X25GR": "274.910",
-            "AJI MOLIDO X25GR": "298.300",
-            "CHIMICHURRI X25GR": "255.080",
-            "COMINO X25GR": "284.400",
-            "ESPECIAS SURTIDAS X25GR": "232.420",
-            "NUEZ MOSCADA MOLIDA X25GR": "761.610",
-            "NUEZ MOSCADA X2 UN.": "792.330",
-            "OREGANO X50GR": "336.110",
-            "PIM NEGRA EN GRANO X25GR": "753.150",
-            "PIM NEGRA MOLIDA X25GR": "521.100",
-            "PIMENTON X25GR": "326.770",
-            "PIMIENTA BLANCA X25GR": "784.540",
-            "POLVO PARA HORNEAR X50GR": "350.010",
-            "PROVENZAL X25GR": "370.640",
-            "SALSA BLANCA X25GR": "250.760"
+            "ADOBO X25GR": "277.030",
+            "AJI MOLIDO X25GR": "300.780",
+            "CHIMICHURRI X25GR": "257.130",
+            "COMINO X25GR": "286.670",
+            "ESPECIAS SURTIDAS X25GR": "234.270",
+            "NUEZ MOSCADA MOLIDA X25GR": "767.700",
+            "NUEZ MOSCADA X2 UN.": "798.930",
+            "OREGANO X50GR": "338.700",
+            "PIM NEGRA EN GRANO X25GR": "759.430",
+            "PIM NEGRA MOLIDA X25GR": "525.440",
+            "PIMENTON X25GR": "329.290",
+            "PIMIENTA BLANCA X25GR": "790.810",
+            "POLVO PARA HORNEAR X50GR": "437.510",
+            "PROVENZAL X25GR": "373.600",
+            "SALSA BLANCA X25GR": "252.850"
         },
         "Calchaqui": {
-            "BONDIOLA CALCHAQUI": "18301.110",
-            "MORTADELA BOCHA CALCHAQUI": "6013.800",
-            "MORTADELA C/PIST CALCHAQUI": "8556.210",
-            "MORTADELA CAÑON CALCHAQUI": "5204.160",
-            "MORTADELA GIG. CALCHAQUI": "6453.730",
-            "PANCETA AHUMADA CALCHAQUI": "12032.280"
+            "BONDIOLA CALCHAQUI": "18460.240",
+            "MORTADELA BOCHA CALCHAQUI": "6065.200",
+            "MORTADELA C/PIST CALCHAQUI": "8629.330",
+            "MORTADELA CAÑON CALCHAQUI": "5248.640",
+            "MORTADELA GIG. CALCHAQUI": "6508.880",
+            "PANCETA AHUMADA CALCHAQUI": "12135.110"
         },
         "Bocatti": {
-            "JAMON COCIDO BOCATTI": "15093.010"
+            "JAMON COCIDO BOCATTI": "15222.010"
         },
         "Hellmans": {
             "KETCHUP MONOP.HELLMAN´S": "15244.230",
@@ -202,8 +202,8 @@
             "LEBERWURST X 250 GRS.": "1108.800",
             "VIENA X 6 FELA": "824.350",
             "VIENA X 6 PALDINI": "1254.400",
-            "MORTADELA FAM. PALADINI": "1892.400",
-            "MORTADELA X 2.5KG PALADINI": "7044.800",
+            "MORTADELA FAM. PALADINI": "1909.010",
+            "MORTADELA X 2.5KG PALADINI": "7170.610",
             "MORTADELA X4.5KG PALADINI": "5776.790"
         },
         "Las Piaras": {
