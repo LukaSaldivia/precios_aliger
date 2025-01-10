@@ -81,39 +81,39 @@
             "MEMBRILLO LATA": "13057.910",
             "MERMELADA CORMILLOT DURAZNO": "1374.560",
             "POSTRE DCE.LECHE C/CHOC.": "18220.770",
-            "DULCE DE BATATA": "6965.220",
+            "DULCE DE BATATA": "7144.720",
             "DULCE DE BATATA C/CHOC": "7144.720",
             "DULCE DE MEMBRILLO": "8734.430"
         },
         "San Cayetano": {
             "AJI EN VINAGRE X900GR": "9652.500",
-            "BIDON PICKLE X5KG": "14838.120",
-            "BIDON DESC X5KG 0": "22267.070",
-            "BIDON DESC X5KG 00": "26236.320",
-            "BIDON NEGRA DESC X5KG": "32480.010",
+            "BIDON PICKLE X5KG": "15401.760",
+            "BIDON DESC X5KG 0": "26059.430",
+            "BIDON DESC X5KG 00": "32090.530",
+            "BIDON NEGRA DESC X5KG": "33095.000",
             "BIDON NEGRA ROD X5KG": "30676.260",
-            "BIDON NEGRA X5K 0": "26933.390",
-            "BIDON RODAJA X5KG": "20965.560",
-            "BIDON ROTA X5KG": "17676.900",
-            "BIDON X5KG 0": "20012.520",
-            "BIDON X5KG 00": "26575.560",
-            "BIDON X5KG 000": "31078.080",
-            "BIDON X5KG 1": "18777.000",
-            "BIDON X5KG 2": "17501.880",
-            "BIDON X5KG 3": "16536.960",
-            "BIDON X5KG RELLENA": "41949.530",
-            "FRASCO NEGRA DESC X2KG": "14129.110",
-            "FRASCO NEGRA X2KG 0": "13437.910",
-            "FRASCO NEGRA X2KG 00": "16523.920",
-            "FRASCO X2KG 0": "10118.640",
-            "FRASCO X2KG 00": "12910.300",
-            "FRASCO X2KG 000": "14825.510",
-            "FRASCO X2KG DESC 0": "11942.100",
-            "FRASCO X2KG DESC 00": "13601.910",
-            "FRASCO X2KG RELLENA": "17894.250",
-            "FRASCO X2KG RODAJAS": "11162.690",
-            "FRASCO NEGRA X1KG 0": "7964.990",
-            "FRASCO X1KG 00": "7798.950"
+            "BIDON NEGRA X5K 0": "28020.200",
+            "BIDON RODAJA X5KG": "24154.690",
+            "BIDON ROTA X5KG": "18859.500",
+            "BIDON X5KG 0": "22660.430",
+            "BIDON X5KG 00": "31154.640",
+            "BIDON X5KG 000": "36560.040",
+            "BIDON X5KG 1": "21116.040",
+            "BIDON X5KG 2": "19571.640",
+            "BIDON X5KG 3": "18027.250",
+            "BIDON X5KG RELLENA": "44227.810",
+            "FRASCO NEGRA DESC X2KG": "18007.660",
+            "FRASCO NEGRA X2KG 0": "14034.610",
+            "FRASCO NEGRA X2KG 00": "16783.280",
+            "FRASCO X2KG 0": "11363.520",
+            "FRASCO X2KG 00": "14977.130",
+            "FRASCO X2KG 000": "17276.710",
+            "FRASCO X2KG DESC 0": "13830.750",
+            "FRASCO X2KG DESC 00": "16418.850",
+            "FRASCO X2KG RELLENA": "19602.000",
+            "FRASCO X2KG RODAJAS": "12744.060",
+            "FRASCO NEGRA X1KG 0": "7978.510",
+            "FRASCO X1KG 00": "8978.840"
         },
         "Gallardo": {
             "LATA DE TOMATE X8KG": "9416.400",
@@ -214,13 +214,13 @@
             "CREMOSO PUNTA DEL AGUA": "6054.440"
         },
         "Cris Jor": {
-            "MANI CROCANTE CLASICO": "3630.560",
-            "MANI CROCANTE SABOR JAMON": "3630.560",
-            "MANI CROCANTE SABOR PIZZA": "3630.560",
-            "MANI CROCANTE SABOR PROVENZAL": "3630.560",
-            "MANI CROCANTE SABOR QUESO": "3630.560",
-            "MANI CROCANTE SABOR SALAME": "3630.560",
-            "MANI REPELADO CRIS JOR": "3360.000"
+            "MANI CROCANTE CLASICO": "3765.010",
+            "MANI CROCANTE SABOR JAMON": "3765.010",
+            "MANI CROCANTE SABOR PIZZA": "3765.010",
+            "MANI CROCANTE SABOR PROVENZAL": "3765.010",
+            "MANI CROCANTE SABOR QUESO": "3765.010",
+            "MANI CROCANTE SABOR SALAME": "3765.010",
+            "MANI REPELADO CRIS JOR": "3640.010"
         },
         "Fepa": {
             "MATAMBRE EL CRIOLLITO": "10327.510",
@@ -231,11 +231,11 @@
         "Chiro": {
             "ACEITE DE OLIVA X 500": "8196.150",
             "RELLENA GOURMET X 200": "4324.320",
-            "SACHET X 100 CHIRO": "524.480"
+            "SACHET X 100 CHIRO": "589.880"
         },
         "Lo tauro": {
-            "SACHET X 100 LO TAURO": "503.540",
-            "SACHET X100 DESC LO TAURO": "685.790"
+            "SACHET X 100 LO TAURO": "0.000",
+            "SACHET X100 DESC LO TAURO": "726.910"
         },
         "La Juanita": {
             "CREMOSO LA JUANITA": "5105.100",
