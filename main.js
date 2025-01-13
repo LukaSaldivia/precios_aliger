@@ -3,6 +3,8 @@ const _$ = (element = HTMLElement, selector = '') => element.querySelector(selec
 const $$ = (selector = '') => document.querySelectorAll(selector)
 const _$$ = (element = HTMLElement, selector = '') => element.querySelectorAll(selector)
 const { format } = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'ARS', currencyDisplay: 'narrowSymbol', maximumFractionDigits: 0 })
+const input = $('[role="group"] input')
+
 
 
 // Carga de datos
@@ -13,8 +15,8 @@ fetch('output.json').then(response => response.json()).then(data => {
 
   $('span.date').textContent = data.fecha
   
-
   const empresas = Object.keys(data.grupos)
+
   empresas.sort((a, b) => a == "Aliger" ? -1 : b == "Aliger" ? 1 : 0)
 
   for (const empresa of empresas) {
@@ -59,12 +61,11 @@ fetch('output.json').then(response => response.json()).then(data => {
 
   }
 
+  
+
 })
 
 // Buscar por productos o empresas
-
-const input = $('[role="group"] input')
-
 input.addEventListener('input', ({ target }) => {
   let text = target.value.trim().toLowerCase()
 

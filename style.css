@@ -327,6 +327,7 @@ body>main {
       align-self: end;
       color: var(--clr-primary-light);
       width: fit-content;
+      font-size: var(--fs-p);
     }
 
     span.loader {
