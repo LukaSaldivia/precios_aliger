@@ -2,7 +2,6 @@ import re
 import json
 from datetime import datetime
 
-# Ruta del archivo de entrada y salida
 input_file = 'may.rtf'
 changes_file = 'cambios.rtf'
 output_file_json = 'output.json'
@@ -15,17 +14,6 @@ data['fecha'] = today.strftime('%d-%m-%Y %H:%M:%S')
 current_group = ''
 current_product = ''
 precio = None
-
-# from datetime import datetime
-
-# # Obtener la fecha y hora actual
-# fecha_actual = datetime.now()
-
-# # Formatear la fecha en un formato legible
-# fecha_formateada = fecha_actual.strftime("%Y-%m-%d %H:%M:%S")
-
-# print("Fecha y hora actual:", fecha_formateada)
-
 
 with open(input_file, 'r') as infile:
     for line in infile:
@@ -82,6 +70,3 @@ with open(changes_file, 'r') as infile:
 # Guardar en JSON
 with open(output_file_json, 'w', encoding='utf-8') as outfile_json:
     json.dump(data, outfile_json, indent=4, ensure_ascii=False)
-# print(f"El archivo JSON se ha guardado en '{output_file_json}'.")
-# print("Estructura del JSON generada:")
-# print(json.dumps(data['cambios'], indent=4, ensure_ascii=False))
