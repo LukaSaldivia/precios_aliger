@@ -11,6 +11,7 @@ const container = $('#data')
 
 fetch('output.json').then(response => response.json()).then(data => {
 
+  $('span.date').textContent = data.fecha
   
 
   const empresas = Object.keys(data.grupos)
@@ -26,8 +27,12 @@ fetch('output.json').then(response => response.json()).then(data => {
     for (const articulo in data.grupos[empresa]) {
       const precio = data.grupos[empresa][articulo]
 
+      // Verificar si se ha modificado el precio
+      const cambiado = data.cambios[empresa] && data.cambios[empresa][articulo]
+
+
       articles += `
-      <article>
+      <article class="${cambiado ? 'alert' : ''}">
         <p>${articulo}</p><p>${format(precio)}</p>
       </article>
       `

@@ -44,7 +44,6 @@ with open(changes_file, 'r') as infile:
         # POS X 735 -> grupo de venta
         # POS X 2505 -> producto
         # POS X 5865 -> precio de producto
-        # print(line)
        
         matches = re.finditer(r'\\pard \\plain \\nowrap\\f0\\fs18\\phpg\\posx(735|5865|2505)\\pvpg\\posy[0-9]+(.*?)\s?\\par', line)  # Busca todas las coincidencias
        

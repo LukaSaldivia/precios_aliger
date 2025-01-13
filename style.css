@@ -2,10 +2,6 @@
 
 :root {
 
-  /* Timing functions */
-
-  --tf-bounce: cubic-bezier(0.8, -1, .2, 2);
-
   /* Colores */
 
   --clr-primary: #00009E;
@@ -216,7 +212,6 @@ body>main {
     font-size: 12px;
     display: flex;
 
-    display: none;
     align-items: center;
     gap: 10px;
 
@@ -234,7 +229,8 @@ body>main {
   }
 
   #data {
-    display: grid;
+    display: flex;
+    flex-direction: column;
     gap: 5px;
     position: relative;
     margin-top: 20px;
@@ -327,10 +323,10 @@ body>main {
 
     }
 
-    p.date{
-      justify-self: end;
+    p.update{
+      align-self: end;
       color: var(--clr-primary-light);
-      display: none;
+      width: fit-content;
     }
 
     span.loader {

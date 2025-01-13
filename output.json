@@ -313,8 +313,7 @@
             "PAPA COMUN X500": "5246.720",
             "PAPAS CORTE AMERICANO": "5246.720",
             "PAPAS PAY PEIPO": "5210.930",
-            "PALITOS SALADOS PEIPO": "4028.030",
-            "MANI JAPONES X 700 PEIPO": "3122.220"
+            "PALITOS SALADOS PEIPO": "4028.030"
         },
         "Emezeta": {
             "CRUDO EMEZETA": "17480.080",
@@ -341,38 +340,6 @@
             "DULCE DE BATATA": "7204.270",
             "DULCE DE BATATA C/CHOC": "7204.270"
         },
-        "San Cayetano": {
-            "FRASCO X2KG 0": "11363.520",
-            "FRASCO X2KG 00": "14977.130",
-            "FRASCO X2KG 000": "17276.710",
-            "FRASCO X2KG RODAJAS": "12744.060",
-            "FRASCO X2KG DESC 0": "13830.750",
-            "FRASCO X2KG DESC 00": "16418.850",
-            "FRASCO X2KG RELLENA": "19602.000",
-            "FRASCO X1KG 00": "8978.840",
-            "FRASCO NEGRA X2KG 0": "14034.610",
-            "FRASCO NEGRA X2KG 00": "16783.280",
-            "FRASCO NEGRA X1KG 0": "7978.510",
-            "BIDON X5KG 0": "22660.430",
-            "BIDON X5KG 00": "31154.640",
-            "BIDON X5KG 000": "36560.040",
-            "BIDON DESC X5KG 0": "26059.430",
-            "BIDON DESC X5KG 00": "32090.530",
-            "BIDON RODAJA X5KG": "24154.690",
-            "BIDON NEGRA X5K 0": "28020.200",
-            "BIDON ROTA X5KG": "18859.500",
-            "AJI EN VINAGRE X900GR": "9652.500",
-            "BIDON X5KG 1": "21116.040",
-            "BIDON X5KG 2": "19571.640",
-            "BIDON NEGRA DESC X5KG": "33095.000",
-            "BIDON X5KG RELLENA": "44227.810",
-            "FRASCO NEGRA DESC X2KG": "18007.660",
-            "BIDON X5KG 3": "18027.250",
-            "BIDON PICKLE X5KG": "15401.760"
-        },
-        "Gallardo": {
-            "LATA DE TOMATE X8KG": "9416.400"
-        },
         "Aliger": {
             "BARRA ALIGER": "6360.000"
         },
@@ -391,11 +358,7 @@
             "PROVENZAL X25GR": "373.600",
             "SALSA BLANCA X25GR": "252.850",
             "ESPECIAS SURTIDAS X25GR": "234.270",
-            "POLVO PARA HORNEAR X50GR": "437.510",
-            "ADOBO P/PIZZAS X 1 KG": "6257.370",
-            "OREGANO X 1 KG": "4675.730",
-            "PIMENTON X 1 KG": "7069.340",
-            "PROVENZAL X 1 KG": "5579.750"
+            "POLVO PARA HORNEAR X50GR": "437.510"
         },
         "Calchaqui": {
             "MORTADELA BOCHA CALCHAQUI": "6065.200",
@@ -410,8 +373,7 @@
         },
         "Paladini": {
             "MORTADELA FAM. PALADINI": "1909.010",
-            "MORTADELA X 2.5KG PALADINI": "7170.610",
-            "LEBERWURST X 250 GRS.": "1108.800"
+            "MORTADELA X 2.5KG PALADINI": "7170.610"
         },
         "Cris Jor": {
             "MANI CROCANTE CLASICO": "3765.010",
@@ -422,19 +384,6 @@
             "MANI CROCANTE SABOR PROVENZAL": "3765.010",
             "MANI REPELADO CRIS JOR": "3640.010"
         },
-        "Chiro": {
-            "SACHET X 100 CHIRO": "589.880"
-        },
-        "Lo tauro": {
-            "SACHET X 100 LO TAURO": "0.000",
-            "SACHET X100 DESC LO TAURO": "726.910"
-        },
-        "POZZI": {
-            "CREMOSO POZZI": "0.000"
-        },
-        "Don Alejandro Luoni": {
-            "PANCETA ARROLLADA": "11988.790"
-        },
         "La Quesera": {
             "RALLADO X 40 GRS.LA QUESERA": "587.950",
             "CHEDDAR BARRA LA QUESERA": "12282.230",
@@ -442,17 +391,8 @@
             "MIXTO CON SALAME LA QUESERA": "10343.640"
         },
         "OTRAS COMPRAS": {
-            "REJILLA": "438.340",
-            "MAYONESA NATURA X 250": "1000.140",
-            "LECHE ENTERA VERONICA LV": "1748.110",
-            "CHOCOLINO X 180": "1500.470",
-            "LIMP LIQ HEROE X900": "744.150",
-            "PALETA PALADINI X6KG": "8019.900",
-            "SACHET DESC.X 100 CHIRO": "741.130",
-            "SACHET RELLENA CHIRO": "892.380",
-            "LIMON MINERVA X500": "1274.360",
-            "ESPONJA ACERO": "457.660"
+            "LECHE ENTERA VERONICA LV": "1748.110"
         }
     },
-    "fecha": "13-01-2025 08:16:17"
+    "fecha": "13-01-2025 08:34:51"
 }
