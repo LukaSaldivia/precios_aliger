@@ -3,6 +3,8 @@ const _$ = (element = HTMLElement, selector = '') => element.querySelector(selec
 const $$ = (selector = '') => document.querySelectorAll(selector)
 const _$$ = (element = HTMLElement, selector = '') => element.querySelectorAll(selector)
 const { format } = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'ARS', currencyDisplay: 'narrowSymbol', maximumFractionDigits: 0 })
+const input = $('[role="group"] input')
+
 
 
 // Carga de datos
@@ -13,8 +15,8 @@ fetch('output.json').then(response => response.json()).then(data => {
 
   $('span.date').textContent = data.fecha
   
-
   const empresas = Object.keys(data.grupos)
+
   empresas.sort((a, b) => a == "Aliger" ? -1 : b == "Aliger" ? 1 : 0)
 
   for (const empresa of empresas) {
@@ -50,8 +52,7 @@ fetch('output.json').then(response => response.json()).then(data => {
       </label>
     </section>
     <section class="list-container">
-      ${articles
-      }
+      ${articles}
     </section>
   `
 
@@ -59,12 +60,11 @@ fetch('output.json').then(response => response.json()).then(data => {
 
   }
 
+  
+
 })
 
 // Buscar por productos o empresas
-
-const input = $('[role="group"] input')
-
 input.addEventListener('input', ({ target }) => {
   let text = target.value.trim().toLowerCase()
 
@@ -106,4 +106,28 @@ input.addEventListener('input', ({ target }) => {
 
     }
   }
+})
+
+// Comportamiento del buscador al scroll
+
+let buscador = $('[role="group"]')
+
+let actualScroll = 0
+
+window.addEventListener('scroll', () => {
+  const top = Math.min(-(window.scrollY - actualScroll + buscador.clientHeight), 0)
+
+  const progress = Math.max(1 - (Math.abs(top) / buscador.clientHeight), 0)
+
+  if (window.scrollY > actualScroll) {
+    actualScroll = window.scrollY
+  }
+  
+  if (top === 0) {
+    actualScroll = window.scrollY + buscador.clientHeight
+  }
+  
+  buscador.setAttribute("style", `--_top:${top + progress * 20}px`);
+  buscador.classList.toggle('active', window.scrollY < actualScroll && window.scrollY > buscador.clientHeight)
+
 })

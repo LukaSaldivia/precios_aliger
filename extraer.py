@@ -17,9 +17,9 @@ precio = None
 
 with open(input_file, 'r') as infile:
     for line in infile:
-        # POS X 1860 -> grupo de venta ej : \posx1860\pvpg\posy9060 Quesada, -> \posx1860\pvpg\posyN Nombre
-        # POS X 4620 -> producto ej: \posx4620\pvpg\posy9540 BARRA SABORIZADA QUESADA -> \posx4620\pvpg\posyN Nombre
-        # POS X 7980 -> precio de producto ej : \posx7980\pvpg\posy3615\qr\absw1320 5205.720, -> \posx7980\pvpg\posyN\qr\absw1320 $precio
+        # POS X 1860 -> grupo de venta
+        # POS X 4620 -> producto
+        # POS X 7980 -> precio de producto
        
         matches = re.finditer(r'\\pard \\plain \\nowrap\\f0\\fs18\\phpg\\posx(1860|4620|7980)\\pvpg\\posy[0-9]+(.*?)\s?\\par', line)  # Busca todas las coincidencias
        
