@@ -388,3 +388,35 @@ body>main {
     transform: rotate(360deg);
   }
 }
+
+@media print{
+  [role="group"]{
+    display: none;
+  }
+
+  .caption .sqr{
+    border: 2px dotted var(--clr-font);
+  }
+
+  #data{
+    display: grid;
+    .row{
+      grid-template-rows: min-content 1fr !important;
+
+      section.group{
+        border: 3px solid var(--clr-neutral-700);
+
+        break-inside: avoid;
+
+        label{
+          display: none;
+        }
+      }
+
+      section.list-container article.alert{
+        border: 2px dotted var(--clr-font) !important;
+      }
+
+    }
+  }
+}
