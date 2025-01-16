@@ -183,15 +183,15 @@
             "SALSA BLANCA X25GR": "252.850"
         },
         "Calchaqui": {
-            "BONDIOLA CALCHAQUI": "18460.240",
-            "MORTADELA BOCHA CALCHAQUI": "6065.200",
+            "BONDIOLA CALCHAQUI": "19548.310",
+            "MORTADELA BOCHA CALCHAQUI": "6368.460",
             "MORTADELA C/PIST CALCHAQUI": "8629.330",
-            "MORTADELA CAÑON CALCHAQUI": "5248.640",
-            "MORTADELA GIG. CALCHAQUI": "6508.880",
-            "PANCETA AHUMADA CALCHAQUI": "12135.110"
+            "MORTADELA CAÑON CALCHAQUI": "5558.980",
+            "MORTADELA GIG. CALCHAQUI": "6834.560",
+            "PANCETA AHUMADA CALCHAQUI": "13696.260"
         },
         "Bocatti": {
-            "JAMON COCIDO BOCATTI": "15222.010"
+            "JAMON COCIDO BOCATTI": "15830.880"
         },
         "Hellmans": {
             "KETCHUP MONOP.HELLMAN´S": "15244.230",
@@ -200,11 +200,11 @@
         },
         "Paladini": {
             "LEBERWURST X 250 GRS.": "1108.800",
-            "VIENA X 6 FELA": "824.350",
+            "VIENA X 6 FELA": "825.460",
             "VIENA X 6 PALDINI": "1254.400",
-            "MORTADELA FAM. PALADINI": "1909.010",
+            "MORTADELA FAM. PALADINI": "1995.240",
             "MORTADELA X 2.5KG PALADINI": "7170.610",
-            "MORTADELA X4.5KG PALADINI": "5776.790"
+            "MORTADELA X4.5KG PALADINI": "6055.200"
         },
         "Las Piaras": {
             "PALETA PIARA": "0.000"
@@ -253,7 +253,8 @@
             "ALMENDRAS CON CHOCOLATE X 100": "2222.350",
             "CEREAL CON CHOCOLATE X 80 GRS.": "1058.760",
             "CONFITES DE MANI X 150 GRS.": "827.870",
-            "COPETIN X 300": "1275.450",
+            "CONITOS CON QUESO X 800": "7657.130",
+            "COPETIN X 300": "1376.340",
             "GARRAPIÑADA C/CH.X 80 GRS.": "691.930",
             "GARRAPIÑADA DE ALMENDRA X 80 G": "1597.620",
             "GARRAPIÑADA DE MANI X 80 GRS.": "437.770",
@@ -306,93 +307,66 @@
             "JAMON COCIDO CAMPO GRANDE": "4600.010",
             "PALETA CAMPO GRANDE": "4024.990",
             "PALETA P/EMP.CAMPO GRANDE": "2012.500"
+        },
+        "Inalpa": {
+            "ARVEJA X 300 INALPA": "428.740",
+            "CHOCLO X 300": "1045.920",
+            "LENTEJAS INALPA X 300": "891.870"
+        },
+        "Marvavic": {
+            "VINAGRE BLANCO X 1 L.": "927.370",
+            "VINAGRE DE ALCOHOL X 500": "629.760"
+        },
+        "Don Alejandro Luoni": {
+            "PANCETA ARROLLADA": "11988.790"
+        },
+        "Porta": {
+            "ACETO BALSAMICO X 500": "1967.760",
+            "ALCOHOL DE QUEMAR X 1L": "1900.540",
+            "ALCOHOL PURO X 500": "1384.480",
+            "SALSA CAESAR X 285": "3153.740"
+        },
+        "Ledvance": {
+            "LAMPARAS LED 100 W": "1470.560",
+            "LAMPARAS LED 60 W": "1034.140"
+        },
+        "Tresal": {
+            "SAL GRUESA TRESAL X 1 KG": "705.130"
+        },
+        "La Quesera": {
+            "CHEDDAR BARRA LA QUESERA": "12282.230",
+            "GRUYERE CUÑA LA QUESERA": "18891.780",
+            "MIXTO CON SALAME LA QUESERA": "10343.640",
+            "RALLADO X 40 GRS.LA QUESERA": "587.950"
         }
     },
     "cambios": {
-        "Peipo": {
-            "PAPA COMUN X500": "5246.720",
-            "PAPAS CORTE AMERICANO": "5246.720",
-            "PAPAS PAY PEIPO": "5210.930",
-            "PALITOS SALADOS PEIPO": "4028.030"
-        },
         "Emezeta": {
-            "CRUDO EMEZETA": "17480.080",
-            "JAMON NATIVO EMEZETA": "8277.860",
-            "PERNIL EMEZETA": "5567.590",
-            "PALETA MINI EMEZETA": "5205.900",
-            "LOMO CANADIENSE EMEZETA": "9968.860",
-            "MILAN EMEZETA": "7227.370",
-            "BASTON EMEZETA": "8947.080",
-            "BONDIOLA EMEZETA": "13467.780",
-            "PANCETA AHUM C/C EMEZETA": "10792.210",
-            "PANCETA TIERNIZADA EMEZETA": "5551.140",
-            "PANCETA SALADA EMEZETA": "10181.380",
-            "SALCHICHON C/JAMON EMEZETA": "3423.830",
-            "SALCHICHON PRIMAVERA EMEZETA": "3423.830",
-            "MORTADELA EMEZETA": "3824.740",
-            "MILANCITO EMEZETA": "8300.250",
-            "JAMON BOLON 3783": "5045.010",
-            "LOMO AHUMADO": "8531.090",
-            "PALETA CUADRADA MZ": "5201.230"
-        },
-        "Dulcor": {
-            "DULCE DE MEMBRILLO": "8807.230",
-            "DULCE DE BATATA": "7204.270",
-            "DULCE DE BATATA C/CHOC": "7204.270"
-        },
-        "Aliger": {
-            "BARRA ALIGER": "6360.000"
-        },
-        "Aromas y Sabores": {
-            "ADOBO X25GR": "277.030",
-            "AJI MOLIDO X25GR": "300.780",
-            "COMINO X25GR": "286.670",
-            "CHIMICHURRI X25GR": "257.130",
-            "NUEZ MOSCADA MOLIDA X25GR": "767.700",
-            "NUEZ MOSCADA X2 UN.": "798.930",
-            "OREGANO X50GR": "338.700",
-            "PIMENTON X25GR": "329.290",
-            "PIMIENTA BLANCA X25GR": "790.810",
-            "PIM NEGRA EN GRANO X25GR": "759.430",
-            "PIM NEGRA MOLIDA X25GR": "525.440",
-            "PROVENZAL X25GR": "373.600",
-            "SALSA BLANCA X25GR": "252.850",
-            "ESPECIAS SURTIDAS X25GR": "234.270",
-            "POLVO PARA HORNEAR X50GR": "437.510"
+            "PANCETA AHUM C/C EMEZETA": "10792.210"
         },
         "Calchaqui": {
-            "MORTADELA BOCHA CALCHAQUI": "6065.200",
-            "MORTADELA CAÑON CALCHAQUI": "5248.640",
-            "BONDIOLA CALCHAQUI": "18460.240",
-            "PANCETA AHUMADA CALCHAQUI": "12135.110",
-            "MORTADELA GIG. CALCHAQUI": "6508.880",
-            "MORTADELA C/PIST CALCHAQUI": "8629.330"
+            "MORTADELA BOCHA CALCHAQUI": "6368.460",
+            "MORTADELA CAÑON CALCHAQUI": "5558.980",
+            "BONDIOLA CALCHAQUI": "19548.310",
+            "PANCETA AHUMADA CALCHAQUI": "13696.260",
+            "MORTADELA GIG. CALCHAQUI": "6834.560"
         },
         "Bocatti": {
-            "JAMON COCIDO BOCATTI": "15222.010"
+            "JAMON COCIDO BOCATTI": "15830.880"
         },
         "Paladini": {
-            "MORTADELA FAM. PALADINI": "1909.010",
-            "MORTADELA X 2.5KG PALADINI": "7170.610"
+            "MORTADELA X4.5KG PALADINI": "6055.200",
+            "MORTADELA FAM. PALADINI": "1995.240",
+            "VIENA X 6 FELA": "825.460"
         },
-        "Cris Jor": {
-            "MANI CROCANTE CLASICO": "3765.010",
-            "MANI CROCANTE SABOR JAMON": "3765.010",
-            "MANI CROCANTE SABOR SALAME": "3765.010",
-            "MANI CROCANTE SABOR PIZZA": "3765.010",
-            "MANI CROCANTE SABOR QUESO": "3765.010",
-            "MANI CROCANTE SABOR PROVENZAL": "3765.010",
-            "MANI REPELADO CRIS JOR": "3640.010"
-        },
-        "La Quesera": {
-            "RALLADO X 40 GRS.LA QUESERA": "587.950",
-            "CHEDDAR BARRA LA QUESERA": "12282.230",
-            "GRUYERE CUÑA LA QUESERA": "18891.780",
-            "MIXTO CON SALAME LA QUESERA": "10343.640"
+        "Amanecer": {
+            "COPETIN X 300": "1376.340",
+            "CONITOS CON QUESO X 800": "7657.130"
         },
         "OTRAS COMPRAS": {
-            "LECHE ENTERA VERONICA LV": "1748.110"
+            "QUESO DE CERDO EL TRIUNFO": "7135.130",
+            "PALETA PALADINI X6KG": "8904.000"
         }
     },
-    "fecha": "13-01-2025 10:56:47"
+    "fecha": "16-01-2025 13:12:58"
 }
