@@ -112,7 +112,7 @@
             "FRASCO X2KG DESC 00": "16418.850",
             "FRASCO X2KG RELLENA": "19602.000",
             "FRASCO X2KG RODAJAS": "12744.060",
-            "FRASCO NEGRA X1KG 0": "7978.510",
+            "FRASCO NEGRA X1KG 0": "8395.660",
             "FRASCO X1KG 00": "8978.840"
         },
         "Gallardo": {
@@ -199,11 +199,12 @@
             "MAYONESA X2.9 HELLMANS": "9382.410"
         },
         "Paladini": {
-            "LEBERWURST X 250 GRS.": "1108.800",
+            "JAMON COCIDO PALADINI X 6 KG": "8904.000",
+            "LEBERWURST X 250 GRS.": "1164.790",
             "VIENA X 6 FELA": "825.460",
             "VIENA X 6 PALDINI": "1254.400",
             "MORTADELA FAM. PALADINI": "1995.240",
-            "MORTADELA X 2.5KG PALADINI": "7170.610",
+            "MORTADELA X 2.5KG PALADINI": "7318.810",
             "MORTADELA X4.5KG PALADINI": "6055.200"
         },
         "Las Piaras": {
@@ -282,7 +283,7 @@
         },
         "Il Molise": {
             "PALETA IL MOLISE": "4492.050",
-            "PALETA SANDW.IL MOLISE": "2375.240",
+            "PALETA SANDW.IL MOLISE": "2564.450",
             "PALETA TERMOLI": "3699.040"
         },
         "Abuelo Marcelino": {
@@ -344,6 +345,9 @@
         "Emezeta": {
             "PANCETA AHUM C/C EMEZETA": "10792.210"
         },
+        "San Cayetano": {
+            "FRASCO NEGRA X1KG 0": "8395.660"
+        },
         "Calchaqui": {
             "MORTADELA BOCHA CALCHAQUI": "6368.460",
             "MORTADELA CAÑON CALCHAQUI": "5558.980",
@@ -357,16 +361,18 @@
         "Paladini": {
             "MORTADELA X4.5KG PALADINI": "6055.200",
             "MORTADELA FAM. PALADINI": "1995.240",
-            "VIENA X 6 FELA": "825.460"
+            "MORTADELA X 2.5KG PALADINI": "7318.810",
+            "VIENA X 6 FELA": "825.460",
+            "LEBERWURST X 250 GRS.": "1164.790",
+            "JAMON COCIDO PALADINI X 6 KG": "8904.000"
         },
-        "Amanecer": {
-            "COPETIN X 300": "1376.340",
-            "CONITOS CON QUESO X 800": "7657.130"
+        "Il Molise": {
+            "PALETA SANDW.IL MOLISE": "2564.450"
         },
         "OTRAS COMPRAS": {
             "QUESO DE CERDO EL TRIUNFO": "7135.130",
             "PALETA PALADINI X6KG": "8904.000"
         }
     },
-    "fecha": "16-01-2025 13:13:04"
+    "fecha": "23-01-2025 07:43:50"
 }
