@@ -9,8 +9,8 @@
             "MANI C/CASCARA PEIPO": "5112.780",
             "MANI SALADO PEIPO": "3975.070",
             "PALITOS SALADOS PEIPO": "4028.030",
-            "BOLITAS CROCANTES PEIPO": "1807.610",
-            "MAIZ INFLADO PEIPO": "2845.030",
+            "BOLITAS CROCANTES PEIPO": "1822.070",
+            "MAIZ INFLADO PEIPO": "2868.340",
             "MANI REPELADO PEIPO": "4123.600",
             "PIZZA ROLLS PEIPO": "1518.110",
             "TUBITOS PEIPO": "2060.970"
@@ -61,9 +61,9 @@
             "PANCETA TIERNIZADA EMEZETA": "5551.140"
         },
         "Productos W": {
-            "BONDIOLA W": "11346.000",
-            "CRUDO W": "11102.000",
-            "PALETA P/EMP.W": "2018.750"
+            "BONDIOLA W": "11439.000",
+            "CRUDO W": "11193.000",
+            "PALETA P/EMP.W": "2034.910"
         },
         "Alloa Vanguard": {
             "QUESO AZUL 1/2 ALLOA": "9272.000",
@@ -81,9 +81,9 @@
             "MEMBRILLO LATA": "13057.910",
             "MERMELADA CORMILLOT DURAZNO": "1374.560",
             "POSTRE DCE.LECHE C/CHOC.": "18220.770",
-            "DULCE DE BATATA": "7204.270",
-            "DULCE DE BATATA C/CHOC": "7204.270",
-            "DULCE DE MEMBRILLO": "8807.230"
+            "DULCE DE BATATA": "7263.800",
+            "DULCE DE BATATA C/CHOC": "7263.800",
+            "DULCE DE MEMBRILLO": "8880.010"
         },
         "San Cayetano": {
             "AJI EN VINAGRE X900GR": "9652.500",
@@ -128,25 +128,25 @@
         },
         "Aliger": {
             "MANTECA PILON TONADITA": "0.000",
-            "PATEGRAS ALIGER": "7875.000",
+            "PATEGRAS ALIGER": "8064.000",
             "ROMANITO ALIGER": "8125.010",
             "SARDO ALIGER": "7500.000",
             "BARRA ALIGER": "6360.000"
         },
         "El Artesano": {
-            "CRUDO EL ARTESANO": "14900.000"
+            "CRUDO EL ARTESANO": "16170.000"
         },
         "El Bocarte": {
-            "ANCHOAS 18 X 3": "9801.000",
-            "ANCHOAS 30 X 3": "15000.010",
-            "ANCHOAS 60 X 3": "28750.000",
+            "ANCHOAS 18 X 3": "9879.410",
+            "ANCHOAS 30 X 3": "15120.000",
+            "ANCHOAS 60 X 3": "28980.000",
             "ANCHOAS X 90G": "0.000",
-            "ANCHOAS X1.5KG": "34125.000",
+            "ANCHOAS X1.5KG": "34398.000",
             "ANCHOAS X90GR": "3250.010"
         },
         "Halcon": {
             "GRASA DE CERDO": "1098.000",
-            "GRASA VACUNA": "1043.630"
+            "GRASA VACUNA": "1070.850"
         },
         "Aromas y Sabores": {
             "ADOBO P/PIZZAS X 1 KG": "6257.370",
@@ -167,23 +167,23 @@
             "PIMENTON X 1 KG": "7069.340",
             "PROVENZAL X 1 KG": "5579.750",
             "ADOBO X25GR": "277.030",
-            "AJI MOLIDO X25GR": "300.780",
-            "CHIMICHURRI X25GR": "257.130",
-            "COMINO X25GR": "286.670",
-            "ESPECIAS SURTIDAS X25GR": "234.270",
-            "NUEZ MOSCADA MOLIDA X25GR": "767.700",
-            "NUEZ MOSCADA X2 UN.": "798.930",
+            "AJI MOLIDO X25GR": "305.760",
+            "CHIMICHURRI X25GR": "259.170",
+            "COMINO X25GR": "288.950",
+            "ESPECIAS SURTIDAS X25GR": "236.130",
+            "NUEZ MOSCADA MOLIDA X25GR": "773.800",
+            "NUEZ MOSCADA X2 UN.": "812.140",
             "OREGANO X50GR": "338.700",
-            "PIM NEGRA EN GRANO X25GR": "759.430",
-            "PIM NEGRA MOLIDA X25GR": "525.440",
+            "PIM NEGRA EN GRANO X25GR": "771.980",
+            "PIM NEGRA MOLIDA X25GR": "534.120",
             "PIMENTON X25GR": "329.290",
-            "PIMIENTA BLANCA X25GR": "790.810",
-            "POLVO PARA HORNEAR X50GR": "437.510",
-            "PROVENZAL X25GR": "373.600",
-            "SALSA BLANCA X25GR": "252.850"
+            "PIMIENTA BLANCA X25GR": "797.090",
+            "POLVO PARA HORNEAR X50GR": "444.510",
+            "PROVENZAL X25GR": "376.560",
+            "SALSA BLANCA X25GR": "257.030"
         },
         "Calchaqui": {
-            "BONDIOLA CALCHAQUI": "19548.310",
+            "BONDIOLA CALCHAQUI": "19716.840",
             "MORTADELA BOCHA CALCHAQUI": "6368.460",
             "MORTADELA C/PIST CALCHAQUI": "8629.330",
             "MORTADELA CAÑON CALCHAQUI": "5558.980",
@@ -203,7 +203,7 @@
             "LEBERWURST X 250 GRS.": "1164.790",
             "VIENA X 6 FELA": "825.460",
             "VIENA X 6 PALDINI": "1254.400",
-            "MORTADELA FAM. PALADINI": "1995.240",
+            "MORTADELA FAM. PALADINI": "2029.940",
             "MORTADELA X 2.5KG PALADINI": "7318.810",
             "MORTADELA X4.5KG PALADINI": "6055.200"
         },
@@ -282,8 +282,9 @@
             "PAPEL HIGIENICO CAVADE X 4X 30": "946.120"
         },
         "Il Molise": {
+            "BASTON IL MOLISE": "8980.410",
             "PALETA IL MOLISE": "4492.050",
-            "PALETA SANDW.IL MOLISE": "2564.450",
+            "PALETA SANDW.IL MOLISE": "2734.840",
             "PALETA TERMOLI": "3699.040"
         },
         "Abuelo Marcelino": {
@@ -306,8 +307,8 @@
         },
         "Campo Grande": {
             "JAMON COCIDO CAMPO GRANDE": "4600.010",
-            "PALETA CAMPO GRANDE": "4024.990",
-            "PALETA P/EMP.CAMPO GRANDE": "2012.500"
+            "PALETA CAMPO GRANDE": "4269.990",
+            "PALETA P/EMP.CAMPO GRANDE": "2135.000"
         },
         "Inalpa": {
             "ARVEJA X 300 INALPA": "428.740",
@@ -342,37 +343,94 @@
         }
     },
     "cambios": {
-        "Emezeta": {
-            "PANCETA AHUM C/C EMEZETA": "10792.210"
+        "Peipo": {
+            "PAPAS PAY PEIPO": "5210.930",
+            "PALITOS SALADOS PEIPO": "4028.030",
+            "MANI SALADO PEIPO": "3975.070",
+            "MANI C/CASCARA PEIPO": "5112.780",
+            "BOLITAS CROCANTES PEIPO": "1822.070",
+            "PIZZA ROLLS PEIPO": "1518.110",
+            "MAIZ INFLADO PEIPO": "2868.340"
         },
-        "San Cayetano": {
-            "FRASCO NEGRA X1KG 0": "8395.660"
+        "Productos W": {
+            "CRUDO W": "11193.000",
+            "BONDIOLA W": "11439.000",
+            "PALETA P/EMP.W": "2034.910"
+        },
+        "Dulcor": {
+            "DULCE DE MEMBRILLO": "8880.010",
+            "DULCE DE BATATA": "7263.800",
+            "DULCE DE BATATA C/CHOC": "7263.800"
+        },
+        "Aliger": {
+            "SARDO ALIGER": "7500.000",
+            "PATEGRAS ALIGER": "8064.000"
+        },
+        "El Artesano": {
+            "CRUDO EL ARTESANO": "16170.000"
+        },
+        "El Bocarte": {
+            "ANCHOAS 60 X 3": "28980.000",
+            "ANCHOAS 18 X 3": "9879.410",
+            "ANCHOAS 30 X 3": "15120.000",
+            "ANCHOAS X1.5KG": "34398.000"
+        },
+        "Halcon": {
+            "GRASA VACUNA": "1070.850",
+            "GRASA DE CERDO": "1098.000"
+        },
+        "Aromas y Sabores": {
+            "AJI MOLIDO X25GR": "305.760",
+            "COMINO X25GR": "288.950",
+            "CHIMICHURRI X25GR": "259.170",
+            "NUEZ MOSCADA MOLIDA X25GR": "773.800",
+            "NUEZ MOSCADA X2 UN.": "812.140",
+            "OREGANO X50GR": "338.700",
+            "PIMENTON X25GR": "329.290",
+            "PIMIENTA BLANCA X25GR": "797.090",
+            "PIM NEGRA EN GRANO X25GR": "771.980",
+            "PIM NEGRA MOLIDA X25GR": "534.120",
+            "PROVENZAL X25GR": "376.560",
+            "SALSA BLANCA X25GR": "257.030",
+            "ESPECIAS SURTIDAS X25GR": "236.130",
+            "POLVO PARA HORNEAR X50GR": "444.510"
         },
         "Calchaqui": {
-            "MORTADELA BOCHA CALCHAQUI": "6368.460",
-            "MORTADELA CAÑON CALCHAQUI": "5558.980",
-            "BONDIOLA CALCHAQUI": "19548.310",
+            "BONDIOLA CALCHAQUI": "19716.840",
             "PANCETA AHUMADA CALCHAQUI": "13696.260",
-            "MORTADELA GIG. CALCHAQUI": "6834.560"
+            "MORTADELA GIG. CALCHAQUI": "6834.560",
+            "MORTADELA C/PIST CALCHAQUI": "8629.330"
         },
         "Bocatti": {
             "JAMON COCIDO BOCATTI": "15830.880"
         },
         "Paladini": {
-            "MORTADELA X4.5KG PALADINI": "6055.200",
-            "MORTADELA FAM. PALADINI": "1995.240",
-            "MORTADELA X 2.5KG PALADINI": "7318.810",
-            "VIENA X 6 FELA": "825.460",
-            "LEBERWURST X 250 GRS.": "1164.790",
-            "JAMON COCIDO PALADINI X 6 KG": "8904.000"
+            "MORTADELA FAM. PALADINI": "2029.940"
         },
         "Il Molise": {
-            "PALETA SANDW.IL MOLISE": "2564.450"
+            "PALETA SANDW.IL MOLISE": "2734.840",
+            "BASTON IL MOLISE": "8980.410"
+        },
+        "Campo Grande": {
+            "PALETA CAMPO GRANDE": "4269.990",
+            "PALETA P/EMP.CAMPO GRANDE": "2135.000"
         },
         "OTRAS COMPRAS": {
-            "QUESO DE CERDO EL TRIUNFO": "7135.130",
-            "PALETA PALADINI X6KG": "8904.000"
+            "BOLSAS 80 X 110": "1931.080",
+            "AZUCAR COMUN X 1 KG": "826.430",
+            "CALDO VERDURA KNORR X 2": "418.590",
+            "YERBA MATE TARAGUI X 500": "1816.830",
+            "YERBA CBSE TRADICIONAL X 500": "1718.600",
+            "GALLETITA ANILLO LIMON X400": "1101.210",
+            "GALLETITA ANILLO VAINILLA X400": "1101.210",
+            "YERBA TARAGÜI X 500 SIN PALO": "1744.160",
+            "MAYONESA NATURA X 125": "591.820",
+            "LIMPIADOR POETT": "1369.240",
+            "FUYI": "3934.690",
+            "ESCOBILLON MAPUCHE 4H EC": "2037.790",
+            "RIGATTIS SOL PAMPEANO": "798.300",
+            "ACEITE MOLINO CAÑUELAS": "2073.020"
         }
     },
-    "fecha": "23-01-2025 07:43:50"
+    "fecha": "27-01-2025 08:20:32"
 }
