@@ -297,10 +297,10 @@
             "SARDO ESTACIONADO ABUELO": "9324.010"
         },
         "Don Luis": {
-            "LONGA CALABRESA DON LUIS": "8723.000",
-            "PECHERA DON LUIS": "8723.000",
+            "LONGA CALABRESA DON LUIS": "9150.010",
+            "PECHERA DON LUIS": "9150.010",
             "SALAME COLORADO DON LUIS": "8723.000",
-            "SALAME DON LUIS": "8967.000"
+            "SALAME DON LUIS": "9516.000"
         },
         "Alco": {
             "DURAZNO X 820": "1332.340",
@@ -367,6 +367,9 @@
         "Rodriguez Acacio": {
             "CIRUELAS SECAS X 250 C/C": "702.100"
         },
+        "Aliger": {
+            "SARDO ALIGER": "7500.000"
+        },
         "El Bocarte": {
             "ANCHOAS X90GR": "3380.000",
             "ANCHOAS 60 X 3": "29988.000",
@@ -396,6 +399,11 @@
         "Abuelo Marcelino": {
             "CREMOSO ABUELO": "5183.640"
         },
+        "Don Luis": {
+            "PECHERA DON LUIS": "9150.010",
+            "LONGA CALABRESA DON LUIS": "9150.010",
+            "SALAME DON LUIS": "9516.000"
+        },
         "La Quesera": {
             "BARRA CHEDDAR LA QUESERA": "12282.230"
         },
@@ -407,13 +415,18 @@
             "MIX P/ENSALADA X 1": "5433.750"
         },
         "OTRAS COMPRAS": {
+            "CHOCOLINO X 180": "1437.700",
             "FIDEO TALLARIN SOL PAMPEANO X": "798.330",
             "FIDEO TIRABUZON SOL PAMPEANO X": "798.330",
             "FIDEO CELENTANO SOL PAMP": "798.330",
             "FIDEO SPAGHETTI SOL PAMP": "798.330",
+            "VAINILLA POZO": "711.370",
+            "YERBA TARAGÜI X 500 SIN PALO": "2821.440",
+            "ESPONJA ACERO": "568.740",
             "INSECTICIDA FUYI": "3934.690",
-            "FIDEO RIGATTIS SOL PAMP": "798.300"
+            "FIDEO RIGATTIS SOL PAMP": "798.300",
+            "YERBA MAÑANITA": "1880.990"
         }
     },
-    "fecha": "06-02-2025 08:18:47"
+    "fecha": "07-02-2025 12:00:11"
 }
