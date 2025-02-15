@@ -63,9 +63,9 @@
             "PANCETA TIERNIZADA EMEZETA": "5551.140"
         },
         "Productos W": {
-            "BONDIOLA W": "11439.000",
-            "CRUDO W": "11193.000",
-            "PALETA P/EMP.W": "2034.910"
+            "BONDIOLA W": "12607.500",
+            "CRUDO W": "12361.510",
+            "PALETA P/EMP.W": "2094.110"
         },
         "Alloa Vanguard": {
             "QUESO AZUL 1/2 ALLOA": "9550.160",
@@ -76,15 +76,15 @@
             "FIAMBRIN SPALEN": "6990.050"
         },
         "Dulcor": {
-            "BATATA C/GUINDAS": "15449.240",
-            "BATATA LATA C/CHOC.": "9521.710",
-            "BATATA LATA VLLA.": "9282.500",
+            "BATATA C/GUINDAS": "16210.180",
+            "BATATA LATA C/CHOC.": "9997.790",
+            "BATATA LATA VLLA.": "9998.150",
             "HILERET CLASICO X 500": "7989.590",
             "MEMBRILLO LATA": "13057.910",
             "MERMELADA CORMILLOT DURAZNO": "1374.560",
             "POSTRE DCE.LECHE C/CHOC.": "18220.770",
             "DULCE DE BATATA": "7626.990",
-            "DULCE DE BATATA C/CHOC": "7263.800",
+            "DULCE DE BATATA C/CHOC": "7626.990",
             "DULCE DE MEMBRILLO": "8880.010"
         },
         "San Cayetano": {
@@ -186,16 +186,16 @@
             "SALSA BLANCA X25GR": "257.030"
         },
         "Calchaqui": {
-            "MORTADELA PICCOLA CALCHAQUI": "1856.310",
+            "MORTADELA PICCOLA CALCHAQUI": "1930.480",
             "BONDIOLA CALCHAQUI": "19716.840",
-            "MORTADELA BOCHA CALCHAQUI": "6064.680",
-            "MORTADELA C/PIST CALCHAQUI": "9060.370",
-            "MORTADELA CAÑON CALCHAQUI": "5293.530",
+            "MORTADELA BOCHA CALCHAQUI": "6368.460",
+            "MORTADELA C/PIST CALCHAQUI": "9148.540",
+            "MORTADELA CAÑON CALCHAQUI": "5557.800",
             "MORTADELA GIG. CALCHAQUI": "6834.560",
-            "PANCETA AHUMADA CALCHAQUI": "12557.150"
+            "PANCETA AHUMADA CALCHAQUI": "13813.080"
         },
         "Bocatti": {
-            "JAMON COCIDO BOCATTI": "15222.550"
+            "JAMON COCIDO BOCATTI": "15830.880"
         },
         "Hellmans": {
             "KETCHUP MONOP.HELLMAN´S": "15244.230",
@@ -236,7 +236,7 @@
         "Chiro": {
             "ACEITE DE OLIVA X 500": "8196.150",
             "RELLENA GOURMET X 200": "4324.320",
-            "SACHET X 100 CHIRO": "589.880"
+            "SACHET X 100 CHIRO": "636.460"
         },
         "Lo tauro": {
             "SACHET X 100 LO TAURO": "0.000",
@@ -251,7 +251,7 @@
         },
         "Finca de Santiago": {
             "MORRON X 800": "4932.410",
-            "NUEZ PELADA MARIPOSA": "11845.010",
+            "NUEZ PELADA MARIPOSA": "15445.650",
             "TOMATE POUCH": "1959.390"
         },
         "Amanecer": {
@@ -267,7 +267,7 @@
             "PASAS DE UVA CON CHOCOLATE X 1": "1150.440"
         },
         "Sierras": {
-            "QUESO DE CERDO B.SIERRAS": "3252.480"
+            "QUESO DE CERDO B.SIERRAS": "3000.000"
         },
         "Cabrales": {
             "CAFE EN SAQ. CABRALES X18": "3029.280",
@@ -352,81 +352,69 @@
             "MIX FRUTOS SECOS X 10": "16583.000",
             "MIX FUERTE X 10": "7406.000",
             "MIX P/ENSALADA X 1": "5433.750"
+        },
+        "Buenas Sierras": {
+            "BONDIOLA BUENAS SIERRAS": "10800.000",
+            "PALETA DE CERDO BUENAS SIERRAS": "4750.010",
+            "PALETA SANDWICHERA 226": "2499.990",
+            "PANCETA AHUMADA BUENAS SIERRAS": "8320.010",
+            "PATA DE CERDO BUENAS SIERRAS": "5375.000"
         }
     },
     "cambios": {
-        "Emezeta": {
-            "PERNIL MINI MZ": "5723.700"
-        },
-        "Spalen": {
-            "BARRA CHEDDAR SPALEN": "8006.360"
+        "Productos W": {
+            "CRUDO W": "12361.510",
+            "BONDIOLA W": "12607.500",
+            "PALETA P/EMP.W": "2094.110"
         },
         "Dulcor": {
-            "DULCE DE BATATA": "7626.990"
-        },
-        "Rodriguez Acacio": {
-            "CIRUELAS SECAS X 250 C/C": "702.100"
+            "DULCE DE BATATA": "7626.990",
+            "DULCE DE BATATA C/CHOC": "7626.990",
+            "POSTRE DCE.LECHE C/CHOC.": "18220.770",
+            "BATATA LATA VLLA.": "9998.150",
+            "BATATA LATA C/CHOC.": "9997.790",
+            "MEMBRILLO LATA": "13057.910",
+            "BATATA C/GUINDAS": "16210.180"
         },
         "Aliger": {
             "SARDO ALIGER": "7500.000"
         },
-        "El Bocarte": {
-            "ANCHOAS X90GR": "3380.000",
-            "ANCHOAS 60 X 3": "29988.000",
-            "ANCHOAS 18 X 3": "11434.500",
-            "ANCHOAS 30 X 3": "15750.000",
-            "ANCHOAS X1.5KG": "35280.010"
-        },
-        "Halcon": {
-            "GRASA VACUNA": "1100.450",
-            "GRASA DE CERDO": "1161.440"
-        },
         "Calchaqui": {
-            "MORTADELA BOCHA CALCHAQUI": "6064.680",
-            "MORTADELA CAÑON CALCHAQUI": "5293.530",
-            "PANCETA AHUMADA CALCHAQUI": "12557.150",
-            "MORTADELA PICCOLA CALCHAQUI": "1856.310"
+            "MORTADELA BOCHA CALCHAQUI": "6368.460",
+            "MORTADELA CAÑON CALCHAQUI": "5557.800",
+            "PANCETA AHUMADA CALCHAQUI": "13813.080",
+            "MORTADELA GIG. CALCHAQUI": "6834.560",
+            "MORTADELA C/PIST CALCHAQUI": "9148.540",
+            "MORTADELA PICCOLA CALCHAQUI": "1930.480"
         },
         "Bocatti": {
-            "JAMON COCIDO BOCATTI": "15222.550"
+            "JAMON COCIDO BOCATTI": "15830.880"
         },
-        "Hellmans": {
-            "MAYONESA X2.9 HELLMANS": "10892.490"
+        "Chiro": {
+            "SACHET X 100 CHIRO": "636.460"
         },
-        "Platamar": {
-            "ANCHOAS 40X3": "16380.000"
+        "Finca de Santiago": {
+            "NUEZ PELADA MARIPOSA": "15445.650"
         },
-        "Abuelo Marcelino": {
-            "CREMOSO ABUELO": "5183.640"
+        "Sierras": {
+            "QUESO DE CERDO B.SIERRAS": "3000.000"
         },
         "Don Luis": {
             "PECHERA DON LUIS": "9150.010",
             "LONGA CALABRESA DON LUIS": "9150.010",
             "SALAME DON LUIS": "9516.000"
         },
-        "La Quesera": {
-            "BARRA CHEDDAR LA QUESERA": "12282.230"
-        },
-        "Mix Dietetica": {
-            "MIX CRIOLLO X 10": "6440.010",
-            "MIX FRUTOS SECOS X 10": "16583.000",
-            "MIX FUERTE X 10": "7406.000",
-            "MIX EUROPEO X 10": "8436.400",
-            "MIX P/ENSALADA X 1": "5433.750"
+        "Buenas Sierras": {
+            "PATA DE CERDO BUENAS SIERRAS": "5375.000",
+            "PALETA SANDWICHERA 226": "2499.990",
+            "PALETA DE CERDO BUENAS SIERRAS": "4750.010",
+            "PANCETA AHUMADA BUENAS SIERRAS": "8320.010",
+            "BONDIOLA BUENAS SIERRAS": "10800.000"
         },
         "OTRAS COMPRAS": {
-            "CHOCOLINO X 180": "1437.700",
-            "FIDEO TALLARIN SOL PAMPEANO X": "798.330",
-            "FIDEO TIRABUZON SOL PAMPEANO X": "798.330",
-            "FIDEO CELENTANO SOL PAMP": "798.330",
-            "FIDEO SPAGHETTI SOL PAMP": "798.330",
-            "VAINILLA POZO": "711.370",
-            "YERBA TARAGÜI X 500 SIN PALO": "2821.440",
-            "ESPONJA ACERO": "568.740",
-            "INSECTICIDA FUYI": "3934.690",
-            "FIDEO RIGATTIS SOL PAMP": "798.300",
-            "YERBA MAÑANITA": "1880.990"
+            "SACHET DESC.X 100 CHIRO": "821.540",
+            "SACHET RELLENA CHIRO": "1005.560"
         }
     },
-    "fecha": "07-02-2025 12:00:11"
+    "fecha": "15-02-2025 15:25:16"
 }
