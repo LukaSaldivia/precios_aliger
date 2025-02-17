@@ -16,34 +16,36 @@
             "TUBITOS PEIPO": "2060.970"
         },
         "Quesada": {
-            "BARRA SABORIZADA QUESADA": "8930.010",
-            "CREMOSO 1/2 QUESADA": "5396.870",
+            "BARRA SABORIZADA QUESADA": "9563.560",
+            "CREMOSO 1/2 QUESADA": "5777.350",
             "MANTECA X 2.5 KG": "19612.560",
-            "MUZZA BARRA QUESADA": "6902.950",
-            "PARMESANO MITAD": "11868.140",
+            "MUZZA BARRA QUESADA": "7383.860",
+            "PARMESANO MITAD": "12353.340",
             "QUESO AZUL 1/2 EMPERADOR": "10442.200",
-            "REGIANO MITADES": "11045.840",
-            "SABORIZADO QUESADA X 700": "9995.990",
-            "SALSA CHEDDAR SACHET": "3706.990",
-            "PARMESANO QUESADA": "14057.490",
-            "REGGIANO QUESADA": "10865.410",
-            "ROMANITO QUESADA": "10164.750",
-            "SARDO QUESADA": "9788.880",
-            "BARRA QUESADA": "6898.780",
-            "CREMOSO QUESADA": "5306.750",
-            "CRIOLLO QUESADA": "8436.970",
-            "FONTINA QUESADA": "8812.500",
-            "GOUDA QUESADA": "7280.320",
-            "MUZZA CILINDRO QUESADA": "5545.320",
-            "PATEGRAS QUESADA": "8436.970",
-            "POR SALUT QUESADA": "5920.690",
-            "POR SALUT S/S QUESADA": "6160.910",
+            "REGIANO MITADES": "11818.010",
+            "SABORIZADO QUESADA X 700": "9576.740",
+            "SALSA CHEDDAR SACHET": "3615.090",
+            "PARMESANO QUESADA": "12306.970",
+            "REGGIANO QUESADA": "11626.490",
+            "ROMANITO QUESADA": "10875.430",
+            "SARDO QUESADA": "10474.860",
+            "BARRA QUESADA": "7257.210",
+            "CREMOSO QUESADA": "5677.210",
+            "CRIOLLO QUESADA": "9027.800",
+            "FONTINA QUESADA": "9428.370",
+            "GOUDA QUESADA": "7791.050",
+            "MUZZA CILINDRO QUESADA": "5935.690",
+            "PATEGRAS QUESADA": "9027.800",
+            "POR SALUT QUESADA": "6336.070",
+            "POR SALUT S/S QUESADA": "6591.330",
             "QUESO AZUL EMPERADOR": "0.000",
-            "CREMA QUESADA": "5404.090"
+            "CREMA QUESADA": "6033.510"
         },
         "Emezeta": {
+            "BARRIL MZ": "5602.600",
             "JAMON BOLON 3783": "5045.010",
             "LOMO AHUMADO": "8531.090",
+            "MILAN CORTO MZ": "7279.280",
             "MILANCITO EMEZETA": "8300.250",
             "PALETA CUADRADA MZ": "5201.230",
             "PERNIL MINI MZ": "5723.700",
@@ -142,8 +144,7 @@
             "ANCHOAS 18 X 3": "11434.500",
             "ANCHOAS 30 X 3": "15750.000",
             "ANCHOAS 60 X 3": "29988.000",
-            "ANCHOAS X1.5KG": "35280.010",
-            "ANCHOAS X90GR": "3380.000"
+            "ANCHOAS X1.5KG": "35280.010"
         },
         "Halcon": {
             "GRASA DE CERDO": "1161.440",
@@ -203,11 +204,14 @@
             "MAYONESA X2.9 HELLMANS": "10892.490"
         },
         "Paladini": {
+            "BONDIOLA PALADINI": "17460.810",
             "JAMON COCIDO PALADINI X 6 KG": "8904.000",
             "LEBERWURST X 250 GRS.": "1164.790",
-            "VIENA X 6 FELA": "825.460",
+            "MILAN FELA": "8538.600",
+            "MILAN TIVOLI": "7170.610",
+            "VIENA X 6 FELA": "869.120",
             "VIENA X 6 PALDINI": "1254.400",
-            "MORTADELA FAM. PALADINI": "2029.940",
+            "MORTADELA FAM. PALADINI": "2059.670",
             "MORTADELA X 2.5KG PALADINI": "7318.810",
             "MORTADELA X4.5KG PALADINI": "6055.200"
         },
@@ -228,10 +232,10 @@
             "MANI REPELADO CRIS JOR": "3640.010"
         },
         "Fepa": {
-            "MATAMBRE EL CRIOLLITO": "10327.510",
-            "MATAMBRE FEPA": "7674.490",
-            "MATAMBRE PREMIUN EL CRIOLLITO": "11801.250",
-            "POLLO FEPA": "7199.280"
+            "MATAMBRE EL CRIOLLITO": "10901.250",
+            "MATAMBRE FEPA": "8054.640",
+            "MATAMBRE PREMIUN EL CRIOLLITO": "12543.760",
+            "POLLO FEPA": "7686.370"
         },
         "Chiro": {
             "ACEITE DE OLIVA X 500": "8196.150",
@@ -274,13 +278,14 @@
             "CAFE EN SAQ. LA PLANTA": "2345.460"
         },
         "La Primera": {
-            "MANTECA X 100 PRIMER PREMIO": "982.520",
-            "MANTECA X 2.5 KG.PRIMER PREMIO": "24351.250",
-            "MANTECA X 200 PRIMER PREMIO": "1965.040"
+            "MANTECA X 100 PRIMER PREMIO": "1024.630",
+            "MANTECA X 2.5 KG.PRIMER PREMIO": "25047.000",
+            "MANTECA X 200 PRIMER PREMIO": "2049.260"
         },
         "Platamar": {
             "ANCHOAS 40X3": "16380.000",
-            "ANCHOAS X 750 GRS.": "15125.000"
+            "ANCHOAS X 750 GRS.": "15125.000",
+            "ANCHOAS X90GR": "3380.000"
         },
         "Cavade": {
             "PAPEL HIGIENICO CAVADE X 4X 30": "946.120"
@@ -362,47 +367,56 @@
         }
     },
     "cambios": {
-        "Productos W": {
-            "CRUDO W": "12361.510",
-            "BONDIOLA W": "12607.500",
-            "PALETA P/EMP.W": "2094.110"
+        "Quesada": {
+            "BARRA QUESADA": "7257.210",
+            "CREMOSO QUESADA": "5677.210",
+            "CRIOLLO QUESADA": "9027.800",
+            "FONTINA QUESADA": "9428.370",
+            "GOUDA QUESADA": "7791.050",
+            "MUZZA CILINDRO QUESADA": "5935.690",
+            "PATEGRAS QUESADA": "9027.800",
+            "POR SALUT QUESADA": "6336.070",
+            "POR SALUT S/S QUESADA": "6591.330",
+            "REGGIANO QUESADA": "11626.490",
+            "ROMANITO QUESADA": "10875.430",
+            "SARDO QUESADA": "10474.860",
+            "CREMA QUESADA": "6033.510",
+            "PARMESANO QUESADA": "12306.970",
+            "MUZZA BARRA QUESADA": "7383.860",
+            "CREMOSO 1/2 QUESADA": "5777.350",
+            "BARRA SABORIZADA QUESADA": "9563.560",
+            "REGIANO MITADES": "11818.010",
+            "PARMESANO MITAD": "12353.340",
+            "SALSA CHEDDAR SACHET": "3615.090",
+            "SABORIZADO QUESADA X 700": "9576.740"
         },
-        "Dulcor": {
-            "DULCE DE BATATA": "7626.990",
-            "DULCE DE BATATA C/CHOC": "7626.990",
-            "POSTRE DCE.LECHE C/CHOC.": "18220.770",
-            "BATATA LATA VLLA.": "9998.150",
-            "BATATA LATA C/CHOC.": "9997.790",
-            "MEMBRILLO LATA": "13057.910",
-            "BATATA C/GUINDAS": "16210.180"
+        "Emezeta": {
+            "MILAN CORTO MZ": "7279.280",
+            "BARRIL MZ": "5602.600"
         },
-        "Aliger": {
-            "SARDO ALIGER": "7500.000"
+        "Paladini": {
+            "MORTADELA FAM. PALADINI": "2059.670",
+            "VIENA X 6 FELA": "869.120",
+            "MILAN TIVOLI": "7170.610",
+            "MILAN FELA": "8538.600",
+            "BONDIOLA PALADINI": "17460.810"
         },
-        "Calchaqui": {
-            "MORTADELA BOCHA CALCHAQUI": "6368.460",
-            "MORTADELA CAÑON CALCHAQUI": "5557.800",
-            "PANCETA AHUMADA CALCHAQUI": "13813.080",
-            "MORTADELA GIG. CALCHAQUI": "6834.560",
-            "MORTADELA C/PIST CALCHAQUI": "9148.540",
-            "MORTADELA PICCOLA CALCHAQUI": "1930.480"
-        },
-        "Bocatti": {
-            "JAMON COCIDO BOCATTI": "15830.880"
-        },
-        "Chiro": {
-            "SACHET X 100 CHIRO": "636.460"
-        },
-        "Finca de Santiago": {
-            "NUEZ PELADA MARIPOSA": "15445.650"
+        "Fepa": {
+            "MATAMBRE FEPA": "8054.640",
+            "POLLO FEPA": "7686.370",
+            "MATAMBRE PREMIUN EL CRIOLLITO": "12543.760",
+            "MATAMBRE EL CRIOLLITO": "10901.250"
         },
         "Sierras": {
             "QUESO DE CERDO B.SIERRAS": "3000.000"
         },
-        "Don Luis": {
-            "PECHERA DON LUIS": "9150.010",
-            "LONGA CALABRESA DON LUIS": "9150.010",
-            "SALAME DON LUIS": "9516.000"
+        "La Primera": {
+            "MANTECA X 100 PRIMER PREMIO": "1024.630",
+            "MANTECA X 200 PRIMER PREMIO": "2049.260",
+            "MANTECA X 2.5 KG.PRIMER PREMIO": "25047.000"
+        },
+        "Platamar": {
+            "ANCHOAS X90GR": "3380.000"
         },
         "Buenas Sierras": {
             "PATA DE CERDO BUENAS SIERRAS": "5375.000",
@@ -412,9 +426,8 @@
             "BONDIOLA BUENAS SIERRAS": "10800.000"
         },
         "OTRAS COMPRAS": {
-            "SACHET DESC.X 100 CHIRO": "821.540",
-            "SACHET RELLENA CHIRO": "1005.560"
+            "PALETA PALADINI X6KG": "8904.000"
         }
     },
-    "fecha": "15-02-2025 15:25:16"
+    "fecha": "17-02-2025 15:40:03"
 }
