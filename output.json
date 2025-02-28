@@ -48,6 +48,7 @@
             "MILAN CORTO MZ": "7279.280",
             "MILANCITO EMEZETA": "8300.250",
             "PALETA CUADRADA MZ": "5201.230",
+            "PALETA MINI S/GR.MZ": "5205.900",
             "PERNIL MINI MZ": "5723.700",
             "JAMON NATIVO EMEZETA": "8277.860",
             "PALETA MINI EMEZETA": "5205.900",
@@ -70,7 +71,7 @@
             "PALETA P/EMP.W": "2094.110"
         },
         "Alloa Vanguard": {
-            "QUESO AZUL 1/2 ALLOA": "9550.160",
+            "QUESO AZUL 1/2 ALLOA": "10313.880",
             "QUESO AZUL ALLOA": "9550.160"
         },
         "Spalen": {
@@ -148,8 +149,8 @@
             "ANCHOAS X1.5KG": "35280.010"
         },
         "Halcon": {
-            "GRASA DE CERDO": "1161.440",
-            "GRASA VACUNA": "1100.450"
+            "GRASA DE CERDO": "1320.040",
+            "GRASA VACUNA": "1256.600"
         },
         "Aromas y Sabores": {
             "ADOBO P/PIZZAS X 1 KG": "4654.280",
@@ -224,12 +225,12 @@
             "CREMOSO PUNTA DEL AGUA": "6300.000"
         },
         "Cris Jor": {
-            "MANI CROCANTE CLASICO": "3765.010",
-            "MANI CROCANTE SABOR JAMON": "3765.010",
-            "MANI CROCANTE SABOR PIZZA": "3765.010",
-            "MANI CROCANTE SABOR PROVENZAL": "3765.010",
-            "MANI CROCANTE SABOR QUESO": "3765.010",
-            "MANI CROCANTE SABOR SALAME": "3765.010",
+            "MANI CROCANTE CLASICO": "3920.000",
+            "MANI CROCANTE SABOR JAMON": "3920.000",
+            "MANI CROCANTE SABOR PIZZA": "3920.000",
+            "MANI CROCANTE SABOR PROVENZAL": "3920.000",
+            "MANI CROCANTE SABOR QUESO": "3920.000",
+            "MANI CROCANTE SABOR SALAME": "3920.000",
             "MANI REPELADO CRIS JOR": "3640.010"
         },
         "Fepa": {
@@ -319,8 +320,8 @@
         },
         "Inalpa": {
             "ARVEJA X 300 INALPA": "428.740",
-            "CHOCLO X 300": "1045.920",
-            "LENTEJAS INALPA X 300": "891.870"
+            "CHOCLO X 300": "968.450",
+            "LENTEJAS INALPA X 300": "664.610"
         },
         "Marvavic": {
             "VINAGRE BLANCO X 1 L.": "985.760",
@@ -366,117 +367,43 @@
         }
     },
     "cambios": {
-        "Quesada": {
-            "BARRA QUESADA": "7257.210",
-            "CREMOSO QUESADA": "5677.210",
-            "CRIOLLO QUESADA": "9027.800",
-            "FONTINA QUESADA": "9428.370",
-            "GOUDA QUESADA": "7791.050",
-            "MUZZA CILINDRO QUESADA": "5935.690",
-            "PATEGRAS QUESADA": "9027.800",
-            "POR SALUT QUESADA": "6336.070",
-            "POR SALUT S/S QUESADA": "6591.330",
-            "REGGIANO QUESADA": "11626.490",
-            "ROMANITO QUESADA": "10875.430",
-            "SARDO QUESADA": "10474.860",
-            "CREMA QUESADA": "6033.510",
-            "PARMESANO QUESADA": "12306.970",
-            "MUZZA BARRA QUESADA": "7383.860",
-            "CREMOSO 1/2 QUESADA": "5777.350",
-            "BARRA SABORIZADA QUESADA": "9563.560",
-            "REGIANO MITADES": "11818.010",
-            "PARMESANO MITAD": "12353.340",
-            "SALSA CHEDDAR SACHET": "3615.090",
-            "SABORIZADO QUESADA X 700": "9576.740"
-        },
         "Emezeta": {
-            "MILAN CORTO MZ": "7279.280",
-            "BARRIL MZ": "5602.600"
+            "PALETA MINI S/GR.MZ": "5205.900"
         },
-        "Dulcor": {
-            "MERMELADA POTE DURAZNO": "898.580"
+        "Alloa Vanguard": {
+            "QUESO AZUL 1/2 ALLOA": "10313.880"
         },
         "Aliger": {
             "PATEGRAS ALIGER": "8320.000",
             "BARRA ALIGER": "6480.000"
         },
-        "El Bocarte": {
-            "ANCHOAS 30 X 3": "15750.000",
-            "ANCHOAS X1.5KG": "35280.010"
+        "Halcon": {
+            "GRASA VACUNA": "1256.600",
+            "GRASA DE CERDO": "1320.040"
         },
-        "Aromas y Sabores": {
-            "OREGANO X25GR": "338.700",
-            "COCO RALLADO X1KG AYS": "6610.500",
-            "PIM BLANCA MOLIDA X 1 KG": "11874.530",
-            "CANELA MOLIDA X25": "471.900"
+        "Cris Jor": {
+            "MANI CROCANTE CLASICO": "3920.000",
+            "MANI CROCANTE SABOR JAMON": "3920.000",
+            "MANI CROCANTE SABOR SALAME": "3920.000",
+            "MANI CROCANTE SABOR PIZZA": "3920.000",
+            "MANI CROCANTE SABOR QUESO": "3920.000",
+            "MANI CROCANTE SABOR PROVENZAL": "3920.000"
         },
-        "Hellmans": {
-            "MAYONESA X2.9 HELLMANS": "12126.800"
-        },
-        "Paladini": {
-            "MORTADELA X4.5KG PALADINI": "6368.400",
-            "MORTADELA FAM. PALADINI": "2059.670",
-            "MORTADELA X 2.5KG PALADINI": "7773.670",
-            "VIENA X 6 FELA": "869.120",
-            "LEBERWURST X 250 GRS.": "1232.000",
-            "JAMON COCIDO PALADINI X 6 KG": "8904.000",
-            "MILAN TIVOLI": "7170.610",
-            "MILAN FELA": "8538.600",
-            "BONDIOLA PALADINI": "17460.810"
-        },
-        "Fepa": {
-            "MATAMBRE FEPA": "8054.640",
-            "POLLO FEPA": "7686.370",
-            "MATAMBRE PREMIUN EL CRIOLLITO": "12543.760",
-            "MATAMBRE EL CRIOLLITO": "10901.250"
-        },
-        "La Primera": {
-            "MANTECA X 100 PRIMER PREMIO": "1024.630",
-            "MANTECA X 200 PRIMER PREMIO": "2049.260",
-            "MANTECA X 2.5 KG.PRIMER PREMIO": "25047.000"
-        },
-        "Platamar": {
-            "ANCHOAS X90GR": "3380.000"
-        },
-        "Abuelo Marcelino": {
-            "CREMOSO ABUELO": "5161.200",
-            "SARDO ESTACIONADO ABUELO": "10235.000",
-            "GOUDA ABUELO": "8850.000"
-        },
-        "Campo Grande": {
-            "JAMON COCIDO CAMPO GRANDE": "5368.000",
-            "PALETA CAMPO GRANDE": "4392.010",
-            "PALETA P/EMP.CAMPO GRANDE": "2135.000"
-        },
-        "Marvavic": {
-            "VINAGRE BLANCO X 1 L.": "985.760",
-            "VINAGRE DE ALCOHOL X 500": "672.220"
+        "Inalpa": {
+            "LENTEJAS INALPA X 300": "664.610",
+            "CHOCLO X 300": "968.450"
         },
         "La Quesera": {
             "BARRA CHEDDAR LA QUESERA": "12777.200",
             "GRUYERE CUÑA LA QUESERA": "19653.110"
         },
         "Buenas Sierras": {
-            "QUESO DE CERDO B.SIERRAS": "3000.000",
-            "PANCETA AHUMADA BUENAS SIERRAS": "8320.010"
+            "QUESO DE CERDO B.SIERRAS": "3000.000"
         },
         "OTRAS COMPRAS": {
-            "BOLSAS 45 X 60": "446.490",
-            "BOLSAS 80 X 110": "2046.410",
-            "JUGO DE LIMON MINERVA X 250": "1063.400",
-            "NESQUIK X 180": "1860.380",
-            "REJILLA LINEA 10 BAR ESP": "617.650",
-            "CHOCOLINO X 180": "1557.510",
-            "BOLSAS 60X90": "1023.210",
-            "CILO ANILLO LIMON X400": "1163.830",
-            "CILO ANILLO VAINILLA X400": "1163.830",
-            "PALETA PALADINI X6KG": "8904.000",
-            "TRAPO GRIS B-AIRE/JULIET": "744.150",
-            "TOCADOR PLUSBELLE": "688.350",
-            "NATURA SALSA GOLF X125": "896.710",
-            "JUGO BAGGIO X250": "478.120",
-            "LENTEJAS LATA MAROLIO X300": "1388.970"
+            "LECHE ENTERA VERONICA LV": "1748.000",
+            "TRAPO DE PISO": "1061.240"
         }
     },
-    "fecha": "21-02-2025 13:04:43"
+    "fecha": "28-02-2025 12:10:33"
 }
