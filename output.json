@@ -1,7 +1,7 @@
 {
     "grupos": {
         "Peipo": {
-            "MANI JAPONES X 700 PEIPO": "3122.220",
+            "MANI JAPONES X 700 PEIPO": "3148.240",
             "PAPA CHEDDAR PEIPO X 330": "4453.360",
             "PAPA COMUN X500": "5246.720",
             "PAPAS CORTE AMERICANO": "5246.720",
@@ -43,6 +43,7 @@
         },
         "Emezeta": {
             "BARRIL MZ": "5602.600",
+            "BONDIOLA AL VACIO 1/2 MZ": "14216.610",
             "JAMON BOLON 3783": "5045.010",
             "LOMO AHUMADO": "8531.090",
             "MILAN CORTO MZ": "7279.280",
@@ -122,7 +123,6 @@
             "FRASCO X1KG 00": "8978.840"
         },
         "Gallardo": {
-            "LATA DE TOMATE X8KG": "9416.400",
             "TOMATE BOTELLA GALLARDO": "1294.450"
         },
         "Rodriguez Acacio": {
@@ -212,18 +212,19 @@
             "LEBERWURST X 250 GRS.": "1232.000",
             "MILAN FELA": "8738.100",
             "MILAN TIVOLI": "7170.610",
+            "PALETA PALADINI X6KG": "8904.000",
             "VIENA X 6 FELA": "869.120",
             "VIENA X 6 PALDINI": "1421.280",
             "MORTADELA FAM. PALADINI": "2059.670",
             "MORTADELA X 2.5KG PALADINI": "7773.670",
-            "MORTADELA X4.5KG PALADINI": "6368.400"
+            "MORTADELA X4.5KG PALADINI": "6577.200"
         },
         "Las Piaras": {
             "PALETA PIARA": "0.000"
         },
         "Punta del agua": {
             "BARRA PUNTA DEL AGUA": "7139.990",
-            "CREMOSO PUNTA DEL AGUA": "6300.000"
+            "CREMOSO PUNTA DEL AGUA": "6690.010"
         },
         "Cris Jor": {
             "MANI CROCANTE CLASICO": "3920.000",
@@ -243,6 +244,8 @@
         "Chiro": {
             "ACEITE DE OLIVA X 500": "8196.150",
             "RELLENA GOURMET X 200": "4324.320",
+            "SACHET DESC.X 100 CHIRO": "821.540",
+            "SACHET RELLENA CHIRO": "1005.560",
             "SACHET X 100 CHIRO": "636.460"
         },
         "Lo tauro": {
@@ -257,6 +260,7 @@
             "CREMOSO POZZI": "0.000"
         },
         "Finca de Santiago": {
+            "LATA DE TOMATE X8KG": "9416.400",
             "MORRON X 800": "4932.410",
             "NUEZ PELADA MARIPOSA": "15445.650",
             "TOMATE POUCH": "1959.390"
@@ -302,9 +306,9 @@
             "SARDO ESTACIONADO ABUELO": "10235.000"
         },
         "Don Luis": {
-            "LONGA CALABRESA DON LUIS": "9150.010",
-            "PECHERA DON LUIS": "9272.000",
-            "SALAME COLORADO DON LUIS": "8723.000",
+            "LONGA CALABRESA DON LUIS": "9882.000",
+            "PECHERA DON LUIS": "9882.000",
+            "SALAME COLORADO DON LUIS": "10248.000",
             "SALAME DON LUIS": "9516.000"
         },
         "Alco": {
@@ -338,6 +342,10 @@
             "ALCOHOL PURO X 500": "1384.480",
             "SALSA CAESAR X 285": "3153.740"
         },
+        "Limpialin": {
+            "LAVANDINA LIMPIALIN X 1 LT.": "664.700",
+            "LAVANDINA LIMPIALIN X 2 L.": "1233.150"
+        },
         "Ledvance": {
             "LAMPARAS LED 100 W": "1470.560",
             "LAMPARAS LED 60 W": "1034.140"
@@ -366,75 +374,55 @@
             "PANCETA AHUMADA BUENAS SIERRAS": "8320.010",
             "PATA DE CERDO BUENAS SIERRAS": "5375.000",
             "QUESO DE CERDO B.SIERRAS": "3000.000"
+        },
+        "Veronica": {
+            "LECHE DESCREMADA VERONICA LV": "1640.910",
+            "LECHE ENTERA VERONICA LV": "1748.000"
         }
     },
     "cambios": {
+        "Peipo": {
+            "MANI JAPONES X 700 PEIPO": "3148.240"
+        },
         "Emezeta": {
-            "PERNIL EMEZETA": "5567.590",
-            "JAMON BOLON 3783": "5045.010",
-            "LOMO AHUMADO": "8531.090",
-            "PALETA CUADRADA MZ": "5201.230"
+            "BONDIOLA AL VACIO 1/2 MZ": "14216.610"
         },
         "Dulcor": {
             "DULCE DE MEMBRILLO": "9324.010"
         },
-        "San Cayetano": {
-            "FRASCO X1.8KG 0": "11363.520",
-            "FRASCO X1.8KG RODAJAS": "12744.060",
-            "FRASCO X2KG RELLENA": "19602.000",
-            "BIDON X4.6KG 0": "22660.430",
-            "BIDON X4.6KG 00": "31154.640",
-            "BIDON X4.6KG 000": "36560.040",
-            "BIDON DESC X4KG 0": "26059.430",
-            "BIDON DESC X4KG 00": "32090.530",
-            "BIDON RODAJA X4KG": "24154.690",
-            "BIDON NEGRA X4.6K 0": "28020.200",
-            "BIDON NEGRA ROD X4KG": "30676.260",
-            "BIDON X4.6KG 1": "21116.040",
-            "BIDON X4.6KG 2": "19571.640",
-            "BIDON NEGRA DESC X4KG": "33095.000",
-            "BIDON X4.6KG RELLENA": "44227.810",
-            "BIDON X4.6KG 3": "18027.250",
-            "BIDON PICKLE X4.6KG": "15401.760"
-        },
-        "Aliger": {
-            "SARDO ALIGER": "7500.000",
-            "PATEGRAS ALIGER": "8320.000"
-        },
-        "Aromas y Sabores": {
-            "AJO GRANULADO X 25GR": "120.590"
-        },
         "Paladini": {
-            "VIENA X 6 PALDINI": "1421.280",
-            "MILAN FELA": "8738.100"
+            "MORTADELA X4.5KG PALADINI": "6577.200",
+            "PALETA PALADINI X6KG": "8904.000"
         },
-        "Cris Jor": {
-            "MANI CROCANTE CLASICO": "3920.000",
-            "MANI CROCANTE SABOR JAMON": "3920.000",
-            "MANI CROCANTE SABOR SALAME": "3920.000",
-            "MANI CROCANTE SABOR PIZZA": "3920.000",
-            "MANI CROCANTE SABOR QUESO": "3920.000",
-            "MANI CROCANTE SABOR PROVENZAL": "3920.000"
+        "Punta del agua": {
+            "CREMOSO PUNTA DEL AGUA": "6690.010"
         },
-        "Cabrales": {
-            "CAFE EN SAQ. CABRALES X18": "3098.860"
+        "Chiro": {
+            "SACHET DESC.X 100 CHIRO": "821.540",
+            "SACHET RELLENA CHIRO": "1005.560"
+        },
+        "Finca de Santiago": {
+            "LATA DE TOMATE X8KG": "9416.400"
         },
         "Don Luis": {
-            "PECHERA DON LUIS": "9272.000"
+            "SALAME COLORADO DON LUIS": "10248.000",
+            "PECHERA DON LUIS": "9882.000",
+            "LONGA CALABRESA DON LUIS": "9882.000"
         },
-        "Tresal": {
-            "SAL FINA TRESAL X 500": "446.190"
+        "Limpialin": {
+            "LAVANDINA LIMPIALIN X 1 LT.": "664.700",
+            "LAVANDINA LIMPIALIN X 2 L.": "1233.150"
+        },
+        "Veronica": {
+            "LECHE ENTERA VERONICA LV": "1748.000",
+            "LECHE DESCREMADA VERONICA LV": "1640.910"
         },
         "OTRAS COMPRAS": {
-            "JUGO DE LIMON MINERVA X 250": "1064.140",
-            "YERBA CBSE TRADICIONAL X500": "1581.240",
-            "YERBA PLAYADITO X 500": "2123.740",
-            "YERBA CBSE LIMON X500": "1581.240",
-            "YERBA CBSE NARANJA X500": "1581.240",
-            "TE LA VIRGINIA BOLDO": "1748.750",
-            "CALDO MAGGI WILDE X2": "372.080",
-            "SAVORA MONOPORCION": "13241.490"
+            "KETCHUP HELLMAN`S X 60 GRS.": "651.880",
+            "CALDO VERDURA KNORR X 2": "459.510",
+            "JABON SEISEME X 300": "1393.050",
+            "CILO PEPAS X400": "1157.740"
         }
     },
-    "fecha": "07-03-2025 11:57:48"
+    "fecha": "14-03-2025 13:30:03"
 }
