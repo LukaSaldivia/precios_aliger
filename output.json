@@ -18,7 +18,7 @@
         "Quesada": {
             "BARRA SABORIZADA QUESADA": "9563.560",
             "CREMOSO 1/2 QUESADA": "5777.350",
-            "MANTECA X 2.5 KG": "19612.560",
+            "MANTECA X 2.5 KG": "0.000",
             "MUZZA BARRA QUESADA": "7383.860",
             "PARMESANO MITAD": "12353.340",
             "QUESO AZUL 1/2 EMPERADOR": "10442.200",
@@ -202,6 +202,7 @@
             "JAMON COCIDO BOCATTI": "15830.880"
         },
         "Hellmans": {
+            "KETCHUP HELLMAN`S X 60 GRS.": "651.880",
             "KETCHUP MONOP.HELLMAN´S": "15244.230",
             "MAYONESA MONOPORCION": "10998.090",
             "MAYONESA X2.9 HELLMANS": "12126.800"
@@ -211,10 +212,10 @@
             "JAMON COCIDO PALADINI X 6 KG": "8904.000",
             "LEBERWURST X 250 GRS.": "1232.000",
             "MILAN FELA": "8738.100",
-            "MILAN TIVOLI": "7170.610",
+            "MILAN TIVOLI": "7353.000",
             "PALETA PALADINI X6KG": "8904.000",
-            "VIENA X 6 FELA": "869.120",
-            "VIENA X 6 PALDINI": "1421.280",
+            "VIENA X 6 FELA": "939.690",
+            "VIENA X 6 PALDINI": "1467.200",
             "MORTADELA FAM. PALADINI": "2059.670",
             "MORTADELA X 2.5KG PALADINI": "7773.670",
             "MORTADELA X4.5KG PALADINI": "6577.200"
@@ -282,9 +283,9 @@
             "CAFE EN SAQ. LA PLANTA": "2345.460"
         },
         "La Primera": {
-            "MANTECA X 100 PRIMER PREMIO": "1024.630",
-            "MANTECA X 2.5 KG.PRIMER PREMIO": "25047.000",
-            "MANTECA X 200 PRIMER PREMIO": "2049.260"
+            "MANTECA X 100 PRIMER PREMIO": "1052.700",
+            "MANTECA X 2.5 KG.PRIMER PREMIO": "26090.630",
+            "MANTECA X 200 PRIMER PREMIO": "2105.400"
         },
         "Platamar": {
             "ANCHOAS 40X3": "16380.000",
@@ -355,10 +356,10 @@
             "SAL GRUESA TRESAL X 1 KG": "705.130"
         },
         "La Quesera": {
-            "BARRA CHEDDAR LA QUESERA": "12777.200",
-            "GRUYERE CUÑA LA QUESERA": "19653.110",
-            "MIXTO CON SALAME LA QUESERA": "10343.630",
-            "RALLADO X 40 GRS.LA QUESERA": "587.950"
+            "BARRA CHEDDAR LA QUESERA": "13288.290",
+            "GRUYERE CUÑA LA QUESERA": "20439.250",
+            "MIXTO CON SALAME LA QUESERA": "11190.880",
+            "RALLADO X 40 GRS.LA QUESERA": "602.740"
         },
         "Mix Dietetica": {
             "MIX CRIOLLO X 10": "6440.010",
@@ -384,15 +385,24 @@
         "Peipo": {
             "MANI JAPONES X 700 PEIPO": "3148.240"
         },
+        "Quesada": {
+            "MANTECA X 2.5 KG": "0.000"
+        },
         "Emezeta": {
             "BONDIOLA AL VACIO 1/2 MZ": "14216.610"
         },
         "Dulcor": {
             "DULCE DE MEMBRILLO": "9324.010"
         },
+        "Hellmans": {
+            "KETCHUP HELLMAN`S X 60 GRS.": "651.880"
+        },
         "Paladini": {
             "MORTADELA X4.5KG PALADINI": "6577.200",
-            "PALETA PALADINI X6KG": "8904.000"
+            "VIENA X 6 FELA": "939.690",
+            "PALETA PALADINI X6KG": "8904.000",
+            "VIENA X 6 PALDINI": "1467.200",
+            "MILAN TIVOLI": "7353.000"
         },
         "Punta del agua": {
             "CREMOSO PUNTA DEL AGUA": "6690.010"
@@ -404,6 +414,11 @@
         "Finca de Santiago": {
             "LATA DE TOMATE X8KG": "9416.400"
         },
+        "La Primera": {
+            "MANTECA X 100 PRIMER PREMIO": "1052.700",
+            "MANTECA X 200 PRIMER PREMIO": "2105.400",
+            "MANTECA X 2.5 KG.PRIMER PREMIO": "26090.630"
+        },
         "Don Luis": {
             "SALAME COLORADO DON LUIS": "10248.000",
             "PECHERA DON LUIS": "9882.000",
@@ -413,16 +428,21 @@
             "LAVANDINA LIMPIALIN X 1 LT.": "664.700",
             "LAVANDINA LIMPIALIN X 2 L.": "1233.150"
         },
+        "La Quesera": {
+            "RALLADO X 40 GRS.LA QUESERA": "602.740",
+            "BARRA CHEDDAR LA QUESERA": "13288.290",
+            "GRUYERE CUÑA LA QUESERA": "20439.250",
+            "MIXTO CON SALAME LA QUESERA": "11190.880"
+        },
         "Veronica": {
             "LECHE ENTERA VERONICA LV": "1748.000",
             "LECHE DESCREMADA VERONICA LV": "1640.910"
         },
         "OTRAS COMPRAS": {
-            "KETCHUP HELLMAN`S X 60 GRS.": "651.880",
             "CALDO VERDURA KNORR X 2": "459.510",
             "JABON SEISEME X 300": "1393.050",
             "CILO PEPAS X400": "1157.740"
         }
     },
-    "fecha": "14-03-2025 13:30:03"
+    "fecha": "17-03-2025 13:56:55"
 }
