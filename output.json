@@ -16,47 +16,47 @@
             "TUBITOS PEIPO": "2060.970"
         },
         "Quesada": {
-            "BARRA SABORIZADA QUESADA": "9563.560",
-            "CREMOSO 1/2 QUESADA": "5777.350",
-            "MUZZA BARRA QUESADA": "7383.860",
-            "PARMESANO MITAD": "12353.340",
+            "BARRA SABORIZADA QUESADA": "10044.250",
+            "CREMOSO 1/2 QUESADA": "6193.430",
+            "MUZZA BARRA QUESADA": "7684.430",
+            "PARMESANO MITAD": "13347.270",
             "QUESO AZUL 1/2 EMPERADOR": "10442.200",
-            "REGIANO MITADES": "11818.010",
-            "SABORIZADO QUESADA X 700": "9576.740",
+            "REGIANO MITADES": "12414.660",
+            "SABORIZADO QUESADA X 700": "10058.090",
             "SALSA CHEDDAR SACHET": "3615.090",
-            "PARMESANO QUESADA": "12306.970",
-            "REGGIANO QUESADA": "11626.490",
-            "ROMANITO QUESADA": "10875.430",
-            "SARDO QUESADA": "10474.860",
-            "BARRA QUESADA": "7257.210",
-            "CREMOSO QUESADA": "5677.210",
-            "CRIOLLO QUESADA": "9027.800",
-            "FONTINA QUESADA": "9428.370",
-            "GOUDA QUESADA": "7791.050",
-            "MUZZA CILINDRO QUESADA": "5935.690",
-            "PATEGRAS QUESADA": "9027.800",
-            "POR SALUT QUESADA": "6336.070",
-            "POR SALUT S/S QUESADA": "6591.330",
-            "CREMA QUESADA": "6033.510"
+            "PARMESANO QUESADA": "12923.050",
+            "REGGIANO QUESADA": "12207.320",
+            "ROMANITO QUESADA": "11420.950",
+            "SARDO QUESADA": "11000.590",
+            "BARRA QUESADA": "7917.280",
+            "CREMOSO QUESADA": "6090.220",
+            "CRIOLLO QUESADA": "9483.450",
+            "FONTINA QUESADA": "9904.040",
+            "GOUDA QUESADA": "8181.600",
+            "MUZZA CILINDRO QUESADA": "6235.980",
+            "PATEGRAS QUESADA": "9483.450",
+            "POR SALUT QUESADA": "6656.390",
+            "POR SALUT S/S QUESADA": "6921.650",
+            "CREMA QUESADA": "6072.000"
         },
         "Emezeta": {
             "BARRIL MZ": "5602.600",
             "BONDIOLA AL VACIO 1/2 MZ": "14216.610",
             "JAMON BOLON 3783": "5524.070",
             "LOMO AHUMADO": "8531.090",
-            "MILAN CORTO MZ": "7279.280",
-            "MILANCITO EMEZETA": "8300.250",
+            "MILAN CORTO MZ": "7643.240",
+            "MILANCITO EMEZETA": "8715.260",
             "PALETA CUADRADA MZ": "5201.230",
             "PALETA MINI S/GR.MZ": "5205.900",
             "PERNIL MINI MZ": "5723.700",
             "FIAMBRE DE JAMON COCIDO GRANDE": "5567.590",
             "JAMON NATIVO EMEZETA": "8277.860",
             "PALETA MINI EMEZETA": "5205.900",
-            "MORTADELA EMEZETA": "3824.740",
-            "SALCHICHON C/JAMON EMEZETA": "3423.830",
-            "SALCHICHON PRIMAVERA EMEZETA": "3423.830",
-            "BASTON EMEZETA": "8947.080",
-            "MILAN EMEZETA": "7227.370",
+            "MORTADELA EMEZETA": "4015.970",
+            "SALCHICHON C/JAMON EMEZETA": "3595.030",
+            "SALCHICHON PRIMAVERA EMEZETA": "3595.030",
+            "BASTON EMEZETA": "9394.450",
+            "MILAN EMEZETA": "7588.750",
             "BONDIOLA EMEZETA": "13467.780",
             "CRUDO EMEZETA": "17480.080",
             "LOMO CANADIENSE EMEZETA": "9968.860",
@@ -134,8 +134,8 @@
         },
         "Aliger": {
             "PATEGRAS ALIGER": "8320.000",
-            "ROMANITO ALIGER": "8125.010",
-            "SARDO ALIGER": "8016.250",
+            "ROMANITO ALIGER": "0.000",
+            "SARDO ALIGER": "8125.010",
             "BARRA ALIGER": "6599.990"
         },
         "El Artesano": {
@@ -191,11 +191,11 @@
         "Calchaqui": {
             "MORTADELA PICCOLA CALCHAQUI": "1930.480",
             "BONDIOLA CALCHAQUI": "19716.840",
-            "MORTADELA BOCHA CALCHAQUI": "6368.460",
-            "MORTADELA C/PIST CALCHAQUI": "9148.540",
-            "MORTADELA CAÑON CALCHAQUI": "5557.800",
+            "MORTADELA BOCHA CALCHAQUI": "6685.880",
+            "MORTADELA C/PIST CALCHAQUI": "9776.300",
+            "MORTADELA CAÑON CALCHAQUI": "5725.370",
             "MORTADELA GIG. CALCHAQUI": "6834.560",
-            "PANCETA AHUMADA CALCHAQUI": "13813.080"
+            "PANCETA AHUMADA CALCHAQUI": "14779.500"
         },
         "Bocatti": {
             "JAMON COCIDO BOCATTI": "15830.880"
@@ -369,20 +369,56 @@
         }
     },
     "cambios": {
+        "Quesada": {
+            "BARRA QUESADA": "7917.280",
+            "CREMOSO QUESADA": "6090.220",
+            "CRIOLLO QUESADA": "9483.450",
+            "FONTINA QUESADA": "9904.040",
+            "GOUDA QUESADA": "8181.600",
+            "MUZZA CILINDRO QUESADA": "6235.980",
+            "PATEGRAS QUESADA": "9483.450",
+            "POR SALUT QUESADA": "6656.390",
+            "POR SALUT S/S QUESADA": "6921.650",
+            "REGGIANO QUESADA": "12207.320",
+            "ROMANITO QUESADA": "11420.950",
+            "SARDO QUESADA": "11000.590",
+            "CREMA QUESADA": "6072.000",
+            "PARMESANO QUESADA": "12923.050",
+            "MUZZA BARRA QUESADA": "7684.430",
+            "CREMOSO 1/2 QUESADA": "6193.430",
+            "BARRA SABORIZADA QUESADA": "10044.250",
+            "REGIANO MITADES": "12414.660",
+            "PARMESANO MITAD": "13347.270",
+            "SABORIZADO QUESADA X 700": "10058.090"
+        },
         "Emezeta": {
             "FIAMBRE DE JAMON COCIDO GRANDE": "5567.590",
+            "MILAN EMEZETA": "7588.750",
+            "BASTON EMEZETA": "9394.450",
+            "SALCHICHON C/JAMON EMEZETA": "3595.030",
+            "SALCHICHON PRIMAVERA EMEZETA": "3595.030",
+            "MORTADELA EMEZETA": "4015.970",
+            "MILANCITO EMEZETA": "8715.260",
+            "MILAN CORTO MZ": "7643.240",
             "BONDIOLA AL VACIO 1/2 MZ": "14216.610"
         },
         "Dulcor": {
             "HILERET CLASICO X 500": "9793.290"
         },
         "Aliger": {
-            "SARDO ALIGER": "8016.250",
+            "SARDO ALIGER": "8125.010",
+            "ROMANITO ALIGER": "0.000",
             "BARRA ALIGER": "6599.990"
         },
         "Halcon": {
             "GRASA VACUNA": "1291.590",
             "GRASA DE CERDO": "1320.040"
+        },
+        "Calchaqui": {
+            "MORTADELA BOCHA CALCHAQUI": "6685.880",
+            "MORTADELA CAÑON CALCHAQUI": "5725.370",
+            "PANCETA AHUMADA CALCHAQUI": "14779.500",
+            "MORTADELA C/PIST CALCHAQUI": "9776.300"
         },
         "Paladini": {
             "MILAN TIVOLI": "7353.000"
@@ -391,10 +427,13 @@
             "SALAME COLORADO DON LUIS": "0.000",
             "SALAME DON LUIS": "10248.000"
         },
+        "Mix Dietetica": {
+            "MIX CRIOLLO X 10": "6440.010"
+        },
         "OTRAS COMPRAS": {
             "ROLLO DE COCINA CARRITE 12X200": "1317.610",
             "LIMON MINERVA X500": "1785.960"
         }
     },
-    "fecha": "28-03-2025 12:42:04"
+    "fecha": "31-03-2025 11:04:16"
 }
