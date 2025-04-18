@@ -14,7 +14,7 @@ const container = $('#data')
 fetch('output.json').then(response => response.json()).then(data => {
 
   $('span.date').textContent = data.fecha
-  
+
   const empresas = Object.keys(data.grupos)
 
   empresas.sort((a, b) => a == "Aliger" ? -1 : b == "Aliger" ? 1 : 0)
@@ -34,7 +34,7 @@ fetch('output.json').then(response => response.json()).then(data => {
       const cambiado = data.cambios[empresa] && data.cambios[empresa][articulo]
 
       if (cambiado) {
-        cantidad_cambios = Object.values(data.cambios[empresa]).length 
+        cantidad_cambios = Object.values(data.cambios[empresa]).length
       }
 
 
@@ -65,53 +65,28 @@ fetch('output.json').then(response => response.json()).then(data => {
 
   }
 
-  
+  // Buscar por productos o empresas según URL Param "q"
+
+  const urlParams = new URLSearchParams(window.location.search);
+  let searchQuery = urlParams.get('q').trim().toLowerCase();
+  searchQuery = searchQuery.replaceAll("+", " ")
+  search(searchQuery)
+
+
 
 })
 
 // Buscar por productos o empresas
 input.addEventListener('input', ({ target }) => {
   let text = target.value.trim().toLowerCase()
-
-  container.classList.toggle('searching', !!text)
-
-  if (text) {
-    const rows = $$('.row')
-
-    for (const row of rows) {
-
-      const articles = _$$(row, 'article')
-
-      for (const article of articles) {
-        article.classList.remove('found')
-      }
-
-      const group_name = _$(row, '.group_name').textContent.toLowerCase()
-
-
-      for (const article of articles) {   
-        
-        let article_name = article.textContent.toLowerCase().split('$')[0]
-        
-        article.classList.toggle('found', article_name.includes(text))
-        
-        if (group_name.includes(text)) {
-          article.classList.add('found')
-          
-        }
-      }
-
-
-
-
-
-
-
-
-
-    }
-  }
+  search(text)
 })
+
+
+
+
+
+
 
 // Comportamiento del buscador al scroll
 
@@ -127,12 +102,60 @@ window.addEventListener('scroll', () => {
   if (window.scrollY > actualScroll) {
     actualScroll = window.scrollY
   }
-  
+
   if (top === 0) {
     actualScroll = window.scrollY + buscador.clientHeight
   }
-  
+
   buscador.setAttribute("style", `--_top:${top + progress * 20}px`);
   buscador.classList.toggle('active', window.scrollY < actualScroll && window.scrollY > buscador.clientHeight)
 
 })
+
+function search(text) {
+  container.classList.toggle('searching', !!text)
+
+
+
+  if (text) {
+
+    document.title = `Resultados para: ${text} | Aliger`
+
+    const rows = $$('.row')
+
+    for (const row of rows) {
+
+      const articles = _$$(row, 'article')
+
+      for (const article of articles) {
+        article.classList.remove('found')
+      }
+
+      const group_name = _$(row, '.group_name').textContent.toLowerCase()
+
+
+      for (const article of articles) {
+
+        let article_name = article.textContent.toLowerCase().split('$')[0]
+
+        article.classList.toggle('found', article_name.includes(text))
+
+        if (group_name.includes(text)) {
+          article.classList.add('found')
+
+        }
+      }
+
+
+
+
+
+
+
+
+
+    }
+  }else{
+    document.title = "Aliger | Lista de precios"
+  }
+}
