@@ -70,6 +70,7 @@ fetch('output.json').then(response => response.json()).then(data => {
   const urlParams = new URLSearchParams(window.location.search);
   let searchQuery = urlParams.get('q').trim().toLowerCase();
   searchQuery = searchQuery.replaceAll("+", " ")
+  input.value = searchQuery
   search(searchQuery)
 
 
