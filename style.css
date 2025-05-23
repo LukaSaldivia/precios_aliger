@@ -211,7 +211,7 @@ body>main {
       pointer-events: none;
     }
 
-    &.active{
+    &.active {
       filter: drop-shadow(0 3px 6px #1126);
     }
   }
@@ -258,6 +258,14 @@ body>main {
 
         padding: 10px 20px;
         border-radius: 10px;
+
+        &[data-id="OTRAS COMPRAS"] {
+          display: none;
+
+          &+section.list-container {
+            display: none;
+          }
+        }
 
         label {
           height: 200%;
@@ -321,11 +329,12 @@ body>main {
       }
 
       &:has(article.alert) {
-        /* order: -1; */
-        section.group{
+        order: -1;
+
+        section.group {
           background-color: var(--clr-alert);
 
-          p.group_name::after{
+          p.group_name::after {
             content: attr(data-cambios);
             background-color: hsl(from var(--clr-font) h s l / .3);
             color: var(--clr-font);
@@ -341,7 +350,7 @@ body>main {
           }
 
         }
-        
+
       }
 
       &:has(section.group input:checked) {
@@ -353,7 +362,7 @@ body>main {
 
     }
 
-    p.update{
+    p.update {
       align-self: end;
       color: var(--clr-primary-light);
       width: fit-content;
@@ -377,26 +386,30 @@ body>main {
       pointer-events: none;
     }
 
-    &:has(.row) span.loader{
+    &:has(.row) span.loader {
       display: none;
     }
 
-    &.searching{
-      .row{
+    &.searching {
+      .row {
         display: contents;
 
-        section.group{
+        section.group {
           display: none;
+
+          &[data-id="OTRAS COMPRAS"] + section.list-container{
+            display: contents;
+          }
         }
 
-        section.list-container{
+        section.list-container {
           display: contents;
 
-          article:not(.found){
+          article:not(.found) {
             display: none;
           }
         }
-        
+
       }
     }
   }
@@ -410,31 +423,32 @@ body>main {
   }
 }
 
-@media print{
-  [role="group"]{
+@media print {
+  [role="group"] {
     display: none;
   }
 
-  .caption .sqr{
+  .caption .sqr {
     border: 2px dotted var(--clr-font);
   }
 
-  #data{
+  #data {
     display: grid;
-    .row{
+
+    .row {
       grid-template-rows: min-content 1fr !important;
 
-      section.group{
+      section.group {
         border: 3px solid var(--clr-neutral-700);
 
         break-inside: avoid;
 
-        label{
+        label {
           display: none;
         }
       }
 
-      section.list-container article.alert{
+      section.list-container article.alert {
         border: 2px dotted var(--clr-font) !important;
       }
 

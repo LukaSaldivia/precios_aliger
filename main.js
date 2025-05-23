@@ -46,7 +46,7 @@ fetch('output.json').then(response => response.json()).then(data => {
     }
 
     div.innerHTML = `
-    <section class="group stack">
+    <section class="group stack" data-id="${empresa}">
       <p class="group_name" data-cambios="${cantidad_cambios > 9 ? "+9" : cantidad_cambios}">${empresa}</p>
       <label class="stack">
         <svg width="13" height="7" viewBox="0 0 13 7" fill="none" xmlns="http://www.w3.org/2000/svg">
