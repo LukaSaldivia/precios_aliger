@@ -138,7 +138,7 @@
             "FRASCO X2KG 000": "18976.440",
             "FRASCO X2KG DESC 0": "14501.710",
             "FRASCO X2KG DESC 00": "16914.930",
-            "FRASCO X2KG RELLENA": "21235.500",
+            "FRASCO X2KG RELLENA": "20629.230",
             "FRASCO NEGRA X1KG 0": "8665.660",
             "FRASCO X1KG 00": "10265.410"
         },
@@ -151,6 +151,7 @@
             "PASAS SIN SEMILLA X 10 KG": "4720.000"
         },
         "Aliger": {
+            "PATEGRAS ALIGER": "8576.000",
             "BARRA ALIGER": "7539.990"
         },
         "El Artesano": {
@@ -160,7 +161,7 @@
             "ANCHOAS 18 X 3": "11434.500",
             "ANCHOAS 30 X 3": "15750.000",
             "ANCHOAS 60 X 3": "29988.000",
-            "ANCHOAS X1.5KG": "35280.010"
+            "ANCHOAS X1.5KG": "35312.690"
         },
         "Halcon": {
             "GRASA DE CERDO": "1952.000",
@@ -269,10 +270,11 @@
         },
         "POZZI": {},
         "Finca de Santiago": {
+            "ALMENDRAS PELADAS": "19439.980",
             "LATA DE TOMATE X8KG": "9416.400",
             "MORRON X 800": "4932.410",
             "NUEZ CUARTA BLANCA": "12810.000",
-            "NUEZ PELADA MARIPOSA": "15445.650",
+            "NUEZ PELADA MARIPOSA": "17817.990",
             "TOMATE POUCH": "1959.390"
         },
         "Amanecer": {
@@ -288,6 +290,8 @@
             "GARRAPIÑADA X 1 KG.": "5893.060",
             "MANI C/CHOC.X 1 KG.": "10673.180",
             "MANI CON CHOCOLATE X 80 GRS.": "743.410",
+            "PAPA X 500 AMANECER": "4786.620",
+            "PAPA X 500 AMANECER AMERICANAS": "4786.620",
             "PASAS DE UVA CON CHOCOLATE X 1": "1150.440"
         },
         "Cabrales": {
@@ -302,7 +306,7 @@
         "Platamar": {
             "ANCHOAS 40X3": "16380.000",
             "ANCHOAS X 750 GRS.": "15125.000",
-            "ANCHOAS X90GR": "3380.000"
+            "ANCHOAS X90GR": "3553.150"
         },
         "Cavade": {
             "PAPEL HIGIENICO CAVADE X 4X 30": "946.120"
@@ -323,7 +327,7 @@
         "Alco": {
             "DURAZNO X 820": "1332.340",
             "PURE DE TOMATE ALCO X520": "638.150",
-            "TOMATE X 400": "700.520"
+            "TOMATE PERITA X 400": "700.520"
         },
         "Carrité": {
             "ROLLO DE COCINA X 6": "1317.610"
@@ -427,7 +431,7 @@
             "CAPUCHINO VIRGINIA SOBRE": "3894.850",
             "CHOCOLINO X 180": "1668.760",
             "CILO ANILLO LIMON X400": "1163.830",
-            "CILO ANILLO VAINILLA X400": "1163.830",
+            "CILO ANILLO VAINILLA X400": "1276.250",
             "CILO PEPAS X400": "1157.740",
             "COCA COLA X500": "1320.010",
             "DON SATUR BIZC. AGRIDULCE": "748.690",
@@ -448,9 +452,9 @@
             "FIDEO RIGATTIS SOL PAMP": "798.300",
             "FIDEO SPAGHETTI SOL PAMP": "798.330",
             "FIDEO TALLARIN SOL PAMPEANO X": "712.500",
-            "FIDEO TIRABUZON SOL PAMPEANO X": "798.330",
+            "FIDEO TIRABUZON SOL PAMPEANO X": "712.500",
             "GALLETITA PEPAS X400": "1013.920",
-            "GALLETITAS LA PROVIDENCIA X 3": "940.580",
+            "GALLETITAS LA PROVIDENCIA X 3": "956.740",
             "HARINA 000 CAÑUELA X1KG": "668.170",
             "HARINA COMUN 000 PUREZA": "841.000",
             "HARINA COMUN 0000 PUREZA": "1049.750",
@@ -458,7 +462,7 @@
             "HARINA LEUDANTE PUREZA": "1370.880",
             "HARINA P/PIZZA PUREZA": "1379.410",
             "INSECTICIDA FUYI": "3934.690",
-            "JABON EN POLVO ALA ECOLAVADO X": "1038.180",
+            "JABON EN POLVO ALA ECOLAVADO X": "1058.560",
             "JABON EN POLVO ZORRO": "818.570",
             "JABON LIQUIDO ZELNOVA": "7441.250",
             "JABON SEISEME X 300": "1393.050",
@@ -488,7 +492,7 @@
             "OREGANO ALICANTE X 25": "943.210",
             "PALILLOS IMPACTO": "287.750",
             "PATE ECONOMICO": "614.850",
-            "PICADILLO": "0.000",
+            "PICADILLO": "614.850",
             "PIMENTON ALICANTE X 25": "611.390",
             "POROTOS MOLTO X 300": "865.500",
             "PURE DE PAPAS MAGGI X 125": "1827.040",
@@ -518,80 +522,44 @@
             "YERBA AMANDA": "1633.340",
             "YERBA CBSE LIMON X500": "1567.350",
             "YERBA CBSE NARANJA X500": "1567.350",
-            "YERBA CBSE TRADICIONAL X500": "1930.710",
+            "YERBA CBSE TRADICIONAL X500": "1786.780",
             "YERBA MATE ANDRESITO": "1410.840",
             "YERBA MATE TARAGUI X 500": "1816.830",
             "YERBA MAÑANITA": "1910.470",
-            "YERBA PLAYADITO X 500": "2123.740",
+            "YERBA PLAYADITO X 500": "2116.170",
             "YERBA TARAGÜI X 500 SIN PALO": "2821.440",
             "YERBA UNION X500": "2036.870"
         }
     },
     "cambios": {
-        "Peipo": {
-            "MANI REPELADO PEIPO": "4123.600"
-        },
         "Quesada": {
-            "SARDO QUESADA": "11267.290",
-            "BARRA SABORIZADA QUESADA": "10277.460"
+            "FONTINA QUESADA": "10136.810",
+            "PARMESANO QUESADA": "13233.170",
+            "PARMESANO MITAD": "13643.020"
         },
-        "Emezeta": {
-            "LOMO CANADIENSE EMEZETA": "10267.930",
-            "SALCHICHON C/JAMON EMEZETA": "3702.880",
-            "LOMO AHUMADO EMEZETA": "8787.020"
-        },
-        "Productos W": {
-            "BONDIOLA W": "12607.500"
+        "San Cayetano": {
+            "FRASCO X2KG RELLENA": "20629.230"
         },
         "Aliger": {
+            "PATEGRAS ALIGER": "8576.000",
             "BARRA ALIGER": "7539.990"
         },
-        "Halcon": {
-            "GRASA VACUNA": "1829.990",
-            "GRASA DE CERDO": "1952.000"
+        "El Bocarte": {
+            "ANCHOAS X1.5KG": "35312.690"
         },
-        "Calchaqui": {
-            "MORTADELA GIG. CALCHAQUI": "7175.950"
+        "Finca de Santiago": {
+            "NUEZ PELADA MARIPOSA": "17817.990",
+            "ALMENDRAS PELADAS": "19439.980"
         },
-        "Paladini": {
-            "MORTADELA X4.5KG PALADINI": "7508.120",
-            "MORTADELA FAM. PALADINI": "2344.740",
-            "MORTADELA X 2.5KG PALADINI": "9097.390",
-            "VIENA X 6 FELA": "1136.690",
-            "PALETA PALADINI X6KG": "8892.000",
-            "VIENA X 6 PALDINI": "1890.170",
-            "LEBERWURST X 250 GRS.": "1949.810",
-            "JAMON COCIDO PALADINI X 6 KG": "10192.280",
-            "MILAN TIVOLI": "9088.790",
-            "MILAN FELA": "11055.470",
-            "BONDIOLA PALADINI": "21919.880",
-            "PALETA PALADINI X 4.5 KG": "8855.640"
+        "Amanecer": {
+            "PAPA X 500 AMANECER": "4786.620",
+            "PAPA X 500 AMANECER AMERICANAS": "4786.620"
         },
-        "Cris Jor": {
-            "MANI REPELADO CRIS JOR": "3899.990"
+        "Platamar": {
+            "ANCHOAS X90GR": "3553.150"
         },
-        "Fepa": {
-            "MATAMBRE FEPA": "8886.230",
-            "POLLO FEPA": "8482.320",
-            "MATAMBRE PREMIUN EL CRIOLLITO": "13831.870",
-            "MATAMBRE EL CRIOLLITO": "12015.000"
-        },
-        "Chiro": {
-            "SACHET X 100 CHIRO": "646.810"
-        },
-        "Lo tauro": {
-            "SACHET X 100 NATURAL SHOP": "592.490",
-            "SACHET X100 DESC LO TAURO": "858.580"
-        },
-        "Don Luis": {
-            "SALAME COLORADO DON LUIS": "10701.000",
-            "PECHERA DON LUIS": "10701.000",
-            "LONGA CALABRESA DON LUIS": "10701.000",
-            "SALAME DON LUIS": "11069.990"
-        },
-        "La Quesera": {
-            "GRUYERE CUÑA LA QUESERA": "21678.920",
-            "MIXTO CON SALAME LA QUESERA": "11869.630"
+        "Alco": {
+            "TOMATE PERITA X 400": "700.520"
         },
         "Lopardo": {
             "PANCETA AHUMADA LOPARDO": "10782.710",
@@ -599,11 +567,18 @@
             "JAMON NATURAL LOPARDO": "10086.390"
         },
         "OTRAS COMPRAS": {
-            "FIDEO MOSTACHOL SOL PAMPEANO": "712.500",
-            "FIDEO TALLARIN SOL PAMPEANO X": "712.500",
-            "YERBA MAÑANITA": "1910.470",
-            "AZUCAR LA CAMPECHANA": "936.360"
+            "YERBA MATE TARAGUI X 500": "1816.830",
+            "YERBA MATE ANDRESITO": "1410.840",
+            "YERBA CBSE TRADICIONAL X500": "1786.780",
+            "YERBA PLAYADITO X 500": "2116.170",
+            "JABON EN POLVO ALA ECOLAVADO X": "1058.560",
+            "GALLETITAS LA PROVIDENCIA X 3": "956.740",
+            "YERBA AMANDA": "1633.340",
+            "FIDEO TIRABUZON SOL PAMPEANO X": "712.500",
+            "CILO ANILLO VAINILLA X400": "1276.250",
+            "YERBA UNION X500": "2036.870",
+            "PICADILLO": "614.850"
         }
     },
-    "fecha": "23-05-2025 12:51:54"
+    "fecha": "30-05-2025 10:30:56"
 }
