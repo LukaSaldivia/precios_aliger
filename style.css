@@ -290,7 +290,8 @@ body>main {
 
       section.list-container {
         margin-top: 5px;
-        display: grid;
+        display: flex;
+        flex-direction: column;
         padding-left: 50px;
         gap: 10px;
 
@@ -320,6 +321,7 @@ body>main {
           &.alert {
             border-color: var(--clr-alert);
             border-width: 3px;
+            order: -1;
 
             p:last-child {
               font-weight: var(--fw-bold);
