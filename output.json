@@ -27,7 +27,7 @@
             "PROVOLETA QUESADA": "11704.720",
             "QUESO AZUL 1/2 EMPERADOR": "10494.310",
             "REGIANO MITADES": "12688.610",
-            "RICOTTA QUESADA": "2946.290",
+            "RICOTTA QUESADA": "2959.770",
             "SABORIZADO QUESADA X 700": "10277.460",
             "SALSA CHEDDAR SACHET": "3877.920",
             "PARMESANO QUESADA": "13233.170",
@@ -114,40 +114,40 @@
         },
         "San Cayetano": {
             "AJI EN VINAGRE X900GR": "11875.960",
-            "BIDON PICKLE X4.6KG": "15564.120",
-            "BIDON DESC X4KG 0": "27386.040",
-            "BIDON DESC X4KG 00": "33062.040",
-            "BIDON NEGRA DESC X4KG": "33433.750",
+            "BIDON PICKLE X4.6KG": "16242.590",
+            "BIDON DESC X4KG 0": "30744.120",
+            "BIDON DESC X4KG 00": "34079.760",
+            "BIDON NEGRA DESC X4KG": "33486.240",
             "BIDON NEGRA ROD X4KG": "30676.260",
-            "BIDON NEGRA X4.6K 0": "29077.100",
-            "BIDON RODAJA X4KG": "25045.680",
-            "BIDON ROTA X5KG": "19056.610",
-            "BIDON X4.6KG 0": "23284.790",
-            "BIDON X4.6KG 00": "36933.600",
-            "BIDON X4.6KG 000": "40087.080",
-            "BIDON X4.6KG 1": "21724.560",
-            "BIDON X4.6KG 2": "20165.640",
-            "BIDON X4.6KG 3": "19385.520",
-            "BIDON X4.6KG RELLENA": "44678.690",
-            "FRASCO NEGRA DESC X2KG": "18007.660",
-            "FRASCO NEGRA X2KG 0": "14547.610",
-            "FRASCO NEGRA X2KG 00": "21346.490",
-            "FRASCO X1.8KG 0": "11677.410",
-            "FRASCO X1.8KG RODAJAS": "13204.250",
-            "FRASCO X2KG 00": "17484.170",
-            "FRASCO X2KG 000": "18976.440",
-            "FRASCO X2KG DESC 0": "14501.710",
-            "FRASCO X2KG DESC 00": "16914.930",
-            "FRASCO X2KG RELLENA": "20629.230",
-            "FRASCO NEGRA X1KG 0": "8665.660",
-            "FRASCO X1KG 00": "10265.410"
+            "BIDON NEGRA X4.6K 0": "29900.000",
+            "BIDON RODAJA X4KG": "27025.680",
+            "BIDON ROTA X5KG": "21081.590",
+            "BIDON X4.6KG 0": "25289.870",
+            "BIDON X4.6KG 00": "41668.420",
+            "BIDON X4.6KG 000": "45958.440",
+            "BIDON X4.6KG 1": "23340.240",
+            "BIDON X4.6KG 2": "21780.000",
+            "BIDON X4.6KG 3": "21001.200",
+            "BIDON X4.6KG RELLENA": "45912.930",
+            "FRASCO NEGRA DESC X2KG": "18258.740",
+            "FRASCO NEGRA X2KG 0": "14920.200",
+            "FRASCO NEGRA X2KG 00": "21712.240",
+            "FRASCO X1.8KG 0": "12541.890",
+            "FRASCO X1.8KG RODAJAS": "14128.580",
+            "FRASCO X2KG 00": "19509.770",
+            "FRASCO X2KG 000": "21334.530",
+            "FRASCO X2KG DESC 0": "16089.290",
+            "FRASCO X2KG DESC 00": "17395.070",
+            "FRASCO X2KG RELLENA": "22808.500",
+            "FRASCO NEGRA X1KG 0": "8860.040",
+            "FRASCO X1KG 00": "11302.190"
         },
         "Gallardo": {},
         "Rodriguez Acacio": {
             "BOTELLA TOMATE ROD AC": "1800.000",
-            "CIRUELAS SECAS X 250 C/C": "1014.790",
-            "CIRUELAS X 250 D'AGEN S/C": "1651.990",
-            "PASAS DE UVA S/SEMILLA X 100": "687.510",
+            "CIRUELAS SECAS X 250 C/C": "1127.960",
+            "CIRUELAS X 250 D'AGEN S/C": "1769.990",
+            "PASAS DE UVA S/SEMILLA X 100": "749.990",
             "PASAS SIN SEMILLA X 10 KG": "4720.000"
         },
         "Aliger": {
@@ -159,7 +159,7 @@
         },
         "El Bocarte": {
             "ANCHOAS 18 X 3": "11434.500",
-            "ANCHOAS 30 X 3": "15750.000",
+            "ANCHOAS 30 X 3": "16632.000",
             "ANCHOAS 60 X 3": "29988.000",
             "ANCHOAS X1.5KG": "35312.690"
         },
@@ -207,11 +207,11 @@
         "Calchaqui": {
             "MORTADELA PICCOLA CALCHAQUI": "1930.480",
             "BONDIOLA CALCHAQUI": "19716.840",
-            "MORTADELA BOCHA CALCHAQUI": "6686.350",
+            "MORTADELA BOCHA CALCHAQUI": "6886.930",
             "MORTADELA C/PIST CALCHAQUI": "9776.780",
-            "MORTADELA CAÑON CALCHAQUI": "5725.370",
+            "MORTADELA CAÑON CALCHAQUI": "5896.670",
             "MORTADELA GIG. CALCHAQUI": "7175.950",
-            "PANCETA AHUMADA CALCHAQUI": "14779.500"
+            "PANCETA AHUMADA CALCHAQUI": "15984.320"
         },
         "Bocatti": {
             "JAMON COCIDO BOCATTI": "16306.340"
@@ -225,16 +225,16 @@
         "Paladini": {
             "BONDIOLA PALADINI": "21919.880",
             "JAMON COCIDO PALADINI X 6 KG": "10192.280",
-            "LEBERWURST X 250 GRS.": "1949.810",
-            "MILAN FELA": "11055.470",
-            "MILAN TIVOLI": "9088.790",
+            "LEBERWURST X 250 GRS.": "1790.040",
+            "MILAN FELA": "11069.350",
+            "MILAN TIVOLI": "8569.720",
             "PALETA PALADINI X 4.5 KG": "8855.640",
             "PALETA PALADINI X6KG": "8892.000",
-            "VIENA X 6 FELA": "1136.690",
-            "VIENA X 6 PALDINI": "1890.170",
+            "VIENA X 6 FELA": "1057.540",
+            "VIENA X 6 PALDINI": "1837.050",
             "MORTADELA FAM. PALADINI": "2344.740",
-            "MORTADELA X 2.5KG PALADINI": "9097.390",
-            "MORTADELA X4.5KG PALADINI": "7508.120"
+            "MORTADELA X 2.5KG PALADINI": "8489.910",
+            "MORTADELA X4.5KG PALADINI": "7459.350"
         },
         "Las Piaras": {},
         "Punta del agua": {},
@@ -304,7 +304,7 @@
             "MANTECA X 200 PRIMER PREMIO": "2265.120"
         },
         "Platamar": {
-            "ANCHOAS 40X3": "16380.000",
+            "ANCHOAS 40X3": "18175.990",
             "ANCHOAS X 750 GRS.": "15125.000",
             "ANCHOAS X90GR": "3553.150"
         },
@@ -313,10 +313,10 @@
         },
         "Il Molise": {},
         "Abuelo Marcelino": {
-            "CREMOSO ABUELO": "5244.000",
+            "CREMOSO ABUELO": "5462.490",
             "GOUDA ABUELO": "8850.000",
             "SARDO ESTACIONADO ABUELO": "10235.000",
-            "SARDO FRESCO ABUELO": "8442.000"
+            "SARDO FRESCO ABUELO": "8693.980"
         },
         "Don Luis": {
             "LONGA CALABRESA DON LUIS": "10701.000",
@@ -345,16 +345,20 @@
             "VINAGRE DE ALCOHOL X 500": "672.220"
         },
         "Don Alejandro Luoni": {
-            "CRUDO ARTESANAL DON ALEJANDRO": "17511.190",
-            "PANCETA ARROLLADA": "13757.710"
+            "CRUDO ARTESANAL DON ALEJANDRO": "17522.990",
+            "PANCETA ARROLLADA": "13806.000"
         },
         "Porta": {
             "ACETO BALSAMICO X 500": "1967.760",
             "ALCOHOL DE QUEMAR X 1L": "1900.540",
-            "ALCOHOL PURO X 500": "1384.480",
+            "ALCOHOL PURO X 500": "1741.340",
             "SALSA CAESAR X 285": "3153.740"
         },
         "Limpialin": {
+            "DETERGENTE LIMON SUIZA X 300": "735.320",
+            "DETERGENTE LIMON SUIZA X 750": "1535.120",
+            "DETERGENTE VERDE SUIZA X 300": "735.320",
+            "DETERGENTE VERDE SUIZA X 750": "1535.120",
             "LAVANDINA LIMPIALIN X 1 LT.": "664.700",
             "LAVANDINA LIMPIALIN X 2 L.": "1233.150",
             "LIMPIADOR LIQ.LAVANDA": "694.190",
@@ -368,7 +372,8 @@
         },
         "Tresal": {
             "SAL FINA TRESAL X 500": "446.190",
-            "SAL GRUESA TRESAL X 1 KG": "705.130"
+            "SAL GRUESA TRESAL X 1 KG": "705.130",
+            "SAL MONOPORCION": "9656.770"
         },
         "La Quesera": {
             "BARRA CHEDDAR LA QUESERA": "13288.290",
@@ -454,7 +459,7 @@
             "FIDEO TALLARIN SOL PAMPEANO X": "712.500",
             "FIDEO TIRABUZON SOL PAMPEANO X": "712.500",
             "GALLETITA PEPAS X400": "1013.920",
-            "GALLETITAS LA PROVIDENCIA X 3": "956.740",
+            "GALLETITAS LA PROVIDENCIA X 3": "940.580",
             "HARINA 000 CAÑUELA X1KG": "668.170",
             "HARINA COMUN 000 PUREZA": "841.000",
             "HARINA COMUN 0000 PUREZA": "1049.750",
@@ -485,7 +490,6 @@
             "MAYONESA MENOYO X 250": "563.650",
             "MAYONESA NATURA X 125": "591.820",
             "MAYONESA NATURA X 250": "1215.200",
-            "MERMELADA CIRUELA": "1367.050",
             "MORRON X 185": "2543.760",
             "NATURA SALSA GOLF X125": "969.260",
             "NESQUIK X 180": "1860.380",
@@ -522,7 +526,7 @@
             "YERBA AMANDA": "1633.340",
             "YERBA CBSE LIMON X500": "1567.350",
             "YERBA CBSE NARANJA X500": "1567.350",
-            "YERBA CBSE TRADICIONAL X500": "1786.780",
+            "YERBA CBSE TRADICIONAL X500": "1567.350",
             "YERBA MATE ANDRESITO": "1410.840",
             "YERBA MATE TARAGUI X 500": "1816.830",
             "YERBA MAÑANITA": "1910.470",
@@ -533,52 +537,94 @@
     },
     "cambios": {
         "Quesada": {
-            "FONTINA QUESADA": "10136.810",
-            "PARMESANO QUESADA": "13233.170",
-            "PARMESANO MITAD": "13643.020"
+            "PARMESANO MITAD": "13643.020",
+            "RICOTTA QUESADA": "2959.770"
+        },
+        "Emezeta": {
+            "PERNIL MINI EMEZETA": "5723.700"
         },
         "San Cayetano": {
-            "FRASCO X2KG RELLENA": "20629.230"
+            "FRASCO X1.8KG 0": "12541.890",
+            "FRASCO X2KG 00": "19509.770",
+            "FRASCO X2KG 000": "21334.530",
+            "FRASCO X1.8KG RODAJAS": "14128.580",
+            "FRASCO X2KG DESC 0": "16089.290",
+            "FRASCO X2KG DESC 00": "17395.070",
+            "FRASCO X2KG RELLENA": "22808.500",
+            "FRASCO X1KG 00": "11302.190",
+            "FRASCO NEGRA X2KG 0": "14920.200",
+            "FRASCO NEGRA X2KG 00": "21712.240",
+            "FRASCO NEGRA X1KG 0": "8860.040",
+            "BIDON X4.6KG 0": "25289.870",
+            "BIDON X4.6KG 00": "41668.420",
+            "BIDON X4.6KG 000": "45958.440",
+            "BIDON DESC X4KG 0": "30744.120",
+            "BIDON DESC X4KG 00": "34079.760",
+            "BIDON RODAJA X4KG": "27025.680",
+            "BIDON NEGRA X4.6K 0": "29900.000",
+            "BIDON ROTA X5KG": "21081.590",
+            "AJI EN VINAGRE X900GR": "11875.960",
+            "BIDON X4.6KG 1": "23340.240",
+            "BIDON X4.6KG 2": "21780.000",
+            "BIDON NEGRA DESC X4KG": "33486.240",
+            "BIDON X4.6KG RELLENA": "45912.930",
+            "FRASCO NEGRA DESC X2KG": "18258.740",
+            "BIDON X4.6KG 3": "21001.200",
+            "BIDON PICKLE X4.6KG": "16242.590"
         },
-        "Aliger": {
-            "PATEGRAS ALIGER": "8576.000",
-            "BARRA ALIGER": "7539.990"
+        "Rodriguez Acacio": {
+            "CIRUELAS SECAS X 250 C/C": "1127.960",
+            "CIRUELAS X 250 D'AGEN S/C": "1769.990",
+            "PASAS DE UVA S/SEMILLA X 100": "749.990"
         },
         "El Bocarte": {
-            "ANCHOAS X1.5KG": "35312.690"
+            "ANCHOAS 30 X 3": "16632.000"
+        },
+        "Calchaqui": {
+            "MORTADELA BOCHA CALCHAQUI": "6886.930",
+            "MORTADELA CAÑON CALCHAQUI": "5896.670",
+            "PANCETA AHUMADA CALCHAQUI": "15984.320"
+        },
+        "Paladini": {
+            "MORTADELA X4.5KG PALADINI": "7459.350",
+            "MORTADELA X 2.5KG PALADINI": "8489.910",
+            "VIENA X 6 FELA": "1057.540",
+            "PALETA PALADINI X6KG": "8892.000",
+            "VIENA X 6 PALDINI": "1837.050",
+            "LEBERWURST X 250 GRS.": "1790.040",
+            "MILAN TIVOLI": "8569.720",
+            "MILAN FELA": "11069.350"
         },
         "Finca de Santiago": {
-            "NUEZ PELADA MARIPOSA": "17817.990",
-            "ALMENDRAS PELADAS": "19439.980"
-        },
-        "Amanecer": {
-            "PAPA X 500 AMANECER": "4786.620",
-            "PAPA X 500 AMANECER AMERICANAS": "4786.620"
+            "NUEZ PELADA MARIPOSA": "17817.990"
         },
         "Platamar": {
-            "ANCHOAS X90GR": "3553.150"
+            "ANCHOAS 40X3": "18175.990"
         },
-        "Alco": {
-            "TOMATE PERITA X 400": "700.520"
+        "Abuelo Marcelino": {
+            "CREMOSO ABUELO": "5462.490",
+            "SARDO FRESCO ABUELO": "8693.980"
         },
-        "Lopardo": {
-            "PANCETA AHUMADA LOPARDO": "10782.710",
-            "MILAN LOPARDO": "6784.000",
-            "JAMON NATURAL LOPARDO": "10086.390"
+        "Don Alejandro Luoni": {
+            "PANCETA ARROLLADA": "13806.000",
+            "CRUDO ARTESANAL DON ALEJANDRO": "17522.990"
+        },
+        "Porta": {
+            "ALCOHOL PURO X 500": "1741.340"
+        },
+        "Limpialin": {
+            "DETERGENTE LIMON SUIZA X 300": "735.320",
+            "DETERGENTE LIMON SUIZA X 750": "1535.120",
+            "DETERGENTE VERDE SUIZA X 300": "735.320",
+            "DETERGENTE VERDE SUIZA X 750": "1535.120"
+        },
+        "Tresal": {
+            "SAL MONOPORCION": "9656.770"
         },
         "OTRAS COMPRAS": {
-            "YERBA MATE TARAGUI X 500": "1816.830",
-            "YERBA MATE ANDRESITO": "1410.840",
-            "YERBA CBSE TRADICIONAL X500": "1786.780",
-            "YERBA PLAYADITO X 500": "2116.170",
-            "JABON EN POLVO ALA ECOLAVADO X": "1058.560",
-            "GALLETITAS LA PROVIDENCIA X 3": "956.740",
-            "YERBA AMANDA": "1633.340",
-            "FIDEO TIRABUZON SOL PAMPEANO X": "712.500",
-            "CILO ANILLO VAINILLA X400": "1276.250",
-            "YERBA UNION X500": "2036.870",
-            "PICADILLO": "614.850"
+            "YERBA CBSE TRADICIONAL X500": "1567.350",
+            "GALLETITAS LA PROVIDENCIA X 3": "940.580"
         }
     },
-    "fecha": "30-05-2025 12:04:57"
+    "fecha": "06-06-2025 11:44:23"
 }
