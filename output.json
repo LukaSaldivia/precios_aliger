@@ -2,7 +2,7 @@
     "grupos": {
         "Peipo": {
             "CHEESTICK QUESO X 300": "1969.410",
-            "MANI JAPONES X 700 PEIPO": "3148.240",
+            "MANI JAPONES X 700 PEIPO": "3498.060",
             "PALITOS KETCHUP X 60 GRS.": "448.500",
             "PAPA CHEDDAR PEIPO X 330": "4453.360",
             "PAPA COMUN X500": "5246.720",
@@ -84,7 +84,7 @@
         },
         "Spalen": {},
         "Dulcor": {
-            "BATATA C/GUINDAS": "16889.350",
+            "BATATA C/GUINDAS": "16889.660",
             "BATATA CON CHOCOLATE X 2 KG": "3770.030",
             "BATATA CON CHOCOLATE X 700": "3179.570",
             "BATATA LATA C/CHOC.": "10497.670",
@@ -110,7 +110,7 @@
             "POSTRE DCE.LECHE C/CHOC.": "24401.210",
             "DULCE DE BATATA": "8008.360",
             "DULCE DE BATATA C/CHOC": "8008.360",
-            "DULCE DE MEMBRILLO": "9790.500"
+            "DULCE DE MEMBRILLO": "10397.220"
         },
         "San Cayetano": {
             "AJI EN VINAGRE X900GR": "11875.960",
@@ -220,7 +220,7 @@
             "KETCHUP HELLMAN`S X 60 GRS.": "651.880",
             "KETCHUP MONOP.HELLMAN´S": "15244.230",
             "MAYONESA MONOPORCION": "13292.190",
-            "MAYONESA X2.9 HELLMANS": "12126.800"
+            "MAYONESA X2.9 HELLMANS": "10814.050"
         },
         "Paladini": {
             "BONDIOLA PALADINI": "21919.880",
@@ -295,7 +295,7 @@
             "PASAS DE UVA CON CHOCOLATE X 1": "1150.440"
         },
         "Cabrales": {
-            "CAFE EN SAQ. CABRALES X18": "3098.860",
+            "CAFE EN SAQ. CABRALES X18": "4065.520",
             "CAFE EN SAQ. LA PLANTA": "3629.930",
             "CAFE TOST.MOLIDO X 250 GRS.COL": "15887.370"
         },
@@ -382,14 +382,13 @@
             "QUESO RALLADO X 40 GRS.LA QUES": "602.740"
         },
         "Mix Dietetica": {
-            "MIX CRIOLLO X 10": "7888.990",
+            "MIX CRIOLLO X 10": "8533.010",
             "MIX EUROPEO X 10": "11189.500",
             "MIX FRUTOS SECOS X 10": "19320.010",
             "MIX FUERTE X 10": "8855.000",
             "MIX P/ENSALADA X 1": "5433.750"
         },
         "Buenas Sierras": {
-            "BONDIOLA BUENAS SIERRAS": "10800.000",
             "PALETA DE CERDO BUENAS SIERRAS": "4750.010",
             "PALETA SANDWICHERA 226": "2499.990",
             "PANCETA AHUMADA BUENAS SIERRAS": "8320.010",
@@ -398,7 +397,7 @@
         },
         "Veronica": {
             "LECHE DESCREMADA VERONICA LV": "1640.910",
-            "LECHE ENTERA VERONICA LV": "1759.500"
+            "LECHE ENTERA VERONICA LV": "1852.090"
         },
         "El Rey Granel": {
             "ACEITE DE GIRASOL X 5 LTS": "9048.010",
@@ -427,14 +426,14 @@
             "BOLSAS 60X90": "2522.260",
             "BOLSAS 80 X 110": "3942.240",
             "BROCHES DE PELO PLASTICO": "1079.020",
-            "CABO DE MADERA CON ROSCA": "1153.430",
+            "CABO DE MADERA CON ROSCA": "1268.780",
             "CAFE INSTANTANEO LA VIRGINIA": "1889.080",
             "CAFE LA VIRGINIA SAQUITOS": "4567.220",
             "CAJA NAVIDEÑA Nº4": "42350.000",
             "CALDO MAGGI WILDE X2": "372.080",
             "CALDO VERDURA KNORR X 2": "483.700",
             "CAPUCHINO VIRGINIA SOBRE": "3894.850",
-            "CHOCOLINO X 180": "1668.760",
+            "CHOCOLINO X 180": "1685.870",
             "CILO ANILLO LIMON X400": "1163.830",
             "CILO ANILLO VAINILLA X400": "1276.250",
             "CILO PEPAS X400": "1157.740",
@@ -477,8 +476,8 @@
             "KETCHUP HELLMAN´S X 250 GRS.": "1644.570",
             "LAVANDINA AYUDIN 1L": "1060.420",
             "LENTEJAS LATA MAROLIO X300": "1388.970",
-            "LEVADURA LEVEX 2 X 25": "892.980",
-            "LIMON MINERVA X500": "1785.960",
+            "LEVADURA LEVEX 2 X 25": "1013.060",
+            "LIMON MINERVA X500": "2102.230",
             "LIMP LIQ HEROE X900 BRISA MAR": "744.150",
             "LIMP LIQ HEROO X900 PINO SILV": "744.150",
             "LIMPIADOR POETT": "1369.240",
@@ -491,7 +490,7 @@
             "MAYONESA NATURA X 125": "591.820",
             "MAYONESA NATURA X 250": "1215.200",
             "MORRON X 185": "2543.760",
-            "NATURA SALSA GOLF X125": "969.260",
+            "NATURA SALSA GOLF X125": "798.100",
             "NESQUIK X 180": "1860.380",
             "OREGANO ALICANTE X 25": "943.210",
             "PALILLOS IMPACTO": "287.750",
@@ -536,95 +535,66 @@
         }
     },
     "cambios": {
+        "Peipo": {
+            "MANI JAPONES X 700 PEIPO": "3498.060",
+            "CHEESTICK QUESO X 300": "1969.410"
+        },
         "Quesada": {
+            "CREMOSO QUESADA": "6045.920",
+            "PATEGRAS QUESADA": "9713.710",
             "PARMESANO MITAD": "13643.020",
             "RICOTTA QUESADA": "2959.770"
         },
-        "Emezeta": {
-            "PERNIL MINI EMEZETA": "5723.700"
-        },
-        "San Cayetano": {
-            "FRASCO X1.8KG 0": "12541.890",
-            "FRASCO X2KG 00": "19509.770",
-            "FRASCO X2KG 000": "21334.530",
-            "FRASCO X1.8KG RODAJAS": "14128.580",
-            "FRASCO X2KG DESC 0": "16089.290",
-            "FRASCO X2KG DESC 00": "17395.070",
-            "FRASCO X2KG RELLENA": "22808.500",
-            "FRASCO X1KG 00": "11302.190",
-            "FRASCO NEGRA X2KG 0": "14920.200",
-            "FRASCO NEGRA X2KG 00": "21712.240",
-            "FRASCO NEGRA X1KG 0": "8860.040",
-            "BIDON X4.6KG 0": "25289.870",
-            "BIDON X4.6KG 00": "41668.420",
-            "BIDON X4.6KG 000": "45958.440",
-            "BIDON DESC X4KG 0": "30744.120",
-            "BIDON DESC X4KG 00": "34079.760",
-            "BIDON RODAJA X4KG": "27025.680",
-            "BIDON NEGRA X4.6K 0": "29900.000",
-            "BIDON ROTA X5KG": "21081.590",
-            "AJI EN VINAGRE X900GR": "11875.960",
-            "BIDON X4.6KG 1": "23340.240",
-            "BIDON X4.6KG 2": "21780.000",
-            "BIDON NEGRA DESC X4KG": "33486.240",
-            "BIDON X4.6KG RELLENA": "45912.930",
-            "FRASCO NEGRA DESC X2KG": "18258.740",
-            "BIDON X4.6KG 3": "21001.200",
-            "BIDON PICKLE X4.6KG": "16242.590"
-        },
-        "Rodriguez Acacio": {
-            "CIRUELAS SECAS X 250 C/C": "1127.960",
-            "CIRUELAS X 250 D'AGEN S/C": "1769.990",
-            "PASAS DE UVA S/SEMILLA X 100": "749.990"
+        "Dulcor": {
+            "DULCE DE MEMBRILLO": "10397.220",
+            "BATATA C/GUINDAS": "16889.660"
         },
         "El Bocarte": {
             "ANCHOAS 30 X 3": "16632.000"
         },
         "Calchaqui": {
-            "MORTADELA BOCHA CALCHAQUI": "6886.930",
-            "MORTADELA CAÑON CALCHAQUI": "5896.670",
-            "PANCETA AHUMADA CALCHAQUI": "15984.320"
+            "MORTADELA BOCHA CALCHAQUI": "6886.930"
+        },
+        "Hellmans": {
+            "MAYONESA X2.9 HELLMANS": "10814.050"
         },
         "Paladini": {
             "MORTADELA X4.5KG PALADINI": "7459.350",
             "MORTADELA X 2.5KG PALADINI": "8489.910",
             "VIENA X 6 FELA": "1057.540",
-            "PALETA PALADINI X6KG": "8892.000",
             "VIENA X 6 PALDINI": "1837.050",
             "LEBERWURST X 250 GRS.": "1790.040",
             "MILAN TIVOLI": "8569.720",
             "MILAN FELA": "11069.350"
         },
-        "Finca de Santiago": {
-            "NUEZ PELADA MARIPOSA": "17817.990"
+        "Fepa": {
+            "MATAMBRE FEPA": "8886.230",
+            "MATAMBRE EL CRIOLLITO": "12015.000"
         },
-        "Platamar": {
-            "ANCHOAS 40X3": "18175.990"
-        },
-        "Abuelo Marcelino": {
-            "CREMOSO ABUELO": "5462.490",
-            "SARDO FRESCO ABUELO": "8693.980"
-        },
-        "Don Alejandro Luoni": {
-            "PANCETA ARROLLADA": "13806.000",
-            "CRUDO ARTESANAL DON ALEJANDRO": "17522.990"
-        },
-        "Porta": {
-            "ALCOHOL PURO X 500": "1741.340"
-        },
-        "Limpialin": {
-            "DETERGENTE LIMON SUIZA X 300": "735.320",
-            "DETERGENTE LIMON SUIZA X 750": "1535.120",
-            "DETERGENTE VERDE SUIZA X 300": "735.320",
-            "DETERGENTE VERDE SUIZA X 750": "1535.120"
+        "Cabrales": {
+            "CAFE EN SAQ. CABRALES X18": "4065.520"
         },
         "Tresal": {
-            "SAL MONOPORCION": "9656.770"
+            "SAL GRUESA TRESAL X 1 KG": "705.130"
+        },
+        "Mix Dietetica": {
+            "MIX CRIOLLO X 10": "8533.010",
+            "MIX FUERTE X 10": "8855.000",
+            "MIX EUROPEO X 10": "11189.500"
+        },
+        "Veronica": {
+            "LECHE ENTERA VERONICA LV": "1852.090"
         },
         "OTRAS COMPRAS": {
+            "LEVADURA LEVEX 2 X 25": "1013.060",
             "YERBA CBSE TRADICIONAL X500": "1567.350",
-            "GALLETITAS LA PROVIDENCIA X 3": "940.580"
+            "GALLETITAS LA PROVIDENCIA X 3": "940.580",
+            "CHOCOLINO X 180": "1685.870",
+            "TE TARAGUI COMUN": "727.630",
+            "NATURA SALSA GOLF X125": "798.100",
+            "CABO DE MADERA CON ROSCA": "1268.780",
+            "LIMON MINERVA X500": "2102.230"
         }
     },
-    "fecha": "06-06-2025 11:44:23"
+    "fecha": "13-06-2025 11:59:37"
 }
