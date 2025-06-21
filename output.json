@@ -97,9 +97,9 @@
             "MEMBRILLO X 2 KG.": "4603.190",
             "MERMELADA ARANADANO X 390": "2990.080",
             "MERMELADA CORMILLOT DURAZNO": "1374.560",
-            "MERMELADA DULCOR FRASCO DAMASC": "1246.750",
-            "MERMELADA DULCOR FRASCO DURAZN": "1246.750",
-            "MERMELADA DULCOR FRASCO FRUTIL": "1594.610",
+            "MERMELADA DULCOR FRASCO DAMASC": "1323.870",
+            "MERMELADA DULCOR FRASCO DURAZN": "1324.650",
+            "MERMELADA DULCOR FRASCO FRUTIL": "1693.270",
             "MERMELADA DULCOR FRASCO HIGO": "1594.610",
             "MERMELADA DULCOR FRASCO NARANJ": "1187.370",
             "MERMELADA ESNAOLA DURAZNO X 39": "2392.160",
@@ -185,6 +185,7 @@
             "FECULA DE MAIZ AYS X1KG": "2318.190",
             "FECULA DE MAIZ X 200": "579.430",
             "OREGANO X 1 KG": "4278.290",
+            "PEREJIL DESHIDRATADO X25GR": "417.840",
             "PIM BLANCA MOLIDA X 1 KG": "11874.530",
             "PIMENTON X 1 KG": "6468.480",
             "PROVENZAL X 1 KG": "5021.820",
@@ -205,19 +206,20 @@
             "SALSA BLANCA X25GR": "257.030"
         },
         "Calchaqui": {
+            "LECHE LARGA VIDA ILOLAY": "1563.390",
             "MORTADELA PICCOLA CALCHAQUI": "1930.480",
             "BONDIOLA CALCHAQUI": "19716.840",
             "MORTADELA BOCHA CALCHAQUI": "6886.930",
             "MORTADELA C/PIST CALCHAQUI": "9776.780",
             "MORTADELA CAÑON CALCHAQUI": "5896.670",
-            "MORTADELA GIG. CALCHAQUI": "7175.950",
+            "MORTADELA GIG. CALCHAQUI": "7391.240",
             "PANCETA AHUMADA CALCHAQUI": "15984.320"
         },
         "Bocatti": {
             "JAMON COCIDO BOCATTI": "16306.340"
         },
         "Hellmans": {
-            "KETCHUP HELLMAN`S X 60 GRS.": "651.880",
+            "KETCHUP HELLMAN`S X 60 GRS.": "732.240",
             "KETCHUP MONOP.HELLMAN´S": "15244.230",
             "MAYONESA MONOPORCION": "13292.190",
             "MAYONESA X2.9 HELLMANS": "10814.050"
@@ -297,7 +299,14 @@
         "Cabrales": {
             "CAFE EN SAQ. CABRALES X18": "4065.520",
             "CAFE EN SAQ. LA PLANTA": "3629.930",
-            "CAFE TOST.MOLIDO X 250 GRS.COL": "15887.370"
+            "CAFE TOST.MOLIDO X 250 GRS.COL": "15887.370",
+            "CAPSULA CORTADO DOLCE GUSTO": "5476.290",
+            "CAPSULA ESPRESSO DOLCE GUSTO": "5476.290",
+            "CAPSULA INTENSO LA PL.NESPRESS": "5135.600",
+            "CAPSULA LATTE DOLCE GUSTO": "8809.650",
+            "CAPSULA MOKA DOLCE GUSTO": "8809.650",
+            "CAPSULA PERU NESPRESSO": "8676.660",
+            "CAPSULA VITA NESPRESSO": "8676.660"
         },
         "La Primera": {
             "MANTECA X 100 PRIMER PREMIO": "1132.560",
@@ -446,7 +455,6 @@
             "ESPONJA ACERO SED METAL": "691.490",
             "ESPONJA AMARILLA": "986.760",
             "ESPONJA DORADA": "1074.660",
-            "EXTRACTO VAINILLA X 28 CC": "572.310",
             "FIBROESPONJA": "394.700",
             "FIDEO CELENTANO SOL PAMP": "798.330",
             "FIDEO FUSSARELLO": "1299.070",
@@ -457,6 +465,7 @@
             "FIDEO SPAGHETTI SOL PAMP": "798.330",
             "FIDEO TALLARIN SOL PAMPEANO X": "712.500",
             "FIDEO TIRABUZON SOL PAMPEANO X": "712.500",
+            "FOSFOROS 3 PATITOS": "866.050",
             "GALLETITA PEPAS X400": "1013.920",
             "GALLETITAS LA PROVIDENCIA X 3": "940.580",
             "HARINA 000 CAÑUELA X1KG": "668.170",
@@ -470,6 +479,7 @@
             "JABON EN POLVO ZORRO": "818.570",
             "JABON LIQUIDO ZELNOVA": "7441.250",
             "JABON SEISEME X 300": "1393.050",
+            "JABON TIRA PATRICIA 3X80": "11131.310",
             "JARDINERA X 350": "776.450",
             "JUGO BAGGIO X250": "478.120",
             "JUGO DE LIMON MINERVA X 250": "1205.110",
@@ -501,7 +511,6 @@
             "PURE DE PAPAS MAGGI X 125": "1827.040",
             "REJILLA PARA COCHE": "717.290",
             "REJILLA SUIZA 34X38": "875.130",
-            "ROLLO DE COCINA CARRITE 12X200": "1317.610",
             "SAL GRUESA 2 ANCLAS X 500": "1104.380",
             "SALSA GOLF NATURA X 250": "1460.400",
             "SAVORA MONOPORCION": "18634.420",
@@ -515,7 +524,7 @@
             "TE TARAGUI COMUN": "727.630",
             "TE TARAGUI MANZANILLA": "1631.820",
             "TE TARAGÜI PLACERES VERDE HIGO": "1857.770",
-            "TOCADOR PLUSBELLE": "688.350",
+            "TOCADOR PLUSBELLE": "845.540",
             "TOMATE X8 COUPER": "9838.900",
             "TRAPO DE PISO": "1061.240",
             "TRAPO GRIS B-AIRE/JULIET": "744.150",
@@ -535,66 +544,40 @@
         }
     },
     "cambios": {
-        "Peipo": {
-            "MANI JAPONES X 700 PEIPO": "3498.060",
-            "CHEESTICK QUESO X 300": "1969.410"
-        },
         "Quesada": {
-            "CREMOSO QUESADA": "6045.920",
-            "PATEGRAS QUESADA": "9713.710",
-            "PARMESANO MITAD": "13643.020",
-            "RICOTTA QUESADA": "2959.770"
+            "CRIOLLO QUESADA": "9713.710"
         },
         "Dulcor": {
-            "DULCE DE MEMBRILLO": "10397.220",
-            "BATATA C/GUINDAS": "16889.660"
+            "MERMELADA DULCOR FRASCO FRUTIL": "1693.270",
+            "MERMELADA DULCOR FRASCO DURAZN": "1324.650",
+            "MERMELADA DULCOR FRASCO DAMASC": "1323.870"
         },
-        "El Bocarte": {
-            "ANCHOAS 30 X 3": "16632.000"
+        "Aromas y Sabores": {
+            "PEREJIL DESHIDRATADO X25GR": "417.840"
         },
         "Calchaqui": {
-            "MORTADELA BOCHA CALCHAQUI": "6886.930"
+            "MORTADELA BOCHA CALCHAQUI": "6886.930",
+            "MORTADELA GIG. CALCHAQUI": "7391.240",
+            "LECHE LARGA VIDA ILOLAY": "1563.390"
         },
         "Hellmans": {
-            "MAYONESA X2.9 HELLMANS": "10814.050"
-        },
-        "Paladini": {
-            "MORTADELA X4.5KG PALADINI": "7459.350",
-            "MORTADELA X 2.5KG PALADINI": "8489.910",
-            "VIENA X 6 FELA": "1057.540",
-            "VIENA X 6 PALDINI": "1837.050",
-            "LEBERWURST X 250 GRS.": "1790.040",
-            "MILAN TIVOLI": "8569.720",
-            "MILAN FELA": "11069.350"
-        },
-        "Fepa": {
-            "MATAMBRE FEPA": "8886.230",
-            "MATAMBRE EL CRIOLLITO": "12015.000"
+            "KETCHUP HELLMAN`S X 60 GRS.": "732.240"
         },
         "Cabrales": {
-            "CAFE EN SAQ. CABRALES X18": "4065.520"
-        },
-        "Tresal": {
-            "SAL GRUESA TRESAL X 1 KG": "705.130"
-        },
-        "Mix Dietetica": {
-            "MIX CRIOLLO X 10": "8533.010",
-            "MIX FUERTE X 10": "8855.000",
-            "MIX EUROPEO X 10": "11189.500"
-        },
-        "Veronica": {
-            "LECHE ENTERA VERONICA LV": "1852.090"
+            "CAPSULA CORTADO DOLCE GUSTO": "5476.290",
+            "CAPSULA ESPRESSO DOLCE GUSTO": "5476.290",
+            "CAPSULA INTENSO LA PL.NESPRESS": "5135.600",
+            "CAPSULA LATTE DOLCE GUSTO": "8809.650",
+            "CAPSULA MOKA DOLCE GUSTO": "8809.650",
+            "CAPSULA PERU NESPRESSO": "8676.660",
+            "CAPSULA VITA NESPRESSO": "8676.660"
         },
         "OTRAS COMPRAS": {
-            "LEVADURA LEVEX 2 X 25": "1013.060",
-            "YERBA CBSE TRADICIONAL X500": "1567.350",
-            "GALLETITAS LA PROVIDENCIA X 3": "940.580",
-            "CHOCOLINO X 180": "1685.870",
-            "TE TARAGUI COMUN": "727.630",
-            "NATURA SALSA GOLF X125": "798.100",
-            "CABO DE MADERA CON ROSCA": "1268.780",
-            "LIMON MINERVA X500": "2102.230"
+            "LIMON MINERVA X500": "1476.010",
+            "TOCADOR PLUSBELLE": "845.540",
+            "FOSFOROS 3 PATITOS": "866.050",
+            "JABON TIRA PATRICIA 3X80": "11131.310"
         }
     },
-    "fecha": "13-06-2025 11:59:37"
+    "fecha": "21-06-2025 13:02:28"
 }
