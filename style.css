@@ -407,6 +407,17 @@ body>main {
         section.list-container {
           display: contents;
 
+          article{
+            order: unset;
+          }
+
+          article p:first-child::after{
+            content: "- " attr(data-empresa);
+            margin-left: .7cap;
+            color: var(--clr-primary-light);
+            font-style: italic;
+          }
+
           article:not(.found) {
             display: none;
           }

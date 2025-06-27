@@ -40,7 +40,7 @@ fetch('output.json').then(response => response.json()).then(data => {
 
       articles += `
       <article class="${cambiado ? 'alert' : ''}">
-        <p>${articulo}</p><p>${format(precio)}</p>
+        <p data-empresa="${empresa}">${articulo.toLowerCase()}</p><p>${format(precio)}</p>
       </article>
       `
     }
@@ -146,15 +146,6 @@ function search(text) {
 
         }
       }
-
-
-
-
-
-
-
-
-
     }
   }else{
     document.title = "Aliger | Lista de precios"
