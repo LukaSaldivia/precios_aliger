@@ -168,8 +168,8 @@
             "ANCHOAS X1.5KG": "35312.690"
         },
         "Halcon": {
-            "GRASA DE CERDO": "1952.000",
-            "GRASA VACUNA": "1829.990"
+            "GRASA DE CERDO": "2015.440",
+            "GRASA VACUNA": "1893.440"
         },
         "Aromas y Sabores": {
             "ADOBO P/PIZZAS X 1 KG": "4654.280",
@@ -227,7 +227,7 @@
             "KETCHUP HELLMAN`S X 60 GRS.": "732.240",
             "KETCHUP MONOP.HELLMAN´S": "15244.230",
             "MAYONESA MONOPORCION": "13292.190",
-            "MAYONESA X2.9 HELLMANS": "10814.050"
+            "MAYONESA X2.9 HELLMANS": "11038.950"
         },
         "Paladini": {
             "BONDIOLA PALADINI": "20160.000",
@@ -255,21 +255,21 @@
             "MANI REPELADO CRIS JOR": "4309.490"
         },
         "Fepa": {
-            "MATAMBRE EL CRIOLLITO": "12015.000",
-            "MATAMBRE FEPA": "8886.230",
-            "MATAMBRE PREMIUN EL CRIOLLITO": "13831.870",
-            "POLLO FEPA": "8482.320"
+            "MATAMBRE EL CRIOLLITO": "13096.120",
+            "MATAMBRE FEPA": "9685.760",
+            "MATAMBRE PREMIUN EL CRIOLLITO": "15076.130",
+            "POLLO FEPA": "9245.020"
         },
         "Chiro": {
-            "ACEITE DE OLIVA X 500": "9112.330",
-            "RELLENA GOURMET X 200": "4324.320",
+            "ACEITE DE OLIVA X 500": "9466.240",
+            "RELLENA GOURMET X 200": "4800.320",
             "SACHET DESC.X 100 CHIRO": "865.100",
             "SACHET RELLENA CHIRO": "1005.560",
             "SACHET X 100 CHIRO": "646.810"
         },
         "Lo tauro": {
             "SACHET X 100 NATURAL SHOP": "592.490",
-            "SACHET X100 DESC LO TAURO": "858.580"
+            "SACHET X100 DESC NATURAL SHOP": "858.600"
         },
         "La Juanita": {
             "CREMOSO LA JUANITA": "5704.000",
@@ -405,8 +405,7 @@
         "Buenas Sierras": {
             "PALETA DE CERDO BUENAS SIERRAS": "4750.010",
             "PANCETA AHUMADA BUENAS SIERRAS": "8320.010",
-            "PATA DE CERDO BUENAS SIERRAS": "5375.000",
-            "QUESO DE CERDO B.SIERRAS": "3000.000"
+            "PATA DE CERDO BUENAS SIERRAS": "5375.000"
         },
         "Veronica": {
             "LECHE DESCREMADA VERONICA LV": "1640.910",
@@ -419,7 +418,15 @@
         "Lopardo": {
             "JAMON NATURAL LOPARDO": "10086.390",
             "MILAN LOPARDO": "6784.000",
-            "PANCETA AHUMADA LOPARDO": "10782.710"
+            "PALETA COCIDA DON SILVIO": "4501.810",
+            "PANCETA AHUMADA LOPARDO": "10782.710",
+            "QUESO DE CERDO LOPARDO": "4524.000"
+        },
+        "Cabaña Azul": {
+            "BARRA CABAÑA AZUL": "7139.000",
+            "CREMOSO CABAÑA AZUL": "5566.000",
+            "MUZZA CABAÑA AZUL": "6612.000",
+            "MUZZA PLANCHA": "6728.000"
         },
         "OTRAS COMPRAS": {
             "ACEITE MOLINO CAÑUELAS": "2565.240",
@@ -515,6 +522,7 @@
             "PIMENTON ALICANTE X 25": "611.390",
             "POROTOS MOLTO X 300": "865.500",
             "PURE DE PAPAS MAGGI X 125": "1827.040",
+            "REJILLA COMUN": "0.000",
             "REJILLA PARA COCHE": "717.290",
             "REJILLA SUIZA 34X38": "875.130",
             "SAL GRUESA 2 ANCLAS X 500": "1104.380",
@@ -550,44 +558,31 @@
         }
     },
     "cambios": {
-        "Peipo": {
-            "MANI REPELADO PEIPO": "4123.600"
-        },
         "Quesada": {
-            "MANTECA X200GR CLUCELAT": "1768.960",
-            "MANTECA X 2.5 KG CLUCELAT": "22111.750",
-            "REGIANO MITADES": "12688.610"
+            "ROMANITO QUESADA": "11704.720"
         },
-        "Emezeta": {
-            "BONDIOLA AL VACIO 1/2 MZ": "14643.090"
+        "Productos W": {
+            "CRUDO W": "12361.510"
         },
-        "Dulcor": {
-            "DULCE DE MEMBRILLO": "10461.470",
-            "DULCE DE BATATA": "8494.490",
-            "DULCE DE BATATA C/CHOC": "8494.490",
-            "BATATA C/GUINDAS": "17915.280",
-            "MERMELADA DULCOR FRASCO FRUTIL": "1696.290",
-            "MERMELADA DULCOR FRASCO DURAZN": "1326.220",
-            "MERMELADA FRASCO DULCOR CIRUEL": "1314.690",
-            "MERMELADA DULCOR FRASCO DAMASC": "1326.220",
-            "BATATA CON CHOCOLATE X 2 KG": "3998.890",
-            "BATATA VLLA.X 2 KG.": "3998.890",
-            "MEMBRILLO X 2 KG.": "4914.110",
-            "BATATA CON CHOCOLATE X 700": "3366.600",
-            "BATATA X 500 ESNAOLA": "1286.500",
-            "BATATA CAJON ESNAOLA": "9360.220"
+        "Halcon": {
+            "GRASA VACUNA": "1893.440",
+            "GRASA DE CERDO": "2015.440"
         },
-        "Rodriguez Acacio": {
-            "CIRUELAS X 250 D'AGEN S/C": "2124.000"
+        "Hellmans": {
+            "MAYONESA X2.9 HELLMANS": "11038.950"
         },
-        "Aliger": {
-            "SARDO ALIGER": "8750.010"
+        "Fepa": {
+            "MATAMBRE FEPA": "9685.760",
+            "POLLO FEPA": "9245.020",
+            "MATAMBRE PREMIUN EL CRIOLLITO": "15076.130",
+            "MATAMBRE EL CRIOLLITO": "13096.120"
         },
-        "Paladini": {
-            "BONDIOLA PALADINI": "20160.000"
+        "Chiro": {
+            "ACEITE DE OLIVA X 500": "9466.240",
+            "RELLENA GOURMET X 200": "4800.320"
         },
-        "Abuelo Marcelino": {
-            "SARDO ESTACIONADO ABUELO": "10465.000"
+        "Lo tauro": {
+            "SACHET X100 DESC NATURAL SHOP": "858.600"
         },
         "Porta": {
             "ALCOHOL DE QUEMAR X 1L": "2313.840"
@@ -596,20 +591,26 @@
             "SAL GRUESA TRESAL X 1 KG": "717.720",
             "SAL FINA TRESAL X 500": "457.620"
         },
+        "Lopardo": {
+            "PALETA COCIDA DON SILVIO": "4501.810",
+            "QUESO DE CERDO LOPARDO": "4524.000"
+        },
+        "Cabaña Azul": {
+            "BARRA CABAÑA AZUL": "7139.000",
+            "CREMOSO CABAÑA AZUL": "5566.000",
+            "MUZZA CABAÑA AZUL": "6612.000",
+            "MUZZA PLANCHA": "6728.000"
+        },
         "OTRAS COMPRAS": {
-            "SAVORA SACHET X60": "690.200",
             "ALA DETERGENTE": "1953.400",
-            "YERBA PLAYADITO X 500": "2647.920",
-            "CHOCOLINO X 180": "1694.440",
             "BOLSAS 60X90": "982.280",
-            "VINAGRE MANZANA X 500ML": "1259.480",
-            "FIDEO CELENTANO SOL PAMP": "712.390",
             "LIMPIADOR POETT": "1536.680",
             "LIMON MINERVA X500": "2102.230",
             "TRAPO GRIS B-AIRE/JULIET": "837.180",
             "NATURA SALSA GOLF X125": "989.720",
-            "CALDO DE GALLINA": "446.490"
+            "CALDO DE GALLINA": "446.490",
+            "REJILLA COMUN": "0.000"
         }
     },
-    "fecha": "10-07-2025 13:50:57"
+    "fecha": "21-07-2025 11:06:20"
 }
