@@ -180,7 +180,7 @@
             "ALBAHACA X 1KG": "8239.060",
             "AZUCAR IMPALPABLE X 200": "903.270",
             "AZUCAR IMPALPABLE X1KG AYS": "3780.050",
-            "BICARBONATO X 50 GRS.": "320.300",
+            "BICARBONATO X 50 GRS.": "544.720",
             "CANELA MOLIDA X25": "471.900",
             "CHIMICHURRI X 1 KG": "3989.810",
             "COCO RALLADO X 25 GRS.": "287.540",
@@ -228,7 +228,7 @@
         "Hellmans": {
             "KETCHUP HELLMAN`S X 60 GRS.": "785.820",
             "KETCHUP MONOP.HELLMAN´S": "15244.230",
-            "MAYONESA MONOPORCION": "13779.800",
+            "MAYONESA MONOPORCION": "14558.120",
             "MAYONESA X2.9 HELLMANS": "11038.950"
         },
         "Paladini": {
@@ -423,6 +423,7 @@
         },
         "Lopardo": {
             "CASERITA LOPARDO": "9687.600",
+            "JAMON COCIDO C/C LOPARDO": "5840.610",
             "JAMON NATURAL LOPARDO": "10086.390",
             "LONGA NAP.LOPARDO": "9687.600",
             "MILAN LOPARDO": "6784.000",
@@ -493,7 +494,7 @@
             "FIDEO TIRABUZON SOL PAMPEANO X": "712.500",
             "FOSFOROS 3 PATITOS": "866.050",
             "GALLETITA PEPAS X400": "1013.920",
-            "GALLETITAS LA PROVIDENCIA X 3": "1077.080",
+            "GALLETITAS LA PROVIDENCIA X 3": "1060.140",
             "HARINA 000 CAÑUELA X1KG": "668.170",
             "HARINA COMUN 000 PUREZA": "841.000",
             "HARINA COMUN 0000 PUREZA": "1049.750",
@@ -501,7 +502,7 @@
             "HARINA LEUDANTE PUREZA": "1370.880",
             "HARINA P/PIZZA PUREZA": "1379.410",
             "INSECTICIDA FUYI": "3934.690",
-            "JABON EN POLVO ALA ECOLAVADO X": "1181.250",
+            "JABON EN POLVO ALA ECOLAVADO X": "1304.130",
             "JABON EN POLVO ZORRO": "818.570",
             "JABON LIQUIDO ZELNOVA": "7441.250",
             "JABON SEISEME X 300": "1393.050",
@@ -517,7 +518,7 @@
             "LIMP LIQ HEROE X900 BRISA MAR": "744.150",
             "LIMP LIQ HEROO X900 PINO SILV": "744.150",
             "LIMPIADOR POETT": "1536.680",
-            "MAIZ PISINGALLO": "892.980",
+            "MAIZ PISINGALLO": "1116.230",
             "MARGARINA MASA PILON": "2570.940",
             "MATAMBRE TRIUNFO": "11271.150",
             "MAYONESA MENOYO 2.700CC": "6609.630",
@@ -559,117 +560,47 @@
             "VINAGRE MANZANA X 500ML": "1259.480",
             "VIRULANA ROLLO": "892.980",
             "YERBA AMANDA": "1633.340",
-            "YERBA CBSE LIMON X500": "1567.350",
-            "YERBA CBSE NARANJA X500": "1567.350",
-            "YERBA CBSE TRADICIONAL X500": "1567.350",
+            "YERBA CBSE LIMON X500": "1724.250",
+            "YERBA CBSE NARANJA X500": "1724.250",
+            "YERBA CBSE TRADICIONAL X500": "1724.250",
             "YERBA MATE ANDRESITO": "1410.840",
             "YERBA MATE TARAGUI X 500": "1816.830",
             "YERBA MAÑANITA": "1910.470",
-            "YERBA PLAYADITO X 500": "2647.920",
+            "YERBA PLAYADITO X 500": "2322.730",
             "YERBA TARAGÜI X 500 SIN PALO": "2821.440",
             "YERBA UNION X500": "2036.870"
         }
     },
     "cambios": {
         "Quesada": {
-            "PATEGRAS QUESADA": "9713.710"
+            "MUZZA CILINDRO QUESADA": "6384.490",
+            "REGGIANO QUESADA": "12504.140"
         },
-        "Dulcor": {
-            "MERMELADA FRASCO DULCOR CIRUEL": "1341.520",
-            "MERMELADA DULCOR FRASCO NARANJ": "1341.520",
-            "BATATA VLLA.LATA X 700": "3441.420",
-            "MEMBRILLO LATA X 700": "4276.610",
-            "BATATA X 500 ESNAOLA": "1315.080",
-            "BATATA CON CHOC.X 500": "1086.360",
-            "MEMBRILLO X 500": "1353.120"
-        },
-        "San Cayetano": {
-            "FRASCO X1.8KG RODAJAS": "14471.130",
-            "FRASCO X2KG DESC 00": "17985.400",
-            "FRASCO NEGRA X1KG 0": "12818.340",
-            "BIDON DESC X4KG 0": "34344.420",
-            "BIDON DESC X4KG 00": "31954.620"
-        },
-        "Rodriguez Acacio": {
-            "BOTELLA TOMATE ROD AC": "1562.500"
-        },
-        "Halcon": {
-            "GRASA VACUNA": "1893.440",
-            "GRASA DE CERDO": "2015.440"
+        "Aromas y Sabores": {
+            "BICARBONATO X 50 GRS.": "544.720"
         },
         "Hellmans": {
-            "MAYONESA X2.9 HELLMANS": "11038.950",
-            "MAYONESA MONOPORCION": "13779.800",
-            "KETCHUP HELLMAN`S X 60 GRS.": "785.820"
+            "MAYONESA MONOPORCION": "14558.120"
         },
         "Paladini": {
-            "MORTADELA X4.5KG PALADINI": "6829.660",
-            "MORTADELA X 2.5KG PALADINI": "7670.880",
-            "VIENA X 6 FELA": "902.440",
-            "PALETA PALADINI X6KG": "9071.330",
-            "VIENA X 6 PALDINI": "1410.850",
-            "LEBERWURST X 250 GRS.": "1756.630",
-            "JAMON COCIDO PALADINI X 6 KG": "9782.320",
-            "BONDIOLA PALADINI": "20505.350",
-            "QUESO DE CERDO PALADINI": "5966.580",
             "PATE PALADINI": "550.550",
             "PICADILLO PALADINI": "550.550"
         },
-        "Fepa": {
-            "MATAMBRE FEPA": "9685.760",
-            "POLLO FEPA": "9245.020",
-            "MATAMBRE PREMIUN EL CRIOLLITO": "15076.130",
-            "MATAMBRE EL CRIOLLITO": "13096.120"
-        },
-        "Chiro": {
-            "ACEITE DE OLIVA X 500": "9466.240",
-            "RELLENA GOURMET X 200": "4800.320"
-        },
-        "Cavade": {
-            "ACEITE GIRASOL X 900": "1693.600"
-        },
-        "Abuelo Marcelino": {
-            "GOUDA ABUELO": "9794.010",
-            "SARDO FRESCO ABUELO": "9072.000"
-        },
-        "Don Alejandro Luoni": {
-            "PANCETA ARROLLADA": "14160.000"
-        },
-        "La Quesera": {
-            "QUESO RALLADO X 40 GRS.LA QUES": "539.480",
-            "BARRA CHEDDAR LA QUESERA": "13202.370"
-        },
-        "El Rey Granel": {
-            "ACEITE DE GIRASOL X 5 LTS": "9204.000"
-        },
         "Lopardo": {
-            "SALAMIN LOPARDO": "10350.000",
             "CASERITA LOPARDO": "9687.600",
-            "LONGA NAP.LOPARDO": "9687.600"
-        },
-        "Cabaña Azul": {
-            "CREMOSO CABAÑA AZUL": "5566.000",
-            "MUZZA CABAÑA AZUL": "6612.000",
-            "QUESO DE CERDO VICTORIA": "4200.000"
-        },
-        "Sol Naciente": {
-            "CRUDO SOL NACIENTE": "14160.000"
+            "LONGA NAP.LOPARDO": "9687.600",
+            "JAMON COCIDO C/C LOPARDO": "5840.610"
         },
         "OTRAS COMPRAS": {
-            "VIRULANA ROLLO": "892.980",
-            "BOLSAS ZELNOVA 80 X 110": "2046.410",
-            "SAVORA SACHET X60": "651.140",
-            "CALDO VERDURA KNORR X 2": "446.490",
-            "PATE ECONOMICO": "614.850",
-            "JABON EN POLVO ALA ECOLAVADO X": "1181.250",
-            "GALLETITAS LA PROVIDENCIA X 3": "1077.080",
-            "CHOCOLINO X 180": "1730.370",
-            "BOLSAS ZELNOVA 60X90": "982.280",
-            "ESPONJA DORADA": "1079.020",
-            "FIDEO CELENTANO SOL PAMP": "712.500",
-            "SAVORA MONOPORCION": "11811.340",
-            "REJILLA COMUN": "567.940"
+            "YERBA MATE ANDRESITO": "1410.840",
+            "YERBA CBSE TRADICIONAL X500": "1724.250",
+            "YERBA PLAYADITO X 500": "2322.730",
+            "JABON EN POLVO ALA ECOLAVADO X": "1304.130",
+            "GALLETITAS LA PROVIDENCIA X 3": "1060.140",
+            "MAIZ PISINGALLO": "1116.230",
+            "YERBA CBSE LIMON X500": "1724.250",
+            "YERBA CBSE NARANJA X500": "1724.250"
         }
     },
-    "fecha": "01-08-2025 12:01:05"
+    "fecha": "08-08-2025 11:28:40"
 }
