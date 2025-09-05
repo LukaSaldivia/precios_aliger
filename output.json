@@ -269,7 +269,7 @@
             "RELLENA GOURMET X 200": "4800.320",
             "SACHET DESC.X 100 CHIRO": "865.100",
             "SACHET RELLENA CHIRO": "1005.560",
-            "SACHET X 100 CHIRO": "646.810"
+            "SACHET X 100 CHIRO": "655.200"
         },
         "Lo tauro": {
             "SACHET X 100 NATURAL SHOP": "592.490",
@@ -327,7 +327,7 @@
             "ANCHOAS X90GR": "3553.150"
         },
         "Cavade": {
-            "ACEITE GIRASOL X 900": "1693.600",
+            "ACEITE GIRASOL X 900": "1810.400",
             "PAPEL HIGIENICO CAVADE X 4X 30": "946.120"
         },
         "Il Molise": {},
@@ -338,10 +338,10 @@
             "SARDO FRESCO ABUELO": "9072.000"
         },
         "Don Luis": {
-            "LONGA CALABRESA DON LUIS": "10701.000",
-            "PECHERA DON LUIS": "10701.000",
+            "LONGA CALABRESA DON LUIS": "11316.010",
+            "PECHERA DON LUIS": "11316.010",
             "SALAME COLORADO DON LUIS": "10701.000",
-            "SALAME DON LUIS": "11069.990"
+            "SALAME DON LUIS": "11684.990"
         },
         "Alco": {
             "DURAZNO X 820": "1332.340",
@@ -349,6 +349,7 @@
             "TOMATE PERITA X 400": "722.180"
         },
         "Carrité": {
+            "MICROFIBRA PAÑO 30X40": "1200.010",
             "ROLLO DE COCINA X 6": "1317.610"
         },
         "Campo Grande": {},
@@ -362,7 +363,7 @@
             "VINAGRE DE ALCOHOL X 500": "672.220"
         },
         "Don Alejandro Luoni": {
-            "CRUDO ARTESANAL DON ALEJANDRO": "17522.990",
+            "CRUDO ARTESANAL DON ALEJANDRO": "20585.000",
             "PANCETA ARROLLADA": "15080.400"
         },
         "Porta": {
@@ -452,7 +453,7 @@
             "AZUCAR LA TIKAY X1": "898.910",
             "BOLSAS 50X70": "2049.920",
             "BOLSAS ZELNOVA 45 X 60": "428.630",
-            "BOLSAS ZELNOVA 60X90": "982.280",
+            "BOLSAS ZELNOVA 60X90": "1009.070",
             "BOLSAS ZELNOVA 80 X 110": "1931.080",
             "BOLSAS ZELNOVA 80X110": "1964.560",
             "BROCHES DE PELO PLASTICO": "1079.020",
@@ -475,17 +476,17 @@
             "ESCOBILLON MAPUCHE 4H EC": "2118.150",
             "ESPONJA ACERO SED METAL": "691.490",
             "ESPONJA AMARILLA": "986.760",
-            "ESPONJA DORADA": "1079.020",
+            "ESPONJA DORADA": "1177.620",
             "FIBROESPONJA": "394.700",
-            "FIDEO CELENTANO SOL PAMP": "712.500",
+            "FIDEO CELENTANO SOL PAMP": "936.360",
             "FIDEO FUSSARELLO": "1299.070",
             "FIDEO GUISERO SOL PAMPEANO": "878.580",
-            "FIDEO MOSTACHOL SOL PAMPEANO": "712.500",
+            "FIDEO MOSTACHOL SOL PAMPEANO": "936.360",
             "FIDEO NIDO": "1159.730",
             "FIDEO RIGATTIS SOL PAMP": "798.300",
             "FIDEO SPAGHETTI SOL PAMP": "798.330",
             "FIDEO TALLARIN SOL PAMPEANO X": "712.500",
-            "FIDEO TIRABUZON SOL PAMPEANO X": "712.500",
+            "FIDEO TIRABUZON SOL PAMPEANO X": "936.360",
             "FOSFOROS 3 PATITOS": "866.050",
             "GALLETITA PEPAS X400": "1013.920",
             "GALLETITAS LA PROVIDENCIA X 3": "1060.200",
@@ -566,160 +567,44 @@
         }
     },
     "cambios": {
-        "Peipo": {
-            "CHEESTICK QUESO X 300": "2112.080",
-            "CHEESTICK CHEDDAR X265GR": "2112.080"
-        },
         "Quesada": {
-            "MUZZA CILINDRO QUESADA": "6384.490",
-            "PATEGRAS QUESADA": "9713.710",
-            "REGGIANO QUESADA": "12504.140"
-        },
-        "Emezeta": {
-            "CRUDO EMEZETA": "18467.790",
-            "JAMON NATIVO EMEZETA": "8952.510",
-            "FIAMBRE DE JAMON COCIDO GRANDE": "6021.340",
-            "PALETA MINI EMEZETA": "5630.190",
-            "LOMO CANADIENSE EMEZETA": "10781.330",
-            "MILAN LARGO EMEZETA": "8207.250",
-            "BASTON EMEZETA": "10160.090",
-            "BONDIOLA EMEZETA": "14565.410",
-            "PANCETA AHUM C/C EMEZETA": "11671.780",
-            "PANCETA TIERNIZADA EMEZETA": "6003.560",
-            "PANCETA SALADA EMEZETA": "11545.690",
-            "SALCHICHON C/JAMON EMEZETA": "3888.020",
-            "SALCHICHON PRIMAVERA EMEZETA": "3888.020",
-            "MORTADELA EMEZETA": "4343.280",
-            "MILANCITO EMEZETA": "9425.560",
-            "JAMON BOLON 3783": "5456.190",
-            "LOMO AHUMADO EMEZETA": "9226.370",
-            "PALETA CUADRADA EMEZETA": "5625.130",
-            "PERNIL MINI EMEZETA": "6009.880",
-            "MILAN CORTO MZ": "8192.510",
-            "BARRIL MZ": "6059.210",
-            "BONDIOLA AL VACIO 1/2 MZ": "15375.250"
+            "ROMANITO QUESADA": "11704.720",
+            "SARDO FRESCO QUESADA": "9224.380"
         },
         "Productos W": {
-            "PALETA P/EMP.W": "2250.000",
-            "PALETA DE CERDO W": "3477.000"
+            "BONDIOLA W": "12607.500"
         },
-        "Dulcor": {
-            "DULCE DE MEMBRILLO": "10775.300",
-            "DULCE DE BATATA": "8749.330",
-            "DULCE DE BATATA C/CHOC": "8749.330",
-            "POSTRE DCE.LECHE C/CHOC.": "25692.060",
-            "MERMELADA FRASCO DULCOR CIRUEL": "1341.520",
-            "MERMELADA DULCOR FRASCO NARANJ": "1341.520",
-            "BATATA CON CHOCOLATE X 700": "3613.480",
-            "BATATA VLLA.LATA X 700": "3613.480",
-            "MEMBRILLO LATA X 700": "4276.610",
-            "BATATA X 500 ESNAOLA": "1380.830",
-            "BATATA CON CHOC.X 500": "1357.810",
-            "MEMBRILLO X 500": "1659.990"
+        "Cris Jor": {
+            "MANI REPELADO CRIS JOR": "4309.490"
         },
-        "San Cayetano": {
-            "FRASCO X1.8KG RODAJAS": "14471.130",
-            "FRASCO X2KG DESC 00": "17985.400",
-            "FRASCO NEGRA X1KG 0": "12818.340",
-            "BIDON DESC X4KG 0": "34344.420",
-            "BIDON DESC X4KG 00": "31954.620"
-        },
-        "Rodriguez Acacio": {
-            "BOTELLA TOMATE ROD AC": "1562.500"
-        },
-        "Aromas y Sabores": {
-            "BICARBONATO X 50 GRS.": "544.720",
-            "GRANAS P/REPOS.SURT": "288.190",
-            "GRAGEAS P/REPOSTERIA": "326.110"
-        },
-        "Calchaqui": {
-            "MORTADELA GIG. CALCHAQUI": "7391.240"
-        },
-        "Hellmans": {
-            "MAYONESA MONOPORCION": "14558.120",
-            "KETCHUP HELLMAN`S X 60 GRS.": "785.820"
-        },
-        "Paladini": {
-            "MORTADELA X4.5KG PALADINI": "7171.150",
-            "MORTADELA FAM. PALADINI": "2705.060",
-            "MORTADELA X 2.5KG PALADINI": "8054.430",
-            "VIENA X 6 FELA": "1006.780",
-            "PALETA PALADINI X6KG": "9524.900",
-            "VIENA X 6 PALDINI": "1573.980",
-            "LEBERWURST X 250 GRS.": "1804.360",
-            "JAMON COCIDO PALADINI X 6 KG": "10271.420",
-            "MILAN TIVOLI": "8598.270",
-            "MILAN FELA": "10373.050",
-            "BONDIOLA PALADINI": "22555.890",
-            "QUESO DE CERDO PALADINI": "5966.580",
-            "PATE PALADINI": "647.830",
-            "PICADILLO PALADINI": "647.830"
-        },
-        "Amanecer": {
-            "COPETIN X 300": "1403.850",
-            "CONITOS CON QUESO X 800": "8653.620"
+        "Chiro": {
+            "SACHET X 100 CHIRO": "655.200"
         },
         "Cavade": {
-            "ACEITE GIRASOL X 900": "1693.600"
+            "ACEITE GIRASOL X 900": "1810.400"
         },
-        "Abuelo Marcelino": {
-            "GOUDA ABUELO": "9794.010",
-            "SARDO FRESCO ABUELO": "9072.000"
+        "Don Luis": {
+            "PECHERA DON LUIS": "11316.010",
+            "LONGA CALABRESA DON LUIS": "11316.010",
+            "SALAME DON LUIS": "11684.990"
         },
-        "Alco": {
-            "TOMATE PERITA X 400": "722.180"
+        "Carrité": {
+            "MICROFIBRA PAÑO 30X40": "1200.010"
         },
         "Don Alejandro Luoni": {
-            "PANCETA ARROLLADA": "15080.400"
+            "PANCETA ARROLLADA": "15080.400",
+            "CRUDO ARTESANAL DON ALEJANDRO": "20585.000"
         },
         "La Quesera": {
-            "QUESO RALLADO X 40 GRS.LA QUES": "539.480",
-            "BARRA CHEDDAR LA QUESERA": "13202.370"
-        },
-        "El Rey Granel": {
-            "ACEITE DE GIRASOL X 5 LTS": "9204.000"
-        },
-        "Lopardo": {
-            "PANCETA AHUMADA LOPARDO": "9867.250",
-            "JAMON NATURAL LOPARDO": "9203.620",
-            "PALETA COCIDA DON SILVIO": "4307.310",
-            "QUESO DE CERDO LOPARDO": "4557.730",
-            "SALAMIN LOPARDO": "10281.600",
-            "CASERITA LOPARDO": "9732.240",
-            "LONGA NAP.LOPARDO": "9732.240",
-            "JAMON COCIDO C/C LOPARDO": "5879.980"
-        },
-        "Cabaña Azul": {
-            "CREMOSO CABAÑA AZUL": "5566.000",
-            "MUZZA CABAÑA AZUL": "6612.000",
-            "QUESO DE CERDO VICTORIA": "4200.000"
-        },
-        "Sol Naciente": {
-            "CRUDO SOL NACIENTE": "15192.000"
+            "GRUYERE CUÑA LA QUESERA": "21678.920"
         },
         "OTRAS COMPRAS": {
-            "VIRULANA ROLLO": "892.980",
-            "BOLSAS ZELNOVA 80 X 110": "1931.080",
-            "SAVORA SACHET X60": "651.140",
-            "CALDO VERDURA KNORR X 2": "459.200",
-            "YERBA MATE ANDRESITO": "1410.840",
-            "JABON SEISEME X 300": "1482.010",
-            "PATE ECONOMICO": "614.850",
-            "YERBA CBSE TRADICIONAL X500": "1724.250",
-            "YERBA PLAYADITO X 500": "2322.730",
-            "JABON EN POLVO ALA ECOLAVADO X": "1304.130",
-            "GALLETITAS LA PROVIDENCIA X 3": "1060.200",
-            "CHOCOLINO X 180": "1730.370",
-            "BOLSAS ZELNOVA 60X90": "982.280",
-            "ESPONJA DORADA": "1079.020",
-            "MAIZ PISINGALLO": "1116.230",
-            "FIDEO CELENTANO SOL PAMP": "712.500",
-            "ESCOBILLON MAPUCHE 4H EC": "2118.150",
-            "YERBA CBSE LIMON X500": "1724.250",
-            "YERBA CBSE NARANJA X500": "1724.250",
-            "SAVORA MONOPORCION": "11811.340",
-            "REJILLA COMUN": "567.940"
+            "FIDEO MOSTACHOL SOL PAMPEANO": "936.360",
+            "BOLSAS ZELNOVA 60X90": "1009.070",
+            "FIDEO TIRABUZON SOL PAMPEANO X": "936.360",
+            "ESPONJA DORADA": "1177.620",
+            "FIDEO CELENTANO SOL PAMP": "936.360"
         }
     },
-    "fecha": "29-08-2025 16:58:21"
+    "fecha": "05-09-2025 17:45:18"
 }
