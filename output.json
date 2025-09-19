@@ -96,21 +96,25 @@
             "BATATA VLLA.X 2 KG.": "3998.890",
             "BATATA X 500 ESNAOLA": "1380.830",
             "HILERET CLASICO X 500": "9793.290",
+            "MANTECOL C/ALM.X 3.4 KG": "55194.190",
+            "MANTECOL CLASICO X 111 GRS.": "1888.980",
+            "MANTECOL CLASICO X 253 GRS.": "3473.570",
+            "MANTECOL LINGOTE X 500 GRS.": "8844.510",
             "MEMBRILLO LATA": "12811.260",
             "MEMBRILLO LATA X 700": "4276.610",
             "MEMBRILLO X 2 KG.": "4914.110",
             "MEMBRILLO X 500": "1659.990",
             "MERMELADA ARANADANO X 390": "2990.080",
+            "MERMELADA CIRUELA FRASCO DULCO": "1341.520",
             "MERMELADA CORMILLOT DURAZNO": "1374.560",
-            "MERMELADA DULCOR FRASCO DAMASC": "1406.010",
-            "MERMELADA DULCOR FRASCO DURAZN": "1406.010",
-            "MERMELADA DULCOR FRASCO FRUTIL": "1798.340",
-            "MERMELADA DULCOR FRASCO HIGO": "1594.610",
-            "MERMELADA DULCOR FRASCO NARANJ": "1341.520",
+            "MERMELADA DAMASCO DULCOR FRASC": "1406.010",
+            "MERMELADA DURAZNO DULCOR FRASC": "1406.010",
             "MERMELADA ESNAOLA DURAZNO X 39": "2392.160",
-            "MERMELADA FRASCO DULCOR CIRUEL": "1341.520",
+            "MERMELADA FRUTILLA DULCOR FRAS": "1798.340",
             "MERMELADA FRUTILLA ESNAOLA X 3": "2990.080",
             "MERMELADA FRUTOS ROJOS X 390": "2990.080",
+            "MERMELADA HIGO DULCOR FRASCO": "1594.610",
+            "MERMELADA NARANJA DULCOR FRASC": "1341.520",
             "MERMELADA POTE DURAZNO": "943.570",
             "POSTRE DCE.LECHE C/CHOC.": "25692.060",
             "DULCE DE BATATA": "8749.330",
@@ -322,9 +326,9 @@
             "MANTECA X 200 PRIMER PREMIO": "2265.120"
         },
         "Platamar": {
-            "ANCHOAS 40X3": "18175.990",
+            "ANCHOAS 40X3": "23534.020",
             "ANCHOAS X 750 GRS.": "15125.000",
-            "ANCHOAS X90GR": "3553.150"
+            "ANCHOAS X90GR": "3904.010"
         },
         "Cavade": {
             "ACEITE GIRASOL X 900": "1810.400",
@@ -385,8 +389,8 @@
             "LIMPIADOR LIQUIDO PINO": "694.190"
         },
         "Ledvance": {
-            "LAMPARAS LED 100 W": "1470.560",
-            "LAMPARAS LED 60 W": "1034.140"
+            "LAMPARAS LED 100 W": "1482.810",
+            "LAMPARAS LED 60 W": "1042.770"
         },
         "Tresal": {
             "SAL FINA TRESAL X 500": "457.620",
@@ -414,7 +418,7 @@
             "LECHE ENTERA VERONICA LV": "1852.090"
         },
         "El Rey Granel": {
-            "ACEITE DE GIRASOL X 5 LTS": "9204.000",
+            "ACEITE DE GIRASOL X 5 LTS": "9282.000",
             "VINAGRE X 5 LTS": "2280.000"
         },
         "Lopardo": {
@@ -467,6 +471,7 @@
             "CHOCOLINO X 180": "1730.370",
             "CILO ANILLO LIMON X400": "1310.350",
             "CILO ANILLO VAINILLA X400": "1310.350",
+            "CILO CON CHIPS X 300 GRS": "1300.330",
             "CILO PEPAS X400": "1157.740",
             "COCA COLA X500": "1320.010",
             "DON SATUR BIZC. AGRIDULCE": "748.690",
@@ -477,7 +482,7 @@
             "ESPONJA AMARILLA": "986.760",
             "ESPONJA DORADA": "1177.620",
             "FIBROESPONJA": "394.700",
-            "FIDEO CELENTANO SOL PAMP": "936.360",
+            "FIDEO CELENTANO SOL PAMP": "712.500",
             "FIDEO FUSSARELLO": "1299.070",
             "FIDEO GUISERO SOL PAMPEANO": "878.580",
             "FIDEO MOSTACHOL SOL PAMPEANO": "936.360",
@@ -485,7 +490,7 @@
             "FIDEO RIGATTIS SOL PAMP": "798.300",
             "FIDEO SPAGHETTI SOL PAMP": "798.330",
             "FIDEO TALLARIN SOL PAMPEANO X": "712.500",
-            "FIDEO TIRABUZON SOL PAMPEANO X": "936.360",
+            "FIDEO TIRABUZON SOL PAMPEANO X": "712.500",
             "FOSFOROS 3 PATITOS": "866.050",
             "GALLETITA PEPAS X400": "1013.920",
             "GALLETITAS LA PROVIDENCIA X 3": "1060.200",
@@ -503,7 +508,7 @@
             "JABON TIRA PATRICIA 3X80": "11131.310",
             "JARDINERA X 350": "776.450",
             "JUGO BAGGIO X250": "478.120",
-            "JUGO DE LIMON MINERVA X 250": "1205.110",
+            "JUGO DE LIMON MINERVA X 250": "1286.640",
             "KETCHUP HELLMAN´S X 250 GRS.": "1644.570",
             "LAVANDINA AYUDIN 1L": "1060.420",
             "LENTEJAS LATA MAROLIO X300": "1388.970",
@@ -566,87 +571,46 @@
         }
     },
     "cambios": {
-        "Quesada": {
-            "SARDO QUESADA": "11267.290"
-        },
         "Dulcor": {
-            "BATATA C/GUINDAS": "19357.270",
-            "MERMELADA DULCOR FRASCO FRUTIL": "1798.340",
-            "MERMELADA DULCOR FRASCO DURAZN": "1406.010",
-            "MERMELADA DULCOR FRASCO DAMASC": "1406.010"
-        },
-        "Aromas y Sabores": {
-            "ADOBO X25GR": "279.150",
-            "PIMENTON X25GR": "331.810",
-            "PROVENZAL X25GR": "379.530",
-            "ADOBO P/PIZZAS X 1 KG": "4691.520",
-            "OREGANO X 1 KG": "4313.360",
-            "PIMENTON X 1 KG": "6521.490",
-            "PROVENZAL X 1 KG": "5062.000",
-            "COCO RALLADO X1KG AYS": "6661.350",
-            "PIM BLANCA MOLIDA X 1 KG": "11969.530",
-            "EXTRACTO DE VAIN AYS X100CC": "522.700",
-            "AZUCAR IMPALPABLE X1KG AYS": "3810.300",
-            "FECULA DE MAIZ AYS X1KG": "2336.740"
-        },
-        "Calchaqui": {
-            "MORTADELA BOCHA CALCHAQUI": "7403.530",
-            "MORTADELA CAÑON CALCHAQUI": "5950.560",
-            "MORTADELA GIG. CALCHAQUI": "8068.890",
-            "MORTADELA C/PIST CALCHAQUI": "11629.780",
-            "LECHE LARGA VIDA ILOLAY": "1420.440"
-        },
-        "Paladini": {
-            "MORTADELA X4.5KG PALADINI": "7593.130",
-            "MORTADELA FAM. PALADINI": "2692.380",
-            "MORTADELA X 2.5KG PALADINI": "8350.680",
-            "VIENA X 6 FELA": "1043.810",
-            "PALETA PALADINI X6KG": "9083.200",
-            "VIENA X 6 PALDINI": "1440.780",
-            "LEBERWURST X 250 GRS.": "1870.730",
-            "MILAN TIVOLI": "8557.970",
-            "MILAN FELA": "10448.810",
-            "BONDIOLA PALADINI": "23631.640",
-            "QUESO DE CERDO PALADINI": "6419.840",
-            "PATE PALADINI": "707.490",
-            "PICADILLO PALADINI": "707.490"
-        },
-        "Cris Jor": {
-            "MANI REPELADO CRIS JOR": "4309.490"
-        },
-        "Fepa": {
-            "MATAMBRE FEPA": "9759.150",
-            "POLLO FEPA": "9315.050",
-            "MATAMBRE EL CRIOLLITO": "13200.890"
+            "MERMELADA FRUTILLA DULCOR FRAS": "1798.340",
+            "MERMELADA HIGO DULCOR FRASCO": "1594.610",
+            "MERMELADA DURAZNO DULCOR FRASC": "1406.010",
+            "MERMELADA CIRUELA FRASCO DULCO": "1341.520",
+            "MERMELADA NARANJA DULCOR FRASC": "1341.520",
+            "MERMELADA DAMASCO DULCOR FRASC": "1406.010",
+            "MANTECOL CLASICO X 111 GRS.": "1888.980",
+            "MANTECOL C/ALM.X 3.4 KG": "55194.190",
+            "MANTECOL CLASICO X 253 GRS.": "3473.570",
+            "MANTECOL LINGOTE X 500 GRS.": "8844.510"
         },
         "Amanecer": {
             "COPETIN X 300": "1415.170",
             "CONITOS CON QUESO X 800": "9597.010"
         },
-        "Carrité": {
-            "ROLLO DE COCINA X 6": "1331.000"
+        "Platamar": {
+            "ANCHOAS X90GR": "3904.010",
+            "ANCHOAS 40X3": "23534.020"
         },
         "Don Alejandro Luoni": {
             "CRUDO ARTESANAL DON ALEJANDRO": "20585.000"
         },
-        "La Quesera": {
-            "GRUYERE CUÑA LA QUESERA": "21678.920"
+        "Ledvance": {
+            "LAMPARAS LED 60 W": "1042.770",
+            "LAMPARAS LED 100 W": "1482.810"
         },
-        "Mix Dietetica": {
-            "MIX CRIOLLO X 10": "8532.970",
-            "MIX FRUTOS SECOS X 10": "19593.700",
-            "MIX FUERTE X 10": "9171.260",
-            "MIX EUROPEO X 10": "11189.500"
+        "El Rey Granel": {
+            "ACEITE DE GIRASOL X 5 LTS": "9282.000"
         },
         "Lopardo": {
             "PANCETA AHUMADA LOPARDO": "9966.920",
-            "JAMON NATURAL LOPARDO": "9966.920",
-            "SALAMIN LOPARDO": "10281.600"
+            "JAMON NATURAL LOPARDO": "9966.920"
         },
         "OTRAS COMPRAS": {
-            "BOLSAS ZELNOVA 45 X 60": "446.490",
-            "CAPUCHINO VIRGINIA SOBRE": "4567.220"
+            "JUGO DE LIMON MINERVA X 250": "1286.640",
+            "FIDEO TIRABUZON SOL PAMPEANO X": "712.500",
+            "FIDEO CELENTANO SOL PAMP": "712.500",
+            "CILO CON CHIPS X 300 GRS": "1300.330"
         }
     },
-    "fecha": "12-09-2025 11:51:49"
+    "fecha": "19-09-2025 11:29:54"
 }
