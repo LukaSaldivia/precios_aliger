@@ -1,22 +1,23 @@
 {
     "grupos": {
         "Peipo": {
-            "CHEESTICK CHEDDAR X265GR": "2112.080",
-            "CHEESTICK QUESO X 300": "2112.080",
-            "MANI JAPONES X 700 PEIPO": "3498.060",
-            "PALITOS KETCHUP X 60 GRS.": "470.920",
-            "PAPA CHEDDAR PEIPO X 330": "4453.360",
-            "PAPA COMUN X500": "5246.720",
-            "PAPAS CORTE AMERICANO": "5246.720",
-            "PAPAS PAY PEIPO": "5210.930",
-            "MANI C/CASCARA PEIPO": "5112.780",
-            "MANI SALADO PEIPO": "3975.070",
-            "PALITOS SALADOS PEIPO": "4229.420",
-            "BOLITAS CROCANTES PEIPO": "1913.170",
-            "MAIZ INFLADO PEIPO": "3011.760",
-            "MANI REPELADO PEIPO": "4123.600",
-            "PIZZA ROLLS PEIPO": "1594.030",
-            "TUBITOS PEIPO": "2164.010"
+            "CHEESTICK CHEDDAR X265GR": "2235.860",
+            "CHEESTICK QUESO X 300": "2235.860",
+            "MANI JAPONES X 700 PEIPO": "3703.310",
+            "PALITOS KETCHUP X 60 GRS.": "498.270",
+            "PALITOS SABOR QUESO X 500": "4401.880",
+            "PAPA CHEDDAR PEIPO X 330": "4712.840",
+            "PAPA COMUN X500": "5552.090",
+            "PAPAS CORTE AMERICANO": "5552.090",
+            "PAPAS PAY PEIPO": "5514.210",
+            "MANI C/CASCARA PEIPO": "5411.360",
+            "MANI SALADO PEIPO": "4207.210",
+            "PALITOS SALADOS PEIPO": "4476.140",
+            "BOLITAS CROCANTES PEIPO": "2024.770",
+            "MAIZ INFLADO PEIPO": "3188.060",
+            "MANI REPELADO PEIPO": "4364.410",
+            "PIZZA ROLLS PEIPO": "1686.800",
+            "TUBITOS PEIPO": "2290.390"
         },
         "Quesada": {
             "BARRA SABORIZADA QUESADA": "10277.460",
@@ -25,24 +26,24 @@
             "MANTECA X 2.5 KG CLUCELAT": "22111.750",
             "MUZZA BARRA QUESADA": "7861.310",
             "PARMESANO MITAD": "13643.020",
-            "PROVOLETA QUESADA": "11704.720",
+            "PROVOLETA QUESADA": "11779.690",
             "QUESO AZUL 1/2 EMPERADOR": "10494.310",
             "REGIANO MITADES": "12688.610",
             "RICOTTA QUESADA": "2959.770",
             "SABORIZADO QUESADA X 700": "10277.460",
             "SALSA CHEDDAR SACHET": "3877.920",
-            "SARDO FRESCO QUESADA": "9224.380",
-            "PARMESANO QUESADA": "13233.170",
-            "REGGIANO QUESADA": "12504.140",
-            "ROMANITO QUESADA": "11704.720",
-            "SARDO QUESADA": "11267.290",
+            "SARDO FRESCO QUESADA": "9308.240",
+            "PARMESANO QUESADA": "13317.930",
+            "REGGIANO QUESADA": "12584.220",
+            "ROMANITO QUESADA": "11779.690",
+            "SARDO QUESADA": "11339.460",
             "BARRA QUESADA": "7861.310",
             "CREMOSO QUESADA": "6045.920",
-            "CRIOLLO QUESADA": "9713.710",
-            "FONTINA QUESADA": "10136.810",
-            "GOUDA QUESADA": "8381.340",
+            "CRIOLLO QUESADA": "9775.920",
+            "FONTINA QUESADA": "10211.070",
+            "GOUDA QUESADA": "8435.030",
             "MUZZA CILINDRO QUESADA": "6384.490",
-            "PATEGRAS QUESADA": "9713.710",
+            "PATEGRAS QUESADA": "9775.920",
             "POR SALUT QUESADA": "6816.480",
             "POR SALUT S/S QUESADA": "7087.730",
             "CREMA QUESADA": "5945.490",
@@ -74,9 +75,9 @@
             "PANCETA TIERNIZADA EMEZETA": "6003.560"
         },
         "Productos W": {
-            "BONDIOLA W": "12607.500",
-            "CRUDO W": "12361.510",
-            "PALETA DE CERDO W": "3477.000",
+            "BONDIOLA W": "13960.500",
+            "CRUDO W": "13714.500",
+            "PALETA DE CERDO W": "3751.500",
             "PALETA P/EMP.W": "2250.000"
         },
         "Alloa Vanguard": {
@@ -90,8 +91,8 @@
             "BATATA CON CHOC.X 500": "1357.810",
             "BATATA CON CHOCOLATE X 2 KG": "3998.890",
             "BATATA CON CHOCOLATE X 700": "3613.480",
-            "BATATA LATA C/CHOC.": "10497.670",
-            "BATATA LATA VLLA.": "10497.670",
+            "BATATA LATA C/CHOC.": "11802.240",
+            "BATATA LATA VLLA.": "11802.240",
             "BATATA VLLA.LATA X 700": "3613.480",
             "BATATA VLLA.X 2 KG.": "3998.890",
             "BATATA X 500 ESNAOLA": "1380.830",
@@ -105,7 +106,7 @@
             "MEMBRILLO X 2 KG.": "4914.110",
             "MEMBRILLO X 500": "1659.990",
             "MERMELADA ARANADANO X 390": "2990.080",
-            "MERMELADA CIRUELA FRASCO DULCO": "1341.520",
+            "MERMELADA CIRUELA FRASCO DULCO": "1393.900",
             "MERMELADA CORMILLOT DURAZNO": "1374.560",
             "MERMELADA DAMASCO DULCOR FRASC": "1406.010",
             "MERMELADA DURAZNO DULCOR FRASC": "1406.010",
@@ -131,7 +132,7 @@
             "BIDON NEGRA X4.6K 0": "29900.000",
             "BIDON RODAJA X4KG": "27025.680",
             "BIDON ROTA X5KG": "21081.590",
-            "BIDON X4.6KG 0": "25289.870",
+            "BIDON X4.6KG 0": "25905.000",
             "BIDON X4.6KG 00": "41668.420",
             "BIDON X4.6KG 000": "45958.440",
             "BIDON X4.6KG 1": "23340.240",
@@ -155,8 +156,8 @@
         "Rodriguez Acacio": {
             "BOTELLA TOMATE ROD AC": "1562.500",
             "CIRUELAS SECAS X 250 C/C": "1127.960",
-            "CIRUELAS X 250 D'AGEN S/C": "2124.000",
-            "PASAS DE UVA S/SEMILLA X 100": "749.990",
+            "CIRUELAS X 250 D'AGEN S/C": "2142.000",
+            "PASAS DE UVA S/SEMILLA X 100": "825.310",
             "PASAS SIN SEMILLA X 10 KG": "4720.000"
         },
         "Aliger": {
@@ -218,7 +219,6 @@
         },
         "Calchaqui": {
             "LECHE LARGA VIDA ILOLAY": "1420.440",
-            "MORTADELA PICCOLA CALCHAQUI": "1930.480",
             "BONDIOLA CALCHAQUI": "19716.840",
             "MORTADELA BOCHA CALCHAQUI": "7403.530",
             "MORTADELA C/PIST CALCHAQUI": "11629.780",
@@ -263,10 +263,10 @@
             "MANI REPELADO CRIS JOR": "4309.490"
         },
         "Fepa": {
-            "MATAMBRE EL CRIOLLITO": "13200.890",
-            "MATAMBRE FEPA": "9759.150",
-            "MATAMBRE PREMIUN EL CRIOLLITO": "15076.130",
-            "POLLO FEPA": "9315.050"
+            "MATAMBRE EL CRIOLLITO": "14401.800",
+            "MATAMBRE FEPA": "10624.870",
+            "MATAMBRE PREMIUN EL CRIOLLITO": "16431.660",
+            "POLLO FEPA": "10142.460"
         },
         "Chiro": {
             "ACEITE DE OLIVA X 500": "9466.240",
@@ -305,8 +305,6 @@
             "GARRAPIÑADA X 1 KG.": "5893.060",
             "MANI C/CHOC.X 1 KG.": "10673.180",
             "MANI CON CHOCOLATE X 80 GRS.": "743.410",
-            "PAPA X 500 AMANECER": "4786.620",
-            "PAPA X 500 AMANECER AMERICANAS": "4786.620",
             "PASAS DE UVA CON CHOCOLATE X 1": "1150.440"
         },
         "Cabrales": {
@@ -321,17 +319,14 @@
             "CAPSULA PERU NESPRESSO": "8676.660",
             "CAPSULA VITA NESPRESSO": "8676.660"
         },
-        "La Primera": {
-            "MANTECA X 100 PRIMER PREMIO": "1132.560",
-            "MANTECA X 200 PRIMER PREMIO": "2265.120"
-        },
+        "La Primera": {},
         "Platamar": {
             "ANCHOAS 40X3": "23534.020",
             "ANCHOAS X 750 GRS.": "15125.000",
             "ANCHOAS X90GR": "3904.010"
         },
         "Cavade": {
-            "ACEITE GIRASOL X 900": "1810.400",
+            "ACEITE GIRASOL X 900": "2089.400",
             "PAPEL HIGIENICO CAVADE X 4X 30": "946.120"
         },
         "Il Molise": {},
@@ -367,8 +362,8 @@
             "VINAGRE DE ALCOHOL X 500": "672.220"
         },
         "Don Alejandro Luoni": {
-            "CRUDO ARTESANAL DON ALEJANDRO": "20585.000",
-            "PANCETA ARROLLADA": "15080.400"
+            "CRUDO ARTESANAL DON ALEJANDRO": "21923.020",
+            "PANCETA ARROLLADA": "16060.620"
         },
         "Porta": {
             "ACETO BALSAMICO X 500": "1967.760",
@@ -410,7 +405,6 @@
             "MIX FUERTE X 10": "9171.260"
         },
         "Buenas Sierras": {
-            "PALETA DE CERDO BUENAS SIERRAS": "4750.010",
             "PATA DE CERDO BUENAS SIERRAS": "5375.000"
         },
         "Veronica": {
@@ -418,15 +412,15 @@
             "LECHE ENTERA VERONICA LV": "1852.090"
         },
         "El Rey Granel": {
-            "ACEITE DE GIRASOL X 5 LTS": "9282.000",
-            "VINAGRE X 5 LTS": "2280.000"
+            "ACEITE DE GIRASOL X 5 LTS": "10236.600",
+            "VINAGRE X 5 LTS": "2420.000"
         },
         "Lopardo": {
             "CASERITA LOPARDO": "9732.240",
             "JAMON COCIDO C/C LOPARDO": "5879.980",
             "JAMON NATURAL LOPARDO": "9966.920",
             "LONGA NAP.LOPARDO": "9732.240",
-            "PALETA COCIDA DON SILVIO": "4307.310",
+            "PALETA COCIDA DON SILVIO": "4396.550",
             "PANCETA AHUMADA LOPARDO": "9966.920",
             "QUESO DE CERDO LOPARDO": "4557.730",
             "SALAMIN LOPARDO": "10281.600"
@@ -571,46 +565,86 @@
         }
     },
     "cambios": {
+        "Peipo": {
+            "PAPA COMUN X500": "5552.090",
+            "PAPAS CORTE AMERICANO": "5552.090",
+            "PAPAS PAY PEIPO": "5514.210",
+            "PALITOS SALADOS PEIPO": "4476.140",
+            "MANI SALADO PEIPO": "4207.210",
+            "MANI C/CASCARA PEIPO": "5411.360",
+            "BOLITAS CROCANTES PEIPO": "2024.770",
+            "PIZZA ROLLS PEIPO": "1686.800",
+            "MAIZ INFLADO PEIPO": "3188.060",
+            "MANI REPELADO PEIPO": "4364.410",
+            "TUBITOS PEIPO": "2290.390",
+            "PAPA CHEDDAR PEIPO X 330": "4712.840",
+            "MANI JAPONES X 700 PEIPO": "3703.310",
+            "CHEESTICK QUESO X 300": "2235.860",
+            "PALITOS KETCHUP X 60 GRS.": "498.270",
+            "CHEESTICK CHEDDAR X265GR": "2235.860",
+            "PALITOS SABOR QUESO X 500": "4401.880"
+        },
+        "Quesada": {
+            "CRIOLLO QUESADA": "9775.920",
+            "FONTINA QUESADA": "10211.070",
+            "GOUDA QUESADA": "8435.030",
+            "PATEGRAS QUESADA": "9775.920",
+            "REGGIANO QUESADA": "12584.220",
+            "ROMANITO QUESADA": "11779.690",
+            "SARDO QUESADA": "11339.460",
+            "PARMESANO QUESADA": "13317.930",
+            "PROVOLETA QUESADA": "11779.690",
+            "SARDO FRESCO QUESADA": "9308.240"
+        },
+        "Emezeta": {
+            "PANCETA AHUM C/C EMEZETA": "11671.780"
+        },
+        "Productos W": {
+            "CRUDO W": "13714.500",
+            "BONDIOLA W": "13960.500",
+            "PALETA DE CERDO W": "3751.500"
+        },
         "Dulcor": {
-            "MERMELADA FRUTILLA DULCOR FRAS": "1798.340",
-            "MERMELADA HIGO DULCOR FRASCO": "1594.610",
-            "MERMELADA DURAZNO DULCOR FRASC": "1406.010",
-            "MERMELADA CIRUELA FRASCO DULCO": "1341.520",
-            "MERMELADA NARANJA DULCOR FRASC": "1341.520",
-            "MERMELADA DAMASCO DULCOR FRASC": "1406.010",
-            "MANTECOL CLASICO X 111 GRS.": "1888.980",
-            "MANTECOL C/ALM.X 3.4 KG": "55194.190",
-            "MANTECOL CLASICO X 253 GRS.": "3473.570",
-            "MANTECOL LINGOTE X 500 GRS.": "8844.510"
+            "BATATA LATA VLLA.": "11802.240",
+            "BATATA LATA C/CHOC.": "11802.240",
+            "MERMELADA CIRUELA FRASCO DULCO": "1393.900"
         },
-        "Amanecer": {
-            "COPETIN X 300": "1415.170",
-            "CONITOS CON QUESO X 800": "9597.010"
+        "San Cayetano": {
+            "BIDON X4.6KG 0": "25905.000"
         },
-        "Platamar": {
-            "ANCHOAS X90GR": "3904.010",
-            "ANCHOAS 40X3": "23534.020"
+        "Rodriguez Acacio": {
+            "CIRUELAS X 250 D'AGEN S/C": "2142.000",
+            "PASAS DE UVA S/SEMILLA X 100": "825.310"
+        },
+        "Fepa": {
+            "MATAMBRE FEPA": "10624.870",
+            "POLLO FEPA": "10142.460",
+            "MATAMBRE PREMIUN EL CRIOLLITO": "16431.660",
+            "MATAMBRE EL CRIOLLITO": "14401.800"
+        },
+        "Cavade": {
+            "ACEITE GIRASOL X 900": "2089.400"
         },
         "Don Alejandro Luoni": {
-            "CRUDO ARTESANAL DON ALEJANDRO": "20585.000"
-        },
-        "Ledvance": {
-            "LAMPARAS LED 60 W": "1042.770",
-            "LAMPARAS LED 100 W": "1482.810"
+            "PANCETA ARROLLADA": "16060.620",
+            "CRUDO ARTESANAL DON ALEJANDRO": "21923.020"
         },
         "El Rey Granel": {
-            "ACEITE DE GIRASOL X 5 LTS": "9282.000"
+            "ACEITE DE GIRASOL X 5 LTS": "10236.600",
+            "VINAGRE X 5 LTS": "2420.000"
         },
         "Lopardo": {
-            "PANCETA AHUMADA LOPARDO": "9966.920",
-            "JAMON NATURAL LOPARDO": "9966.920"
+            "PALETA COCIDA DON SILVIO": "4396.550"
         },
         "OTRAS COMPRAS": {
-            "JUGO DE LIMON MINERVA X 250": "1286.640",
-            "FIDEO TIRABUZON SOL PAMPEANO X": "712.500",
-            "FIDEO CELENTANO SOL PAMP": "712.500",
-            "CILO CON CHIPS X 300 GRS": "1300.330"
+            "CAPUCHINO VIRGINIA SOBRE": "4567.220",
+            "LEVADURA LEVEX 2 X 25": "1013.060",
+            "YERBA CBSE TRADICIONAL X500": "1724.250",
+            "FIDEO MOSTACHOL SOL PAMPEANO": "936.360",
+            "YERBA PLAYADITO X 500": "2322.730",
+            "FIDEO TALLARIN SOL PAMPEANO X": "712.500",
+            "TE TARAGUI COMUN": "727.630"
         }
     },
-    "fecha": "19-09-2025 11:30:19"
+    "fecha": "26-09-2025 12:59:12"
 }
