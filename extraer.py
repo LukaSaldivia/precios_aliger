@@ -2,8 +2,8 @@ import re
 import json
 from datetime import datetime
 
-input_file = 'may.rtf'
-changes_file = 'cambios.rtf'
+input_file = 'Subgru.rtf'
+changes_file = 'Cambio a Listas de Precios.rtf'
 output_file_json = 'output.json'
 today = datetime.now()
 
