@@ -95,10 +95,10 @@
             "BATATA VLLA.X 2 KG.": "4202.910",
             "BATATA X 500 ESNAOLA": "1380.830",
             "HILERET CLASICO X 500": "9793.290",
-            "MANTECOL C/ALM.X 3.4 KG": "55194.190",
-            "MANTECOL CLASICO X 111 GRS.": "1888.980",
-            "MANTECOL CLASICO X 253 GRS.": "3473.570",
-            "MANTECOL LINGOTE X 500 GRS.": "8844.510",
+            "MANTECOL C/ALM.X 3.4 KG": "57953.390",
+            "MANTECOL CLASICO X 111 GRS.": "1983.410",
+            "MANTECOL CLASICO X 253 GRS.": "4031.160",
+            "MANTECOL LINGOTE X 500 GRS.": "9286.730",
             "MEMBRILLO LATA": "12811.260",
             "MEMBRILLO LATA X 700": "4490.430",
             "MEMBRILLO X 2 KG.": "4914.110",
@@ -220,32 +220,32 @@
             "FIAMBRE DE PAVO": "24102.630",
             "LECHE LARGA VIDA ILOLAY": "1420.440",
             "BONDIOLA CALCHAQUI": "19716.840",
-            "MORTADELA BOCHA CALCHAQUI": "7625.580",
-            "MORTADELA C/PIST CALCHAQUI": "11978.730",
-            "MORTADELA CAÑON CALCHAQUI": "6463.420",
-            "MORTADELA GIG. CALCHAQUI": "8068.890",
+            "MORTADELA BOCHA CALCHAQUI": "7854.330",
+            "MORTADELA C/PIST CALCHAQUI": "12441.740",
+            "MORTADELA CAÑON CALCHAQUI": "6657.350",
+            "MORTADELA GIG. CALCHAQUI": "8560.330",
             "PANCETA AHUMADA CALCHAQUI": "15984.320"
         },
         "Bocatti": {
-            "JAMON COCIDO BOCATTI": "16306.340"
+            "JAMON COCIDO BOCATTI": "17144.850"
         },
         "Hellmans": {
             "KETCHUP HELLMAN`S X 60 GRS.": "812.610",
             "KETCHUP MONOP.HELLMAN´S": "15244.230",
             "MAYONESA MONOPORCION": "14558.120",
-            "MAYONESA X2.9 HELLMANS": "11038.950"
+            "MAYONESA X2.9 HELLMANS": "11927.300"
         },
         "Paladini": {
             "BONDIOLA CONGELADA PALADINI": "8647.510",
             "BONDIOLA PALADINI": "24246.170",
             "COSTILLITAS CONG.PALADINI": "7954.720",
             "FIAMBRE DE PALETA PALADINI X 4": "8310.560",
+            "HAMB. PALADINI X 2 UNID.": "1968.940",
             "HAMBURGUESA PALADINI X 4": "4372.120",
-            "HAMBURGUESA PALADINI X 60": "984.470",
             "JAMON COCIDO PALADINI X 6 KG": "10271.420",
             "LEBERWURST X 250 GRS.": "1929.540",
-            "MEDALLON FELA X 4": "2235.220",
-            "MEDALLON FELA X 72": "527.190",
+            "MEDALLON FELA X 2 UNID.": "1054.380",
+            "MEDALLON FELA X 4": "2352.870",
             "MILAN FELA": "10574.610",
             "MILAN TIVOLI": "8654.070",
             "PALETA PALADINI X6KG": "10281.600",
@@ -255,10 +255,10 @@
             "PIZZETAS X 20 JAMON Y QUESO": "2275.590",
             "QUESO DE CERDO PALADINI": "6642.110",
             "VIENA X 6 FELA": "1055.960",
-            "VIENA X 6 PALDINI": "1650.850",
+            "VIENA X 6 PALDINI": "1463.250",
             "MORTADELA FAM. PALADINI": "2573.020",
-            "MORTADELA X 2.5KG PALADINI": "8465.800",
-            "MORTADELA X4.5KG PALADINI": "7419.490"
+            "MORTADELA X 2.5KG PALADINI": "8465.810",
+            "MORTADELA X4.5KG PALADINI": "7221.700"
         },
         "Las Piaras": {},
         "Punta del agua": {},
@@ -345,10 +345,10 @@
             "SARDO FRESCO ABUELO": "9072.000"
         },
         "Don Luis": {
-            "LONGA CALABRESA DON LUIS": "11316.010",
-            "PECHERA DON LUIS": "11316.010",
+            "LONGA CALABRESA DON LUIS": "11978.400",
+            "PECHERA DON LUIS": "11978.400",
             "SALAME COLORADO DON LUIS": "10701.000",
-            "SALAME DON LUIS": "11684.990"
+            "SALAME DON LUIS": "12369.000"
         },
         "Alco": {
             "DURAZNO X 820": "1332.340",
@@ -356,13 +356,13 @@
             "TOMATE PERITA X 400": "722.180"
         },
         "Carrité": {
-            "MICROFIBRA PAÑO 30X40": "1327.100",
-            "ROLLO DE COCINA X 6": "1331.000"
+            "MICROFIBRA PAÑO 30X40": "1359.740",
+            "ROLLO DE COCINA X 12": "1331.000"
         },
         "Campo Grande": {},
         "Inalpa": {
             "ARVEJA X 300 INALPA": "428.740",
-            "CHOCLO X 300": "968.450",
+            "CHOCLO X 300": "1007.820",
             "LENTEJAS INALPA X 300": "664.610"
         },
         "Marvavic": {
@@ -401,10 +401,10 @@
             "SAL MONOPORCION": "9656.770"
         },
         "La Quesera": {
-            "BARRA CHEDDAR LA QUESERA": "13202.370",
-            "GRUYERE CUÑA LA QUESERA": "21678.920",
-            "MIXTO CON SALAME LA QUESERA": "11869.630",
-            "QUESO RALLADO X 40 GRS.LA QUES": "539.480"
+            "BARRA CHEDDAR LA QUESERA": "14525.890",
+            "GRUYERE CUÑA LA QUESERA": "21893.280",
+            "MIXTO CON SALAME LA QUESERA": "12347.220",
+            "QUESO RALLADO X 40 GRS.LA QUES": "558.540"
         },
         "Mix Dietetica": {
             "MIX CRIOLLO X 10": "8532.970",
@@ -437,6 +437,13 @@
         },
         "Sol Naciente": {
             "CRUDO SOL NACIENTE": "15192.000"
+        },
+        "Arrodul": {
+            "DULCE DE LECHE FAM. X 1 KG.ARR": "3306.250",
+            "DULCE DE LECHE FAM.X 10 KG": "24253.490",
+            "DULCE DE LECHE HELAD.X 10 KG.": "29451.500",
+            "DULCE DE LECHE REP. X 5 KG.": "13819.540",
+            "DULCE DE LECHE REP.X 10 KG": "25611.660"
         },
         "OTRAS COMPRAS": {
             "ACEITE MOLINO CAÑUELAS": "2565.240",
@@ -505,7 +512,7 @@
             "JABON TIRA PATRICIA 3X80": "11131.310",
             "JARDINERA X 350": "776.450",
             "JUGO BAGGIO X250": "478.120",
-            "JUGO DE LIMON MINERVA X 250": "1286.640",
+            "JUGO DE LIMON MINERVA X 250": "1348.550",
             "KETCHUP HELLMAN´S X 250 GRS.": "1644.570",
             "LAVANDINA AYUDIN 1L": "1075.300",
             "LEVADURA LEVEX 2 X 25": "1013.060",
@@ -567,54 +574,70 @@
     },
     "cambios": {
         "Quesada": {
-            "CREMOSO QUESADA": "6045.920"
+            "ROMANITO QUESADA": "11779.690"
         },
         "Dulcor": {
-            "BATATA CON CHOCOLATE X 2 KG": "4202.910",
-            "BATATA VLLA.X 2 KG.": "4202.910",
-            "MEMBRILLO LATA X 700": "4490.430"
-        },
-        "San Cayetano": {
-            "FRASCO NEGRA X2KG 00": "21823.970",
-            "BIDON DESC X4KG 00": "33771.400",
-            "BIDON X4.6KG 3": "21616.320",
-            "PICKLES X 2KG": "8344.720"
+            "MANTECOL CLASICO X 111 GRS.": "1983.410",
+            "MANTECOL C/ALM.X 3.4 KG": "57953.390",
+            "MANTECOL CLASICO X 253 GRS.": "4031.160",
+            "MANTECOL LINGOTE X 500 GRS.": "9286.730"
         },
         "Calchaqui": {
-            "MORTADELA BOCHA CALCHAQUI": "7625.580",
-            "MORTADELA CAÑON CALCHAQUI": "6463.420",
-            "MORTADELA C/PIST CALCHAQUI": "11978.730"
+            "MORTADELA BOCHA CALCHAQUI": "7854.330",
+            "MORTADELA CAÑON CALCHAQUI": "6657.350",
+            "MORTADELA GIG. CALCHAQUI": "8560.330",
+            "MORTADELA C/PIST CALCHAQUI": "12441.740"
+        },
+        "Bocatti": {
+            "JAMON COCIDO BOCATTI": "17144.850"
         },
         "Hellmans": {
-            "KETCHUP HELLMAN`S X 60 GRS.": "812.610"
+            "MAYONESA X2.9 HELLMANS": "11927.300"
         },
         "Paladini": {
-            "MORTADELA X4.5KG PALADINI": "7419.490",
-            "MORTADELA FAM. PALADINI": "2573.020",
-            "VIENA X 6 FELA": "1055.960",
-            "PALETA PALADINI X6KG": "10281.600",
-            "VIENA X 6 PALDINI": "1650.850",
+            "MORTADELA X4.5KG PALADINI": "7221.700",
+            "MORTADELA X 2.5KG PALADINI": "8465.810",
+            "VIENA X 6 PALDINI": "1463.250",
+            "LEBERWURST X 250 GRS.": "1929.540",
             "MILAN TIVOLI": "8654.070",
-            "MILAN FELA": "10574.610",
             "BONDIOLA PALADINI": "24246.170",
-            "BONDIOLA CONGELADA PALADINI": "8647.510",
-            "COSTILLITAS CONG.PALADINI": "7954.720",
-            "MEDALLON FELA X 4": "2235.220",
+            "MEDALLON FELA X 4": "2352.870",
             "HAMBURGUESA PALADINI X 4": "4372.120",
-            "MEDALLON FELA X 72": "527.190",
-            "HAMBURGUESA PALADINI X 60": "984.470",
-            "PIZZETAS X 20 JAMON Y QUESO": "2275.590",
+            "MEDALLON FELA X 2 UNID.": "1054.380",
+            "HAMB. PALADINI X 2 UNID.": "1968.940",
             "PIZZETA MUZZARELLA": "2115.430"
         },
-        "Cabrales": {
-            "CAFE EN SAQ. CABRALES X18": "4138.100"
+        "Cavade": {
+            "ACEITE GIRASOL X 900": "2089.400"
         },
-        "Cabaña Azul": {
-            "BARRA CABAÑA AZUL": "6776.000"
+        "Don Luis": {
+            "PECHERA DON LUIS": "11978.400",
+            "LONGA CALABRESA DON LUIS": "11978.400",
+            "SALAME DON LUIS": "12369.000"
+        },
+        "Carrité": {
+            "ROLLO DE COCINA X 12": "1331.000",
+            "MICROFIBRA PAÑO 30X40": "1359.740"
+        },
+        "Inalpa": {
+            "CHOCLO X 300": "1007.820"
+        },
+        "La Quesera": {
+            "QUESO RALLADO X 40 GRS.LA QUES": "558.540",
+            "BARRA CHEDDAR LA QUESERA": "14525.890",
+            "GRUYERE CUÑA LA QUESERA": "21893.280",
+            "MIXTO CON SALAME LA QUESERA": "12347.220"
+        },
+        "Arrodul": {
+            "DULCE DE LECHE REP.X 10 KG": "25611.660",
+            "DULCE DE LECHE HELAD.X 10 KG.": "29451.500",
+            "DULCE DE LECHE FAM.X 10 KG": "24253.490",
+            "DULCE DE LECHE FAM. X 1 KG.ARR": "3306.250",
+            "DULCE DE LECHE REP. X 5 KG.": "13819.540"
         },
         "OTRAS COMPRAS": {
-            "VIRULANA ROLLO": "1071.580"
+            "JUGO DE LIMON MINERVA X 250": "1348.550"
         }
     },
-    "fecha": "17-10-2025 09:53:03"
+    "fecha": "24-10-2025 11:37:00"
 }
