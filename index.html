@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script defer type="module" src="js/loadConfig.js"></script>
+  <script defer type="module" src="js/scroll.js"></script>
+  <script defer type="module" src="js/main.js"></script>
+  <link rel="stylesheet" href="css/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aliger | Lista de precios</title>
+</head>
+
+<body>
+  <header class="ly-full">
+    <div class="header-wrapper ly-full">
+      <div class="left header-line"></div>
+      <div class="header-title">
+        <img src="img/common/aliger_logo.jpg" alt="" width="39" height="30">
+        <p>Lista de precios mayorista</p>
+      </div>
+      <div class="right header-line"></div>
+    </div>
+  </header>
+
+  <main class="ly-content">
+    <div class="form stack" role="group">
+      <input type="text" placeholder="Buscar por nombre de artículo o empresa" role="search">
+      <svg width="27" height="27" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M25 25.1667L16.25 16.4167" stroke="#00009E" stroke-width="2.91667" stroke-linecap="round" />
+        <path
+          d="M17.7083 9.85418C17.7083 11.9814 16.8632 14.0216 15.359 15.5258C13.8548 17.03 11.8147 17.875 9.68746 17.875C7.5602 17.875 5.52007 17.03 4.01587 15.5258C2.51168 14.0216 1.66663 11.9814 1.66663 9.85418C1.66663 7.72692 2.51168 5.68679 4.01587 4.18259C5.52007 2.67839 7.5602 1.83334 9.68746 1.83334C11.8147 1.83334 13.8548 2.67839 15.359 4.18259C16.8632 5.68679 17.7083 7.72692 17.7083 9.85418Z"
+          stroke="#00009E" stroke-width="2.91667" />
+      </svg>
+
+    </div>
+
+    <div class="detalles">
+      <div class="detalle">
+        <div class="i cuadrado-cambios"></div>
+        <p>Productos que tuvieron cambios de precios</p>
+      </div>
+
+      <div class="detalle">
+        <div class="i reloj">
+          <svg viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0"/><path d="M12 6v6l4 2"/></g></svg>
+        </div>
+        <p id="actualizacion">Última actualización:</p>
+      </div>
+    </div>
+
+    <div id="data">
+    </div>
+  </main>
+</body>
+
+</html>
