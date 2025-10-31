@@ -1,5 +1,5 @@
 {
-    "FECHA": "30-10-2025",
+    "FECHA": "31-10-2025",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X500",
@@ -174,7 +174,7 @@
         "523": {
             "nombre_articulo": "",
             "precio": "1944.52",
-            "modificado": true,
+            "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -182,7 +182,7 @@
         "524": {
             "nombre_articulo": "",
             "precio": "3613.32",
-            "modificado": true,
+            "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -190,7 +190,7 @@
         "525": {
             "nombre_articulo": "",
             "precio": "871.39",
-            "modificado": true,
+            "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -198,7 +198,7 @@
         "526": {
             "nombre_articulo": "",
             "precio": "1627.22",
-            "modificado": true,
+            "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -214,7 +214,7 @@
         "528": {
             "nombre_articulo": "",
             "precio": "1748.29",
-            "modificado": true,
+            "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1150,7 +1150,7 @@
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
             "precio": "5968.35",
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 4.8
@@ -1174,7 +1174,7 @@
         "51": {
             "nombre_articulo": "MORTADELA X 2.5KG PALADINI",
             "precio": "6996.54",
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
@@ -1198,7 +1198,7 @@
         "340": {
             "nombre_articulo": "VIENA X 6 PALDINI",
             "precio": "1209.3",
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1222,7 +1222,7 @@
         "398": {
             "nombre_articulo": "MILAN TIVOLI",
             "precio": "7152.12",
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
@@ -1238,7 +1238,7 @@
         "400": {
             "nombre_articulo": "BONDIOLA PALADINI",
             "precio": "20038.16",
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
@@ -1392,7 +1392,7 @@
         "76": {
             "nombre_articulo": "ROMANITO QUESADA",
             "precio": "9735.28",
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
@@ -2130,7 +2130,7 @@
         "135": {
             "nombre_articulo": "MAYONESA X2.9 HELLMANS",
             "precio": "9857.27",
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
