@@ -146,118 +146,6 @@
             "factor": 1,
             "unidad_kilo": "U",
             "peso_promedio": 0.0
-        },
-        "520": {
-            "nombre_articulo": "",
-            "precio": "19919.53",
-            "modificado": false,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "521": {
-            "nombre_articulo": "",
-            "precio": "6896.46",
-            "modificado": false,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "522": {
-            "nombre_articulo": "",
-            "precio": "6574.15",
-            "modificado": false,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "523": {
-            "nombre_articulo": "",
-            "precio": "1944.52",
-            "modificado": false,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "524": {
-            "nombre_articulo": "",
-            "precio": "3613.32",
-            "modificado": false,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "525": {
-            "nombre_articulo": "",
-            "precio": "871.39",
-            "modificado": false,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "526": {
-            "nombre_articulo": "",
-            "precio": "1627.22",
-            "modificado": false,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "527": {
-            "nombre_articulo": "",
-            "precio": "1880.65",
-            "modificado": false,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "528": {
-            "nombre_articulo": "",
-            "precio": "1748.29",
-            "modificado": false,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "529": {
-            "nombre_articulo": "",
-            "precio": "21166.66",
-            "modificado": true,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "530": {
-            "nombre_articulo": "",
-            "precio": "24340.08",
-            "modificado": true,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "531": {
-            "nombre_articulo": "",
-            "precio": "20044.21",
-            "modificado": true,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "532": {
-            "nombre_articulo": "",
-            "precio": "2732.44",
-            "modificado": true,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "533": {
-            "nombre_articulo": "",
-            "precio": "11421.11",
-            "modificado": true,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
         }
     },
     "Emezeta": {
@@ -824,6 +712,14 @@
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.5
+        },
+        "520": {
+            "nombre_articulo": "FIAMBRE DE PAVO",
+            "precio": "19919.53",
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 3.5
         }
     },
     "Bocatti": {
@@ -1116,6 +1012,14 @@
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
+        },
+        "534": {
+            "nombre_articulo": "COPOS AZUC. NUTRI FLAKES X 400",
+            "precio": "1442.15",
+            "modificado": true,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
         }
     },
     "Halcon": {
@@ -1282,6 +1186,62 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
+        },
+        "522": {
+            "nombre_articulo": "COSTILLITAS CONG.PALADINI",
+            "precio": "6574.15",
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 2.5
+        },
+        "523": {
+            "nombre_articulo": "MEDALLON FELA X 4",
+            "precio": "1944.52",
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "524": {
+            "nombre_articulo": "HAMBURGUESA PALADINI X 4",
+            "precio": "3613.32",
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "525": {
+            "nombre_articulo": "MEDALLON FELA X 2 UNID.",
+            "precio": "871.39",
+            "modificado": false,
+            "factor": "36",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "526": {
+            "nombre_articulo": "HAMB. PALADINI X 2 UNID.",
+            "precio": "1627.22",
+            "modificado": false,
+            "factor": "30",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "527": {
+            "nombre_articulo": "PIZZETAS X 20 JAMON Y QUESO",
+            "precio": "1880.65",
+            "modificado": false,
+            "factor": "20",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "528": {
+            "nombre_articulo": "PIZZETA MUZZARELLA",
+            "precio": "1748.29",
+            "modificado": false,
+            "factor": "20",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
         }
     },
     "Quesada": {
@@ -1299,7 +1259,7 @@
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
-            "peso_promedio": 5.6
+            "peso_promedio": 5.5
         },
         "61": {
             "nombre_articulo": "CRIOLLO QUESADA",
@@ -1792,6 +1752,14 @@
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
+        },
+        "521": {
+            "nombre_articulo": "PICKLES X 2KG",
+            "precio": "6896.46",
+            "modificado": false,
+            "factor": "4",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
         }
     },
     "Cris Jor": {
@@ -1865,8 +1833,8 @@
     "Platamar": {
         "116": {
             "nombre_articulo": "ANCHOAS X90GR",
-            "precio": "3226.45",
-            "modificado": false,
+            "precio": "3702.48",
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1899,8 +1867,8 @@
         },
         "118": {
             "nombre_articulo": "ANCHOAS 60 X 3",
-            "precio": "25176.86",
-            "modificado": false,
+            "precio": "26975.21",
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1908,7 +1876,7 @@
         "119": {
             "nombre_articulo": "ANCHOAS 18 X 3",
             "precio": "9600.0",
-            "modificado": false,
+            "modificado": true,
             "factor": "15",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1916,15 +1884,15 @@
         "120": {
             "nombre_articulo": "ANCHOAS 30 X 3",
             "precio": "13963.64",
-            "modificado": false,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "121": {
             "nombre_articulo": "ANCHOAS X1.5KG",
-            "precio": "29184.04",
-            "modificado": false,
+            "precio": "31031.41",
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1933,8 +1901,8 @@
     "Productos W": {
         "122": {
             "nombre_articulo": "CRUDO W",
-            "precio": "11334.3",
-            "modificado": false,
+            "precio": "11944.21",
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.6
@@ -2181,16 +2149,16 @@
     "Chiro": {
         "138": {
             "nombre_articulo": "SACHET X 100 CHIRO",
-            "precio": "541.49",
-            "modificado": false,
+            "precio": "574.38",
+            "modificado": true,
             "factor": "18",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "325": {
             "nombre_articulo": "SACHET DESC.X 100 CHIRO",
-            "precio": "714.96",
-            "modificado": false,
+            "precio": "756.3",
+            "modificado": true,
             "factor": "18",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2275,7 +2243,7 @@
             "nombre_articulo": "ACEITE GIRASOL X 900",
             "precio": "1726.78",
             "modificado": false,
-            "factor": "15",
+            "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         }
@@ -2569,7 +2537,7 @@
             "nombre_articulo": "ALCOHOL DE QUEMAR X 1L",
             "precio": "2061.47",
             "modificado": false,
-            "factor": "1",
+            "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
@@ -2882,10 +2850,10 @@
     },
     "Carrité": {
         "364": {
-            "nombre_articulo": "ROLLO DE COCINA X 6",
+            "nombre_articulo": "ROLLO DE COCINA X 12",
             "precio": "1100.0",
             "modificado": false,
-            "factor": "6",
+            "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
@@ -3116,6 +3084,48 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
+        }
+    },
+    "Arrodul": {
+        "529": {
+            "nombre_articulo": "DULCE DE LECHE REP.X 10 KG",
+            "precio": "21166.66",
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "530": {
+            "nombre_articulo": "DULCE DE LECHE HELAD.X 10 KG.",
+            "precio": "24340.08",
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "531": {
+            "nombre_articulo": "DULCE DE LECHE FAM.X 10 KG",
+            "precio": "20044.21",
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "532": {
+            "nombre_articulo": "DULCE DE LECHE FAM. X 1 KG.ARR.",
+            "precio": "2732.44",
+            "modificado": true,
+            "factor": "6",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "533": {
+            "nombre_articulo": "DULCE DE LECHE REP. X 5 KG.",
+            "precio": "11421.11",
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
         }
     }
 }
