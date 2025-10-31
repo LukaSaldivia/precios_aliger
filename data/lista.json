@@ -3,7 +3,7 @@
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X500",
-            "precio": "4588.5",
+            "precio": 5552.085,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
@@ -11,7 +11,7 @@
         },
         "47": {
             "nombre_articulo": "PAPAS CORTE AMERICANO",
-            "precio": "4588.5",
+            "precio": 5552.085,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
@@ -19,7 +19,7 @@
         },
         "48": {
             "nombre_articulo": "PAPAS PAY PEIPO",
-            "precio": "4557.2",
+            "precio": 5514.2119999999995,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -27,7 +27,7 @@
         },
         "49": {
             "nombre_articulo": "PALITOS SALADOS PEIPO",
-            "precio": "3699.29",
+            "precio": 4476.140899999999,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -35,7 +35,7 @@
         },
         "52": {
             "nombre_articulo": "MANI SALADO PEIPO",
-            "precio": "3477.03",
+            "precio": 4207.2063,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -43,7 +43,7 @@
         },
         "53": {
             "nombre_articulo": "MANI C/CASCARA PEIPO",
-            "precio": "4472.2",
+            "precio": 5411.361999999999,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -51,7 +51,7 @@
         },
         "54": {
             "nombre_articulo": "BOLITAS CROCANTES PEIPO",
-            "precio": "1673.36",
+            "precio": 2024.7655999999997,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -59,7 +59,7 @@
         },
         "55": {
             "nombre_articulo": "PIZZA ROLLS PEIPO",
-            "precio": "1394.05",
+            "precio": 1686.8004999999998,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -67,7 +67,7 @@
         },
         "56": {
             "nombre_articulo": "MAIZ INFLADO PEIPO",
-            "precio": "2634.76",
+            "precio": 3188.0596,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -75,7 +75,7 @@
         },
         "57": {
             "nombre_articulo": "MANI REPELADO PEIPO",
-            "precio": "3606.95",
+            "precio": 4364.4095,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -83,7 +83,7 @@
         },
         "58": {
             "nombre_articulo": "TUBITOS PEIPO",
-            "precio": "1892.88",
+            "precio": 2290.3848000000003,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -91,7 +91,7 @@
         },
         "208": {
             "nombre_articulo": "PAPA CHEDDAR PEIPO X 330",
-            "precio": "3894.91",
+            "precio": 4712.8411,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -99,7 +99,7 @@
         },
         "366": {
             "nombre_articulo": "MANI JAPONES X 700 PEIPO",
-            "precio": "3060.59",
+            "precio": 3703.3139,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -107,7 +107,7 @@
         },
         "458": {
             "nombre_articulo": "CHEESTICK QUESO X 300",
-            "precio": "1847.82",
+            "precio": 2235.8622,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -115,7 +115,7 @@
         },
         "459": {
             "nombre_articulo": "PALITOS KETCHUP X 60 GRS.",
-            "precio": "411.79",
+            "precio": 498.2659,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
@@ -123,7 +123,7 @@
         },
         "511": {
             "nombre_articulo": "CHEESTICK CHEDDAR X265GR",
-            "precio": "1847.82",
+            "precio": 2235.8622,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -131,7 +131,7 @@
         },
         "518": {
             "nombre_articulo": "PALITOS SABOR QUESO X 500",
-            "precio": "3637.92",
+            "precio": 4401.8832,
             "modificado": false,
             "factor": "14",
             "unidad_kilo": "U",
@@ -141,7 +141,7 @@
     "Sin Grupo": {
         "2": {
             "nombre_articulo": "",
-            "precio": "4380.17",
+            "precio": 5300.0057,
             "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
@@ -151,7 +151,7 @@
     "Emezeta": {
         "3": {
             "nombre_articulo": "CRUDO EMEZETA",
-            "precio": "16717.4",
+            "precio": 20228.054,
             "modificado": false,
             "factor": "6",
             "unidad_kilo": "K",
@@ -159,7 +159,7 @@
         },
         "4": {
             "nombre_articulo": "JAMON NATIVO EMEZETA",
-            "precio": "7768.71",
+            "precio": 9400.1391,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
@@ -167,7 +167,7 @@
         },
         "5": {
             "nombre_articulo": "FIAMBRE DE JAMON COCIDO GRANDE",
-            "precio": "5225.13",
+            "precio": 6322.4073,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -175,7 +175,7 @@
         },
         "6": {
             "nombre_articulo": "PALETA MINI EMEZETA",
-            "precio": "4885.7",
+            "precio": 5911.696999999999,
             "modificado": false,
             "factor": "6",
             "unidad_kilo": "K",
@@ -183,7 +183,7 @@
         },
         "7": {
             "nombre_articulo": "LOMO CANADIENSE EMEZETA",
-            "precio": "9355.69",
+            "precio": 11320.384900000001,
             "modificado": false,
             "factor": "6",
             "unidad_kilo": "K",
@@ -191,7 +191,7 @@
         },
         "8": {
             "nombre_articulo": "MILAN LARGO EMEZETA",
-            "precio": "7121.99",
+            "precio": 8617.607899999999,
             "modificado": false,
             "factor": "6",
             "unidad_kilo": "K",
@@ -199,7 +199,7 @@
         },
         "9": {
             "nombre_articulo": "BASTON EMEZETA",
-            "precio": "8816.61",
+            "precio": 10668.098100000001,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "K",
@@ -207,7 +207,7 @@
         },
         "10": {
             "nombre_articulo": "BONDIOLA EMEZETA",
-            "precio": "12880.16",
+            "precio": 15584.9936,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "K",
@@ -215,7 +215,7 @@
         },
         "11": {
             "nombre_articulo": "PANCETA AHUM C/C EMEZETA",
-            "precio": "10128.4",
+            "precio": 12255.364,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
@@ -223,7 +223,7 @@
         },
         "12": {
             "nombre_articulo": "PANCETA TIERNIZADA EMEZETA",
-            "precio": "5209.7",
+            "precio": 6303.736999999999,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
@@ -231,7 +231,7 @@
         },
         "13": {
             "nombre_articulo": "PANCETA SALADA EMEZETA",
-            "precio": "10018.98",
+            "precio": 12122.9658,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
@@ -239,7 +239,7 @@
         },
         "14": {
             "nombre_articulo": "SALCHICHON C/JAMON EMEZETA",
-            "precio": "3373.9",
+            "precio": 4082.419,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
@@ -247,7 +247,7 @@
         },
         "15": {
             "nombre_articulo": "SALCHICHON PRIMAVERA EMEZETA",
-            "precio": "3373.9",
+            "precio": 4082.419,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
@@ -255,7 +255,7 @@
         },
         "16": {
             "nombre_articulo": "MORTADELA EMEZETA",
-            "precio": "3768.96",
+            "precio": 4560.4416,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
@@ -263,7 +263,7 @@
         },
         "134": {
             "nombre_articulo": "MILANCITO EMEZETA",
-            "precio": "8179.21",
+            "precio": 9896.8441,
             "modificado": false,
             "factor": "15",
             "unidad_kilo": "K",
@@ -271,7 +271,7 @@
         },
         "318": {
             "nombre_articulo": "JAMON BOLON 3783",
-            "precio": "4734.71",
+            "precio": 5728.9991,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -279,7 +279,7 @@
         },
         "363": {
             "nombre_articulo": "LOMO AHUMADO EMEZETA",
-            "precio": "8006.36",
+            "precio": 9687.6956,
             "modificado": false,
             "factor": "6",
             "unidad_kilo": "K",
@@ -287,7 +287,7 @@
         },
         "365": {
             "nombre_articulo": "PALETA CUADRADA EMEZETA",
-            "precio": "4881.31",
+            "precio": 5906.3851,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -295,7 +295,7 @@
         },
         "386": {
             "nombre_articulo": "PERNIL MINI EMEZETA",
-            "precio": "5215.18",
+            "precio": 6310.3678,
             "modificado": false,
             "factor": "6",
             "unidad_kilo": "K",
@@ -303,7 +303,7 @@
         },
         "401": {
             "nombre_articulo": "MILAN CORTO MZ",
-            "precio": "7109.2",
+            "precio": 8602.132,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
@@ -311,7 +311,7 @@
         },
         "402": {
             "nombre_articulo": "BARRIL MZ",
-            "precio": "5257.99",
+            "precio": 6362.1678999999995,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -319,7 +319,7 @@
         },
         "409": {
             "nombre_articulo": "PALETA MINI S/GR.MZ",
-            "precio": "4743.4",
+            "precio": 5739.513999999999,
             "modificado": false,
             "factor": "6",
             "unidad_kilo": "K",
@@ -327,7 +327,7 @@
         },
         "417": {
             "nombre_articulo": "BONDIOLA AL VACIO 1/2 MZ",
-            "precio": "13342.16",
+            "precio": 16144.0136,
             "modificado": false,
             "factor": "20",
             "unidad_kilo": "K",
@@ -337,7 +337,7 @@
     "Aromas y Sabores": {
         "17": {
             "nombre_articulo": "ADOBO X25GR",
-            "precio": "254.79",
+            "precio": 308.29589999999996,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -345,7 +345,7 @@
         },
         "18": {
             "nombre_articulo": "AJI MOLIDO X25GR",
-            "precio": "268.7",
+            "precio": 325.12699999999995,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -353,7 +353,7 @@
         },
         "19": {
             "nombre_articulo": "COMINO X25GR",
-            "precio": "241.19",
+            "precio": 291.8399,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -361,7 +361,7 @@
         },
         "20": {
             "nombre_articulo": "CHIMICHURRI X25GR",
-            "precio": "237.17",
+            "precio": 286.97569999999996,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -369,7 +369,7 @@
         },
         "21": {
             "nombre_articulo": "NUEZ MOSCADA MOLIDA X25GR",
-            "precio": "644.53",
+            "precio": 779.8812999999999,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -377,7 +377,7 @@
         },
         "22": {
             "nombre_articulo": "NUEZ MOSCADA X2 UN.",
-            "precio": "778.84",
+            "precio": 942.3964,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -385,7 +385,7 @@
         },
         "23": {
             "nombre_articulo": "OREGANO X25GR",
-            "precio": "282.06",
+            "precio": 341.2926,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -393,7 +393,7 @@
         },
         "24": {
             "nombre_articulo": "PIMENTON X25GR",
-            "precio": "276.29",
+            "precio": 334.3109,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -401,7 +401,7 @@
         },
         "25": {
             "nombre_articulo": "PIMIENTA BLANCA X25GR",
-            "precio": "787.89",
+            "precio": 953.3469,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -409,7 +409,7 @@
         },
         "26": {
             "nombre_articulo": "PIM NEGRA EN GRANO X25GR",
-            "precio": "763.27",
+            "precio": 923.5567,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -417,7 +417,7 @@
         },
         "27": {
             "nombre_articulo": "PIM NEGRA MOLIDA X25GR",
-            "precio": "556.87",
+            "precio": 673.8127,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -425,7 +425,7 @@
         },
         "28": {
             "nombre_articulo": "PROVENZAL X25GR",
-            "precio": "316.12",
+            "precio": 382.5052,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -433,7 +433,7 @@
         },
         "29": {
             "nombre_articulo": "SALSA BLANCA X25GR",
-            "precio": "249.23",
+            "precio": 301.56829999999997,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -441,7 +441,7 @@
         },
         "30": {
             "nombre_articulo": "ESPECIAS SURTIDAS X25GR",
-            "precio": "225.11",
+            "precio": 272.3831,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -449,7 +449,7 @@
         },
         "31": {
             "nombre_articulo": "POLVO PARA HORNEAR X50GR",
-            "precio": "370.25",
+            "precio": 448.0025,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -457,7 +457,7 @@
         },
         "148": {
             "nombre_articulo": "ADOBO P/PIZZAS X 1 KG",
-            "precio": "4014.67",
+            "precio": 4857.7507,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -465,7 +465,7 @@
         },
         "149": {
             "nombre_articulo": "OREGANO X 1 KG",
-            "precio": "3825.76",
+            "precio": 4629.1696,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -473,7 +473,7 @@
         },
         "150": {
             "nombre_articulo": "PIMENTON X 1 KG",
-            "precio": "5433.48",
+            "precio": 6574.510799999999,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -481,7 +481,7 @@
         },
         "151": {
             "nombre_articulo": "AJI MOLIDO X 1 KG",
-            "precio": "4578.17",
+            "precio": 5539.5857,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -489,7 +489,7 @@
         },
         "152": {
             "nombre_articulo": "PROVENZAL X 1 KG",
-            "precio": "4183.47",
+            "precio": 5061.9987,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -497,7 +497,7 @@
         },
         "161": {
             "nombre_articulo": "BICARBONATO X 50 GRS.",
-            "precio": "453.93",
+            "precio": 549.2553,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -505,7 +505,7 @@
         },
         "204": {
             "nombre_articulo": "COCO RALLADO X1KG AYS",
-            "precio": "7809.92",
+            "precio": 9450.0032,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -513,7 +513,7 @@
         },
         "205": {
             "nombre_articulo": "PIM BLANCA MOLIDA X 1 KG",
-            "precio": "9970.68",
+            "precio": 12064.5228,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -521,7 +521,7 @@
         },
         "234": {
             "nombre_articulo": "CONDIMENTO P/ARROZ",
-            "precio": "309.97",
+            "precio": 375.06370000000004,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -529,7 +529,7 @@
         },
         "241": {
             "nombre_articulo": "ESPECIES SURTIDA X1KG",
-            "precio": "5566.91",
+            "precio": 6735.9610999999995,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -537,7 +537,7 @@
         },
         "242": {
             "nombre_articulo": "EXTRACTO DE VAIN AYS X100CC",
-            "precio": "482.76",
+            "precio": 584.1396,
             "modificado": false,
             "factor": "36",
             "unidad_kilo": "U",
@@ -545,7 +545,7 @@
         },
         "243": {
             "nombre_articulo": "AZUCAR IMPALPABLE X1KG AYS",
-            "precio": "3149.01",
+            "precio": 3810.3021000000003,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -553,7 +553,7 @@
         },
         "244": {
             "nombre_articulo": "FECULA DE MAIZ AYS X1KG",
-            "precio": "1931.19",
+            "precio": 2336.7399,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -561,7 +561,7 @@
         },
         "268": {
             "nombre_articulo": "CANELA MOLIDA X25",
-            "precio": "390.0",
+            "precio": 471.9,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -569,7 +569,7 @@
         },
         "279": {
             "nombre_articulo": "CHIMICHURRI X 1 KG",
-            "precio": "3621.3",
+            "precio": 4381.773,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -577,7 +577,7 @@
         },
         "319": {
             "nombre_articulo": "AZUCAR IMPALPABLE X 200",
-            "precio": "752.47",
+            "precio": 910.4887,
             "modificado": false,
             "factor": "30",
             "unidad_kilo": "U",
@@ -585,7 +585,7 @@
         },
         "320": {
             "nombre_articulo": "COCO RALLADO X 25 GRS.",
-            "precio": "300.73",
+            "precio": 363.8833,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -593,7 +593,7 @@
         },
         "381": {
             "nombre_articulo": "COMINO X 1 KG",
-            "precio": "3888.22",
+            "precio": 4704.7462,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -601,7 +601,7 @@
         },
         "382": {
             "nombre_articulo": "FECULA DE MAIZ X 200",
-            "precio": "964.16",
+            "precio": 1166.6336,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
@@ -609,7 +609,7 @@
         },
         "410": {
             "nombre_articulo": "AJO GRANULADO X 25GR",
-            "precio": "388.64",
+            "precio": 470.2544,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -617,7 +617,7 @@
         },
         "481": {
             "nombre_articulo": "PEREJIL DESHIDRATADO X25GR",
-            "precio": "431.13",
+            "precio": 521.6673,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -625,7 +625,7 @@
         },
         "487": {
             "nombre_articulo": "ALBAHACA X 1KG",
-            "precio": "6809.14",
+            "precio": 8239.0594,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -633,7 +633,7 @@
         },
         "509": {
             "nombre_articulo": "GRANAS P/REPOS.SURT",
-            "precio": "240.15",
+            "precio": 290.5815,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -641,7 +641,7 @@
         },
         "510": {
             "nombre_articulo": "GRAGEAS P/REPOSTERIA",
-            "precio": "304.0",
+            "precio": 367.84,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -651,7 +651,7 @@
     "Calchaqui": {
         "32": {
             "nombre_articulo": "MORTADELA BOCHA CALCHAQUI",
-            "precio": "6491.18",
+            "precio": 7854.3278,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -659,7 +659,7 @@
         },
         "33": {
             "nombre_articulo": "MORTADELA CAÑON CALCHAQUI",
-            "precio": "5501.94",
+            "precio": 6657.3474,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -667,7 +667,7 @@
         },
         "34": {
             "nombre_articulo": "BONDIOLA CALCHAQUI",
-            "precio": "16294.91",
+            "precio": 19716.841099999998,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -675,7 +675,7 @@
         },
         "35": {
             "nombre_articulo": "PANCETA AHUMADA CALCHAQUI",
-            "precio": "13210.18",
+            "precio": 15984.3178,
             "modificado": false,
             "factor": "6",
             "unidad_kilo": "K",
@@ -683,7 +683,7 @@
         },
         "36": {
             "nombre_articulo": "MORTADELA GIG. CALCHAQUI",
-            "precio": "7074.65",
+            "precio": 8560.3265,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -691,7 +691,7 @@
         },
         "38": {
             "nombre_articulo": "MORTADELA C/PIST CALCHAQUI",
-            "precio": "10282.43",
+            "precio": 12441.7403,
             "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
@@ -699,7 +699,7 @@
         },
         "385": {
             "nombre_articulo": "MORTADELA PICCOLA CALCHAQUI",
-            "precio": "1595.44",
+            "precio": 1930.4824,
             "modificado": false,
             "factor": "30",
             "unidad_kilo": "U",
@@ -707,7 +707,7 @@
         },
         "473": {
             "nombre_articulo": "LECHE LARGA VIDA ILOLAY",
-            "precio": "1173.92",
+            "precio": 1420.4432,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -715,7 +715,7 @@
         },
         "520": {
             "nombre_articulo": "FIAMBRE DE PAVO",
-            "precio": "19919.53",
+            "precio": 24102.631299999997,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -725,7 +725,7 @@
     "Bocatti": {
         "37": {
             "nombre_articulo": "JAMON COCIDO BOCATTI",
-            "precio": "14169.3",
+            "precio": 17144.853,
             "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
@@ -735,7 +735,7 @@
     "Dulcor": {
         "39": {
             "nombre_articulo": "DULCE DE MEMBRILLO",
-            "precio": "9161.43",
+            "precio": 11085.3303,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -743,7 +743,7 @@
         },
         "40": {
             "nombre_articulo": "DULCE DE BATATA",
-            "precio": "7438.9",
+            "precio": 9001.069,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -751,7 +751,7 @@
         },
         "41": {
             "nombre_articulo": "DULCE DE BATATA C/CHOC",
-            "precio": "7438.9",
+            "precio": 9001.069,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -759,7 +759,7 @@
         },
         "155": {
             "nombre_articulo": "POSTRE DCE.LECHE C/CHOC.",
-            "precio": "21233.11",
+            "precio": 25692.0631,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -767,7 +767,7 @@
         },
         "280": {
             "nombre_articulo": "MERMELADA CORMILLOT DURAZNO",
-            "precio": "1136.0",
+            "precio": 1374.56,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -775,7 +775,7 @@
         },
         "281": {
             "nombre_articulo": "HILERET CLASICO X 500",
-            "precio": "8093.63",
+            "precio": 9793.2923,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -783,7 +783,7 @@
         },
         "294": {
             "nombre_articulo": "BATATA LATA VLLA.",
-            "precio": "9753.92",
+            "precio": 11802.243199999999,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -791,7 +791,7 @@
         },
         "295": {
             "nombre_articulo": "BATATA LATA C/CHOC.",
-            "precio": "9753.92",
+            "precio": 11802.243199999999,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -799,7 +799,7 @@
         },
         "296": {
             "nombre_articulo": "MEMBRILLO LATA",
-            "precio": "10587.82",
+            "precio": 12811.2622,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -807,7 +807,7 @@
         },
         "309": {
             "nombre_articulo": "BATATA C/GUINDAS",
-            "precio": "15997.74",
+            "precio": 19357.2654,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -815,7 +815,7 @@
         },
         "408": {
             "nombre_articulo": "MERMELADA POTE DURAZNO",
-            "precio": "827.73",
+            "precio": 1001.5533,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -823,7 +823,7 @@
         },
         "421": {
             "nombre_articulo": "MERMELADA FRUTILLA DULCOR FRASCO",
-            "precio": "1486.23",
+            "precio": 1798.3383,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -831,7 +831,7 @@
         },
         "422": {
             "nombre_articulo": "MERMELADA HIGO DULCOR FRASCO",
-            "precio": "1317.86",
+            "precio": 1594.6105999999997,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -839,7 +839,7 @@
         },
         "423": {
             "nombre_articulo": "MERMELADA DURAZNO DULCOR FRASCO",
-            "precio": "1161.99",
+            "precio": 1406.0079,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -847,7 +847,7 @@
         },
         "424": {
             "nombre_articulo": "MERMELADA CIRUELA FRASCO DULCOR",
-            "precio": "1151.98",
+            "precio": 1393.8958,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -855,7 +855,7 @@
         },
         "425": {
             "nombre_articulo": "MERMELADA NARANJA DULCOR FRASCO",
-            "precio": "1108.69",
+            "precio": 1341.5149000000001,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -863,7 +863,7 @@
         },
         "426": {
             "nombre_articulo": "MERMELADA DAMASCO DULCOR FRASCO",
-            "precio": "1161.99",
+            "precio": 1406.0079,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -871,7 +871,7 @@
         },
         "448": {
             "nombre_articulo": "BATATA CON CHOCOLATE X 2 KG",
-            "precio": "3473.48",
+            "precio": 4202.9108,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -879,7 +879,7 @@
         },
         "449": {
             "nombre_articulo": "BATATA VLLA.X 2 KG.",
-            "precio": "3473.48",
+            "precio": 4202.9108,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -887,7 +887,7 @@
         },
         "450": {
             "nombre_articulo": "MEMBRILLO X 2 KG.",
-            "precio": "4061.25",
+            "precio": 4914.1125,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -895,7 +895,7 @@
         },
         "451": {
             "nombre_articulo": "BATATA CON CHOCOLATE X 700",
-            "precio": "2986.35",
+            "precio": 3613.4835,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -903,7 +903,7 @@
         },
         "452": {
             "nombre_articulo": "BATATA VLLA.LATA X 700",
-            "precio": "2986.35",
+            "precio": 3613.4835,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -911,7 +911,7 @@
         },
         "453": {
             "nombre_articulo": "MEMBRILLO LATA X 700",
-            "precio": "3711.1",
+            "precio": 4490.431,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -919,7 +919,7 @@
         },
         "454": {
             "nombre_articulo": "MERMELADA ARANADANO X 390",
-            "precio": "2471.14",
+            "precio": 2990.0793999999996,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -927,7 +927,7 @@
         },
         "455": {
             "nombre_articulo": "MERMELADA ESNAOLA DURAZNO X 390",
-            "precio": "1976.99",
+            "precio": 2392.1579,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -935,7 +935,7 @@
         },
         "456": {
             "nombre_articulo": "MERMELADA FRUTILLA ESNAOLA X 390",
-            "precio": "2471.14",
+            "precio": 2990.0793999999996,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -943,7 +943,7 @@
         },
         "457": {
             "nombre_articulo": "MERMELADA FRUTOS ROJOS X 390",
-            "precio": "2471.14",
+            "precio": 2990.0793999999996,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -951,7 +951,7 @@
         },
         "486": {
             "nombre_articulo": "BATATA X 500 ESNAOLA",
-            "precio": "1141.18",
+            "precio": 1380.8278,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -959,7 +959,7 @@
         },
         "488": {
             "nombre_articulo": "BATATA CAJON ESNAOLA",
-            "precio": "7735.72",
+            "precio": 9360.2212,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -967,7 +967,7 @@
         },
         "500": {
             "nombre_articulo": "BATATA CON CHOC.X 500",
-            "precio": "1122.16",
+            "precio": 1357.8136,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -975,7 +975,7 @@
         },
         "501": {
             "nombre_articulo": "MEMBRILLO X 500",
-            "precio": "1371.89",
+            "precio": 1659.9869,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -983,7 +983,7 @@
         },
         "513": {
             "nombre_articulo": "MANTECOL CLASICO X 111 GRS.",
-            "precio": "1639.18",
+            "precio": 1983.4078,
             "modificado": true,
             "factor": "40",
             "unidad_kilo": "U",
@@ -991,7 +991,7 @@
         },
         "514": {
             "nombre_articulo": "MANTECOL C/ALM.X 3.4 KG",
-            "precio": "47895.36",
+            "precio": 57953.3856,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
@@ -999,7 +999,7 @@
         },
         "515": {
             "nombre_articulo": "MANTECOL CLASICO X 253 GRS.",
-            "precio": "3331.54",
+            "precio": 4031.1634,
             "modificado": true,
             "factor": "36",
             "unidad_kilo": "U",
@@ -1007,7 +1007,7 @@
         },
         "516": {
             "nombre_articulo": "MANTECOL LINGOTE X 500 GRS.",
-            "precio": "7674.98",
+            "precio": 9286.725799999998,
             "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
@@ -1015,7 +1015,7 @@
         },
         "534": {
             "nombre_articulo": "COPOS AZUC. NUTRI FLAKES X 400",
-            "precio": "1442.15",
+            "precio": 1745.0015,
             "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
@@ -1025,7 +1025,7 @@
     "Halcon": {
         "42": {
             "nombre_articulo": "GRASA VACUNA",
-            "precio": "1564.83",
+            "precio": 1893.4442999999999,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -1033,7 +1033,7 @@
         },
         "43": {
             "nombre_articulo": "GRASA DE CERDO",
-            "precio": "1665.65",
+            "precio": 2015.4365,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -1043,7 +1043,7 @@
     "Las Piaras": {
         "44": {
             "nombre_articulo": "PALETA PIARA",
-            "precio": "0.0",
+            "precio": 0.0,
             "modificado": false,
             "factor": "5",
             "unidad_kilo": "K",
@@ -1053,7 +1053,7 @@
     "Paladini": {
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
-            "precio": "5968.35",
+            "precio": 7221.7035000000005,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
@@ -1061,7 +1061,7 @@
         },
         "46": {
             "nombre_articulo": "VIENA X6 FELA PALADINI",
-            "precio": "628.1",
+            "precio": 760.001,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
@@ -1069,7 +1069,7 @@
         },
         "50": {
             "nombre_articulo": "MORTADELA FAM. PALADINI",
-            "precio": "2126.46",
+            "precio": 2573.0166,
             "modificado": false,
             "factor": "16",
             "unidad_kilo": "U",
@@ -1077,7 +1077,7 @@
         },
         "51": {
             "nombre_articulo": "MORTADELA X 2.5KG PALADINI",
-            "precio": "6996.54",
+            "precio": 8465.8134,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
@@ -1085,7 +1085,7 @@
         },
         "157": {
             "nombre_articulo": "VIENA X 6 FELA",
-            "precio": "872.69",
+            "precio": 1055.9549,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
@@ -1093,7 +1093,7 @@
         },
         "266": {
             "nombre_articulo": "PALETA PALADINI X6KG",
-            "precio": "8497.19",
+            "precio": 10281.599900000001,
             "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
@@ -1101,7 +1101,7 @@
         },
         "340": {
             "nombre_articulo": "VIENA X 6 PALDINI",
-            "precio": "1209.3",
+            "precio": 1463.253,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
@@ -1109,7 +1109,7 @@
         },
         "357": {
             "nombre_articulo": "LEBERWURST X 250 GRS.",
-            "precio": "1594.66",
+            "precio": 1929.5386,
             "modificado": true,
             "factor": "26",
             "unidad_kilo": "U",
@@ -1117,7 +1117,7 @@
         },
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
-            "precio": "8488.78",
+            "precio": 10271.4238,
             "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
@@ -1125,7 +1125,7 @@
         },
         "398": {
             "nombre_articulo": "MILAN TIVOLI",
-            "precio": "7152.12",
+            "precio": 8654.0652,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
@@ -1133,7 +1133,7 @@
         },
         "399": {
             "nombre_articulo": "MILAN FELA",
-            "precio": "8739.35",
+            "precio": 10574.6135,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
@@ -1141,7 +1141,7 @@
         },
         "400": {
             "nombre_articulo": "BONDIOLA PALADINI",
-            "precio": "20038.16",
+            "precio": 24246.1736,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -1149,7 +1149,7 @@
         },
         "444": {
             "nombre_articulo": "FIAMBRE DE PALETA PALADINI X 4.5 KG",
-            "precio": "6868.23",
+            "precio": 8310.558299999999,
             "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
@@ -1157,7 +1157,7 @@
         },
         "502": {
             "nombre_articulo": "QUESO DE CERDO PALADINI",
-            "precio": "5489.35",
+            "precio": 6642.1135,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
@@ -1165,7 +1165,7 @@
         },
         "503": {
             "nombre_articulo": "PATE PALADINI",
-            "precio": "607.5",
+            "precio": 735.0749999999999,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
@@ -1173,7 +1173,7 @@
         },
         "504": {
             "nombre_articulo": "PICADILLO PALADINI",
-            "precio": "607.5",
+            "precio": 735.0749999999999,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
@@ -1181,7 +1181,7 @@
         },
         "519": {
             "nombre_articulo": "BONDIOLA CONGELADA PALADINI",
-            "precio": "7146.7",
+            "precio": 8647.507,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1189,7 +1189,7 @@
         },
         "522": {
             "nombre_articulo": "COSTILLITAS CONG.PALADINI",
-            "precio": "6574.15",
+            "precio": 7954.7215,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1197,7 +1197,7 @@
         },
         "523": {
             "nombre_articulo": "MEDALLON FELA X 4",
-            "precio": "1944.52",
+            "precio": 2352.8692,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -1205,7 +1205,7 @@
         },
         "524": {
             "nombre_articulo": "HAMBURGUESA PALADINI X 4",
-            "precio": "3613.32",
+            "precio": 4372.1172,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -1213,7 +1213,7 @@
         },
         "525": {
             "nombre_articulo": "MEDALLON FELA X 2 UNID.",
-            "precio": "871.39",
+            "precio": 1054.3818999999999,
             "modificado": false,
             "factor": "36",
             "unidad_kilo": "U",
@@ -1221,7 +1221,7 @@
         },
         "526": {
             "nombre_articulo": "HAMB. PALADINI X 2 UNID.",
-            "precio": "1627.22",
+            "precio": 1968.9361999999999,
             "modificado": false,
             "factor": "30",
             "unidad_kilo": "U",
@@ -1229,7 +1229,7 @@
         },
         "527": {
             "nombre_articulo": "PIZZETAS X 20 JAMON Y QUESO",
-            "precio": "1880.65",
+            "precio": 2275.5865,
             "modificado": false,
             "factor": "20",
             "unidad_kilo": "U",
@@ -1237,7 +1237,7 @@
         },
         "528": {
             "nombre_articulo": "PIZZETA MUZZARELLA",
-            "precio": "1748.29",
+            "precio": 2115.4309,
             "modificado": false,
             "factor": "20",
             "unidad_kilo": "U",
@@ -1247,7 +1247,7 @@
     "Quesada": {
         "59": {
             "nombre_articulo": "BARRA QUESADA",
-            "precio": "6496.95",
+            "precio": 7861.309499999999,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -1255,7 +1255,7 @@
         },
         "60": {
             "nombre_articulo": "CREMOSO QUESADA",
-            "precio": "4996.63",
+            "precio": 6045.9223,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -1263,7 +1263,7 @@
         },
         "61": {
             "nombre_articulo": "CRIOLLO QUESADA",
-            "precio": "8079.27",
+            "precio": 9775.9167,
             "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
@@ -1271,7 +1271,7 @@
         },
         "62": {
             "nombre_articulo": "FONTINA QUESADA",
-            "precio": "8438.9",
+            "precio": 10211.069,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1279,7 +1279,7 @@
         },
         "63": {
             "nombre_articulo": "GOUDA QUESADA",
-            "precio": "6971.1",
+            "precio": 8435.031,
             "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
@@ -1287,7 +1287,7 @@
         },
         "64": {
             "nombre_articulo": "MANTECA X100GR CLUCELAT",
-            "precio": "730.98",
+            "precio": 884.4858,
             "modificado": false,
             "factor": "60",
             "unidad_kilo": "U",
@@ -1295,7 +1295,7 @@
         },
         "65": {
             "nombre_articulo": "MANTECA X200GR CLUCELAT",
-            "precio": "1461.95",
+            "precio": 1768.9595,
             "modificado": false,
             "factor": "30",
             "unidad_kilo": "U",
@@ -1303,7 +1303,7 @@
         },
         "66": {
             "nombre_articulo": "MUZZA CILINDRO QUESADA",
-            "precio": "5276.44",
+            "precio": 6384.492399999999,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
@@ -1311,7 +1311,7 @@
         },
         "67": {
             "nombre_articulo": "PATEGRAS QUESADA",
-            "precio": "8079.27",
+            "precio": 9775.9167,
             "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
@@ -1319,7 +1319,7 @@
         },
         "68": {
             "nombre_articulo": "POR SALUT QUESADA",
-            "precio": "5633.45",
+            "precio": 6816.474499999999,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
@@ -1327,7 +1327,7 @@
         },
         "69": {
             "nombre_articulo": "POR SALUT S/S QUESADA",
-            "precio": "5857.63",
+            "precio": 7087.7323,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
@@ -1335,7 +1335,7 @@
         },
         "70": {
             "nombre_articulo": "QUESO AZUL EMPERADOR",
-            "precio": "0.0",
+            "precio": 0.0,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
@@ -1343,7 +1343,7 @@
         },
         "75": {
             "nombre_articulo": "REGGIANO QUESADA",
-            "precio": "10400.18",
+            "precio": 12584.2178,
             "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
@@ -1351,7 +1351,7 @@
         },
         "76": {
             "nombre_articulo": "ROMANITO QUESADA",
-            "precio": "9735.28",
+            "precio": 11779.6888,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
@@ -1359,7 +1359,7 @@
         },
         "77": {
             "nombre_articulo": "SARDO QUESADA",
-            "precio": "9371.45",
+            "precio": 11339.4545,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
@@ -1367,7 +1367,7 @@
         },
         "78": {
             "nombre_articulo": "CREMA QUESADA",
-            "precio": "4913.63",
+            "precio": 5945.4923,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1375,7 +1375,7 @@
         },
         "79": {
             "nombre_articulo": "PARMESANO QUESADA",
-            "precio": "11006.55",
+            "precio": 13317.9255,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1383,7 +1383,7 @@
         },
         "133": {
             "nombre_articulo": "MUZZA BARRA QUESADA",
-            "precio": "6496.95",
+            "precio": 7861.309499999999,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -1391,7 +1391,7 @@
         },
         "146": {
             "nombre_articulo": "CREMOSO 1/2 QUESADA",
-            "precio": "5081.32",
+            "precio": 6148.397199999999,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
@@ -1399,7 +1399,7 @@
         },
         "147": {
             "nombre_articulo": "QUESO AZUL 1/2 EMPERADOR",
-            "precio": "8672.98",
+            "precio": 10494.305799999998,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
@@ -1407,7 +1407,7 @@
         },
         "154": {
             "nombre_articulo": "MANTECA X 2.5 KG CLUCELAT",
-            "precio": "18274.17",
+            "precio": 22111.745699999996,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
@@ -1415,7 +1415,7 @@
         },
         "282": {
             "nombre_articulo": "BARRA SABORIZADA QUESADA",
-            "precio": "8493.77",
+            "precio": 10277.4617,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1423,7 +1423,7 @@
         },
         "314": {
             "nombre_articulo": "REGIANO MITADES",
-            "precio": "10486.45",
+            "precio": 12688.604500000001,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -1431,7 +1431,7 @@
         },
         "315": {
             "nombre_articulo": "PARMESANO MITAD",
-            "precio": "11275.22",
+            "precio": 13643.016199999998,
             "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
@@ -1439,7 +1439,7 @@
         },
         "362": {
             "nombre_articulo": "SALSA CHEDDAR SACHET",
-            "precio": "3204.89",
+            "precio": 3877.9168999999997,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -1447,7 +1447,7 @@
         },
         "383": {
             "nombre_articulo": "SABORIZADO QUESADA X 700",
-            "precio": "8493.77",
+            "precio": 10277.4617,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1455,7 +1455,7 @@
         },
         "435": {
             "nombre_articulo": "PROVOLETA QUESADA",
-            "precio": "9735.28",
+            "precio": 11779.6888,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
@@ -1463,7 +1463,7 @@
         },
         "436": {
             "nombre_articulo": "RICOTTA QUESADA",
-            "precio": "2446.09",
+            "precio": 2959.7689,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -1471,7 +1471,7 @@
         },
         "447": {
             "nombre_articulo": "CREMA X 5 QUESADA",
-            "precio": "5118.55",
+            "precio": 6193.4455,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1479,7 +1479,7 @@
         },
         "484": {
             "nombre_articulo": "SARDO FRESCO QUESADA",
-            "precio": "7692.76",
+            "precio": 9308.2396,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
@@ -1489,7 +1489,7 @@
     "Aliger": {
         "71": {
             "nombre_articulo": "SARDO ALIGER",
-            "precio": "6942.15",
+            "precio": 8400.001499999998,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1497,7 +1497,7 @@
         },
         "72": {
             "nombre_articulo": "PATEGRAS ALIGER",
-            "precio": "7193.39",
+            "precio": 8704.0019,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1505,7 +1505,7 @@
         },
         "73": {
             "nombre_articulo": "ROMANITO ALIGER",
-            "precio": "0.0",
+            "precio": 0.0,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1513,7 +1513,7 @@
         },
         "74": {
             "nombre_articulo": "BARRA ALIGER",
-            "precio": "6231.4",
+            "precio": 7539.994,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1521,7 +1521,7 @@
         },
         "306": {
             "nombre_articulo": "MANTECA PILON TONADITA",
-            "precio": "0.0",
+            "precio": 0.0,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
@@ -1531,7 +1531,7 @@
     "San Cayetano": {
         "82": {
             "nombre_articulo": "FRASCO X1.8KG 0",
-            "precio": "10365.2",
+            "precio": 12541.892,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -1539,7 +1539,7 @@
         },
         "83": {
             "nombre_articulo": "FRASCO X2KG 00",
-            "precio": "16123.78",
+            "precio": 19509.7738,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -1547,7 +1547,7 @@
         },
         "84": {
             "nombre_articulo": "FRASCO X2KG 000",
-            "precio": "17631.84",
+            "precio": 21334.5264,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -1555,7 +1555,7 @@
         },
         "85": {
             "nombre_articulo": "FRASCO X1.8KG RODAJAS",
-            "precio": "11959.61",
+            "precio": 14471.1281,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -1563,7 +1563,7 @@
         },
         "86": {
             "nombre_articulo": "FRASCO X2KG DESC 0",
-            "precio": "13296.93",
+            "precio": 16089.2853,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -1571,7 +1571,7 @@
         },
         "87": {
             "nombre_articulo": "FRASCO X2KG DESC 00",
-            "precio": "14863.97",
+            "precio": 17985.4037,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -1579,7 +1579,7 @@
         },
         "88": {
             "nombre_articulo": "FRASCO X2KG RELLENA",
-            "precio": "18850.0",
+            "precio": 22808.5,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -1587,7 +1587,7 @@
         },
         "89": {
             "nombre_articulo": "FRASCO X1KG 00",
-            "precio": "9340.65",
+            "precio": 11302.1865,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -1595,7 +1595,7 @@
         },
         "90": {
             "nombre_articulo": "FRASCO NEGRA X2KG 0",
-            "precio": "12330.74",
+            "precio": 14920.195399999999,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -1603,7 +1603,7 @@
         },
         "91": {
             "nombre_articulo": "FRASCO NEGRA X2KG 00",
-            "precio": "18036.34",
+            "precio": 21823.9714,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -1611,7 +1611,7 @@
         },
         "92": {
             "nombre_articulo": "FRASCO NEGRA X1KG 0",
-            "precio": "10593.67",
+            "precio": 12818.340699999999,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -1619,7 +1619,7 @@
         },
         "93": {
             "nombre_articulo": "BIDON X4.6KG 0",
-            "precio": "21409.09",
+            "precio": 25904.9989,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -1627,7 +1627,7 @@
         },
         "94": {
             "nombre_articulo": "BIDON X4.6KG 00",
-            "precio": "34436.71",
+            "precio": 41668.4191,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -1635,7 +1635,7 @@
         },
         "95": {
             "nombre_articulo": "BIDON X4.6KG 000",
-            "precio": "37982.18",
+            "precio": 45958.4378,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -1643,7 +1643,7 @@
         },
         "96": {
             "nombre_articulo": "BIDON DESC X4KG 0",
-            "precio": "28383.82",
+            "precio": 34344.4222,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -1651,7 +1651,7 @@
         },
         "97": {
             "nombre_articulo": "BIDON DESC X4KG 00",
-            "precio": "27910.25",
+            "precio": 33771.4025,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -1659,7 +1659,7 @@
         },
         "98": {
             "nombre_articulo": "BIDON RODAJA X4KG",
-            "precio": "22335.27",
+            "precio": 27025.6767,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -1667,7 +1667,7 @@
         },
         "99": {
             "nombre_articulo": "BIDON NEGRA X4.6K 0",
-            "precio": "24710.74",
+            "precio": 29899.9954,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -1675,7 +1675,7 @@
         },
         "100": {
             "nombre_articulo": "BIDON ROTA X5KG",
-            "precio": "17422.8",
+            "precio": 21081.588,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -1683,7 +1683,7 @@
         },
         "101": {
             "nombre_articulo": "AJI EN VINAGRE X900GR",
-            "precio": "9814.84",
+            "precio": 11875.9564,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -1691,7 +1691,7 @@
         },
         "102": {
             "nombre_articulo": "BIDON NEGRA ROD X4KG",
-            "precio": "25352.28",
+            "precio": 30676.258799999996,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -1699,7 +1699,7 @@
         },
         "103": {
             "nombre_articulo": "BIDON X4.6KG 1",
-            "precio": "19289.45",
+            "precio": 23340.2345,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -1707,7 +1707,7 @@
         },
         "104": {
             "nombre_articulo": "BIDON X4.6KG 2",
-            "precio": "18000.0",
+            "precio": 21780.0,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -1715,7 +1715,7 @@
         },
         "105": {
             "nombre_articulo": "BIDON NEGRA DESC X4KG",
-            "precio": "27674.58",
+            "precio": 33486.2418,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -1723,7 +1723,7 @@
         },
         "106": {
             "nombre_articulo": "BIDON X4.6KG RELLENA",
-            "precio": "37944.57",
+            "precio": 45912.9297,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -1731,7 +1731,7 @@
         },
         "107": {
             "nombre_articulo": "FRASCO NEGRA DESC X2KG",
-            "precio": "15089.87",
+            "precio": 18258.7427,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -1739,7 +1739,7 @@
         },
         "108": {
             "nombre_articulo": "BIDON X4.6KG 3",
-            "precio": "17864.73",
+            "precio": 21616.3233,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -1747,7 +1747,7 @@
         },
         "240": {
             "nombre_articulo": "BIDON PICKLE X4.6KG",
-            "precio": "13423.63",
+            "precio": 16242.592299999998,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -1755,7 +1755,7 @@
         },
         "521": {
             "nombre_articulo": "PICKLES X 2KG",
-            "precio": "6896.46",
+            "precio": 8344.7166,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -1765,7 +1765,7 @@
     "Cris Jor": {
         "109": {
             "nombre_articulo": "MANI CROCANTE CLASICO",
-            "precio": "3579.84",
+            "precio": 4331.6064,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -1773,7 +1773,7 @@
         },
         "110": {
             "nombre_articulo": "MANI CROCANTE SABOR JAMON",
-            "precio": "3579.84",
+            "precio": 4331.6064,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -1781,7 +1781,7 @@
         },
         "111": {
             "nombre_articulo": "MANI CROCANTE SABOR SALAME",
-            "precio": "3579.84",
+            "precio": 4331.6064,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -1789,7 +1789,7 @@
         },
         "112": {
             "nombre_articulo": "MANI CROCANTE SABOR PIZZA",
-            "precio": "3579.84",
+            "precio": 4331.6064,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -1797,7 +1797,7 @@
         },
         "113": {
             "nombre_articulo": "MANI CROCANTE SABOR QUESO",
-            "precio": "3579.84",
+            "precio": 4331.6064,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -1805,7 +1805,7 @@
         },
         "114": {
             "nombre_articulo": "MANI CROCANTE SABOR PROVENZAL",
-            "precio": "3579.84",
+            "precio": 4331.6064,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -1813,7 +1813,7 @@
         },
         "132": {
             "nombre_articulo": "MANI REPELADO CRIS JOR",
-            "precio": "3561.56",
+            "precio": 4309.4875999999995,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -1823,7 +1823,7 @@
     "El Artesano": {
         "115": {
             "nombre_articulo": "CRUDO EL ARTESANO",
-            "precio": "13042.91",
+            "precio": 15781.9211,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -1833,7 +1833,7 @@
     "Platamar": {
         "116": {
             "nombre_articulo": "ANCHOAS X90GR",
-            "precio": "3702.48",
+            "precio": 4480.0008,
             "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
@@ -1841,7 +1841,7 @@
         },
         "283": {
             "nombre_articulo": "ANCHOAS 40X3",
-            "precio": "19449.6",
+            "precio": 23534.015999999996,
             "modificado": false,
             "factor": "6",
             "unidad_kilo": "U",
@@ -1849,7 +1849,7 @@
         },
         "331": {
             "nombre_articulo": "ANCHOAS X 750 GRS.",
-            "precio": "12500.0",
+            "precio": 15125.0,
             "modificado": false,
             "factor": "6",
             "unidad_kilo": "U",
@@ -1859,7 +1859,7 @@
     "El Bocarte": {
         "117": {
             "nombre_articulo": "ANCHOAS X 90G",
-            "precio": "2707.44",
+            "precio": 3276.0024,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
@@ -1867,7 +1867,7 @@
         },
         "118": {
             "nombre_articulo": "ANCHOAS 60 X 3",
-            "precio": "26975.21",
+            "precio": 32640.0041,
             "modificado": true,
             "factor": "6",
             "unidad_kilo": "U",
@@ -1875,7 +1875,7 @@
         },
         "119": {
             "nombre_articulo": "ANCHOAS 18 X 3",
-            "precio": "9600.0",
+            "precio": 11616.0,
             "modificado": true,
             "factor": "15",
             "unidad_kilo": "U",
@@ -1883,7 +1883,7 @@
         },
         "120": {
             "nombre_articulo": "ANCHOAS 30 X 3",
-            "precio": "13963.64",
+            "precio": 16896.004399999998,
             "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
@@ -1891,7 +1891,7 @@
         },
         "121": {
             "nombre_articulo": "ANCHOAS X1.5KG",
-            "precio": "31031.41",
+            "precio": 37548.0061,
             "modificado": true,
             "factor": "6",
             "unidad_kilo": "U",
@@ -1901,7 +1901,7 @@
     "Productos W": {
         "122": {
             "nombre_articulo": "CRUDO W",
-            "precio": "11944.21",
+            "precio": 14452.494099999998,
             "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
@@ -1909,7 +1909,7 @@
         },
         "123": {
             "nombre_articulo": "BONDIOLA W",
-            "precio": "11537.6",
+            "precio": 13960.496,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
@@ -1917,7 +1917,7 @@
         },
         "124": {
             "nombre_articulo": "PALETA P/EMP.W",
-            "precio": "1859.5",
+            "precio": 2249.995,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -1925,7 +1925,7 @@
         },
         "427": {
             "nombre_articulo": "PALETA DE CERDO W",
-            "precio": "3100.41",
+            "precio": 3751.4961,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -1935,7 +1935,7 @@
     "Punta del agua": {
         "125": {
             "nombre_articulo": "CREMOSO PUNTA DEL AGUA",
-            "precio": "0.0",
+            "precio": 0.0,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -1943,7 +1943,7 @@
         },
         "310": {
             "nombre_articulo": "BARRA PUNTA DEL AGUA",
-            "precio": "5900.82",
+            "precio": 7139.9922,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -1953,7 +1953,7 @@
     "Fepa": {
         "126": {
             "nombre_articulo": "MATAMBRE FEPA",
-            "precio": "8780.88",
+            "precio": 10624.8648,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1961,7 +1961,7 @@
         },
         "127": {
             "nombre_articulo": "POLLO FEPA",
-            "precio": "8382.2",
+            "precio": 10142.462000000001,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1969,7 +1969,7 @@
         },
         "321": {
             "nombre_articulo": "MATAMBRE PREMIUN EL CRIOLLITO",
-            "precio": "13579.88",
+            "precio": 16431.6548,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1977,7 +1977,7 @@
         },
         "322": {
             "nombre_articulo": "MATAMBRE EL CRIOLLITO",
-            "precio": "11902.31",
+            "precio": 14401.7951,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1987,7 +1987,7 @@
     "Alloa Vanguard": {
         "128": {
             "nombre_articulo": "QUESO AZUL 1/2 ALLOA",
-            "precio": "9035.06",
+            "precio": 10932.4226,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
@@ -1995,7 +1995,7 @@
         },
         "129": {
             "nombre_articulo": "QUESO AZUL ALLOA",
-            "precio": "8366.58",
+            "precio": 10123.5618,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -2005,7 +2005,7 @@
     "Finca de Santiago": {
         "130": {
             "nombre_articulo": "LATA DE TOMATE X8KG",
-            "precio": "7782.15",
+            "precio": 9416.4015,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -2013,7 +2013,7 @@
         },
         "201": {
             "nombre_articulo": "MORRON X 800",
-            "precio": "4076.37",
+            "precio": 4932.4077,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2021,7 +2021,7 @@
         },
         "207": {
             "nombre_articulo": "TOMATE POUCH",
-            "precio": "1619.33",
+            "precio": 1959.3892999999998,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -2029,7 +2029,7 @@
         },
         "356": {
             "nombre_articulo": "NUEZ PELADA MARIPOSA",
-            "precio": "14725.61",
+            "precio": 17817.9881,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2037,7 +2037,7 @@
         },
         "442": {
             "nombre_articulo": "NUEZ CUARTA BLANCA",
-            "precio": "10586.78",
+            "precio": 12810.0038,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
@@ -2045,7 +2045,7 @@
         },
         "464": {
             "nombre_articulo": "ALMENDRAS PELADAS",
-            "precio": "18900.0",
+            "precio": 22869.0,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2055,7 +2055,7 @@
     "Rodriguez Acacio": {
         "131": {
             "nombre_articulo": "BOTELLA TOMATE ROD AC",
-            "precio": "1291.32",
+            "precio": 1562.4971999999998,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
@@ -2063,7 +2063,7 @@
         },
         "159": {
             "nombre_articulo": "CIRUELAS SECAS X 250 C/C",
-            "precio": "932.2",
+            "precio": 1127.962,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
@@ -2071,7 +2071,7 @@
         },
         "160": {
             "nombre_articulo": "CIRUELAS X 250 D'AGEN S/C",
-            "precio": "1770.25",
+            "precio": 2142.0025,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
@@ -2079,7 +2079,7 @@
         },
         "206": {
             "nombre_articulo": "PASAS DE UVA S/SEMILLA X 100",
-            "precio": "682.07",
+            "precio": 825.3047,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -2087,7 +2087,7 @@
         },
         "323": {
             "nombre_articulo": "PASAS SIN SEMILLA X 10 KG",
-            "precio": "3900.83",
+            "precio": 4720.0043,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2097,7 +2097,7 @@
     "Hellmans": {
         "135": {
             "nombre_articulo": "MAYONESA X2.9 HELLMANS",
-            "precio": "9857.27",
+            "precio": 11927.2967,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "U",
@@ -2105,7 +2105,7 @@
         },
         "136": {
             "nombre_articulo": "MAYONESA MONOPORCION",
-            "precio": "12031.5",
+            "precio": 14558.115,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -2113,7 +2113,7 @@
         },
         "163": {
             "nombre_articulo": "KETCHUP HELLMAN`S X 60 GRS.",
-            "precio": "671.58",
+            "precio": 812.6118,
             "modificado": false,
             "factor": "30",
             "unidad_kilo": "U",
@@ -2121,7 +2121,7 @@
         },
         "209": {
             "nombre_articulo": "KETCHUP MONOP.HELLMAN´S",
-            "precio": "12598.54",
+            "precio": 15244.233400000001,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -2131,7 +2131,7 @@
     "Lo tauro": {
         "137": {
             "nombre_articulo": "SACHET X 100 NATURAL SHOP",
-            "precio": "489.66",
+            "precio": 592.4886,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
@@ -2139,7 +2139,7 @@
         },
         "141": {
             "nombre_articulo": "SACHET X100 DESC NATURAL SHOP",
-            "precio": "709.59",
+            "precio": 858.6039000000001,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
@@ -2149,7 +2149,7 @@
     "Chiro": {
         "138": {
             "nombre_articulo": "SACHET X 100 CHIRO",
-            "precio": "574.38",
+            "precio": 694.9997999999999,
             "modificado": true,
             "factor": "18",
             "unidad_kilo": "U",
@@ -2157,7 +2157,7 @@
         },
         "325": {
             "nombre_articulo": "SACHET DESC.X 100 CHIRO",
-            "precio": "756.3",
+            "precio": 915.1229999999999,
             "modificado": true,
             "factor": "18",
             "unidad_kilo": "U",
@@ -2165,7 +2165,7 @@
         },
         "326": {
             "nombre_articulo": "SACHET RELLENA CHIRO",
-            "precio": "831.04",
+            "precio": 1005.5583999999999,
             "modificado": false,
             "factor": "18",
             "unidad_kilo": "U",
@@ -2173,7 +2173,7 @@
         },
         "345": {
             "nombre_articulo": "ACEITE DE OLIVA X 500",
-            "precio": "7823.34",
+            "precio": 9466.2414,
             "modificado": false,
             "factor": "6",
             "unidad_kilo": "U",
@@ -2181,7 +2181,7 @@
         },
         "346": {
             "nombre_articulo": "RELLENA GOURMET X 200",
-            "precio": "3967.21",
+            "precio": 4800.3241,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "U",
@@ -2191,7 +2191,7 @@
     "La Juanita": {
         "139": {
             "nombre_articulo": "DULCE DE LECHE LA JUANITA",
-            "precio": "3151.86",
+            "precio": 3813.7506,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -2199,7 +2199,7 @@
         },
         "140": {
             "nombre_articulo": "CREMOSO LA JUANITA",
-            "precio": "4141.64",
+            "precio": 5011.3844,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -2207,7 +2207,7 @@
         },
         "144": {
             "nombre_articulo": "CREMOSO LA JUANITA",
-            "precio": "4714.05",
+            "precio": 5704.0005,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -2215,7 +2215,7 @@
         },
         "145": {
             "nombre_articulo": "CREMOSO JUANITA     BORRAR",
-            "precio": "5355.0",
+            "precio": 6479.55,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -2225,7 +2225,7 @@
     "Cavade": {
         "143": {
             "nombre_articulo": "PAPEL HIGIENICO CAVADE X 4X 30 MTS.",
-            "precio": "781.92",
+            "precio": 946.1231999999999,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2233,7 +2233,7 @@
         },
         "269": {
             "nombre_articulo": "ROLLO DE COC. X200 PAÑOS CAVADE",
-            "precio": "1074.38",
+            "precio": 1299.9998,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -2241,7 +2241,7 @@
         },
         "505": {
             "nombre_articulo": "ACEITE GIRASOL X 900",
-            "precio": "1726.78",
+            "precio": 2089.4038,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2251,7 +2251,7 @@
     "Gallardo": {
         "153": {
             "nombre_articulo": "TOMATE BOTELLA GALLARDO",
-            "precio": "1069.79",
+            "precio": 1294.4459,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
@@ -2261,7 +2261,7 @@
     "Amanecer": {
         "158": {
             "nombre_articulo": "COPETIN X 300",
-            "precio": "1228.04",
+            "precio": 1485.9284,
             "modificado": false,
             "factor": "25",
             "unidad_kilo": "U",
@@ -2269,7 +2269,7 @@
         },
         "347": {
             "nombre_articulo": "GARRAPIÑADA DE MANI X 80 GRS.",
-            "precio": "361.79",
+            "precio": 437.7659,
             "modificado": false,
             "factor": "30",
             "unidad_kilo": "U",
@@ -2277,7 +2277,7 @@
         },
         "348": {
             "nombre_articulo": "GARRAPIÑADA C/CH.X 80 GRS.",
-            "precio": "571.84",
+            "precio": 691.9264000000001,
             "modificado": false,
             "factor": "40",
             "unidad_kilo": "U",
@@ -2285,7 +2285,7 @@
         },
         "349": {
             "nombre_articulo": "CONFITES DE MANI X 150 GRS.",
-            "precio": "684.19",
+            "precio": 827.8699,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
@@ -2293,7 +2293,7 @@
         },
         "350": {
             "nombre_articulo": "MANI CON CHOCOLATE X 80 GRS.",
-            "precio": "614.39",
+            "precio": 743.4119,
             "modificado": false,
             "factor": "40",
             "unidad_kilo": "U",
@@ -2301,7 +2301,7 @@
         },
         "351": {
             "nombre_articulo": "CEREAL CON CHOCOLATE X 80 GRS.",
-            "precio": "875.01",
+            "precio": 1058.7621,
             "modificado": false,
             "factor": "30",
             "unidad_kilo": "U",
@@ -2309,7 +2309,7 @@
         },
         "352": {
             "nombre_articulo": "GARRAPIÑADA DE ALMENDRA X 80 GRS.",
-            "precio": "1320.35",
+            "precio": 1597.6235,
             "modificado": false,
             "factor": "30",
             "unidad_kilo": "U",
@@ -2317,7 +2317,7 @@
         },
         "353": {
             "nombre_articulo": "ALMENDRAS CON CHOCOLATE X 100 GRS.",
-            "precio": "1836.65",
+            "precio": 2222.3465,
             "modificado": false,
             "factor": "30",
             "unidad_kilo": "U",
@@ -2325,7 +2325,7 @@
         },
         "354": {
             "nombre_articulo": "PASAS DE UVA CON CHOCOLATE X 100 GRS.",
-            "precio": "950.78",
+            "precio": 1150.4438,
             "modificado": false,
             "factor": "30",
             "unidad_kilo": "U",
@@ -2333,7 +2333,7 @@
         },
         "373": {
             "nombre_articulo": "CONITOS CON QUESO X 800",
-            "precio": "8394.89",
+            "precio": 10157.8169,
             "modificado": false,
             "factor": "5",
             "unidad_kilo": "U",
@@ -2341,7 +2341,7 @@
         },
         "430": {
             "nombre_articulo": "CEREAL C/CHOC.X 700",
-            "precio": "7883.02",
+            "precio": 9538.4542,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -2349,7 +2349,7 @@
         },
         "431": {
             "nombre_articulo": "GARRAPIÑADA X 1 KG.",
-            "precio": "4870.3",
+            "precio": 5893.063,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
@@ -2357,7 +2357,7 @@
         },
         "432": {
             "nombre_articulo": "MANI C/CHOC.X 1 KG.",
-            "precio": "8820.81",
+            "precio": 10673.1801,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -2365,7 +2365,7 @@
         },
         "465": {
             "nombre_articulo": "PAPA X 500 AMANECER",
-            "precio": "3955.88",
+            "precio": 4786.6148,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
@@ -2373,7 +2373,7 @@
         },
         "466": {
             "nombre_articulo": "PAPA X 500 AMANECER AMERICANAS",
-            "precio": "3955.88",
+            "precio": 4786.6148,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
@@ -2383,7 +2383,7 @@
     "Limpialin": {
         "164": {
             "nombre_articulo": "LAVANDINA LIMPIALIN X 1 LT.",
-            "precio": "549.34",
+            "precio": 664.7014,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2391,7 +2391,7 @@
         },
         "165": {
             "nombre_articulo": "LAVANDINA LIMPIALIN X 2 L.",
-            "precio": "1019.13",
+            "precio": 1233.1472999999999,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
@@ -2399,7 +2399,7 @@
         },
         "437": {
             "nombre_articulo": "LIMPIADOR LIQ.LAVANDA",
-            "precio": "670.91",
+            "precio": 811.8010999999999,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2407,7 +2407,7 @@
         },
         "438": {
             "nombre_articulo": "LIMPIADOR LIQUIDO MARINA",
-            "precio": "670.91",
+            "precio": 811.8010999999999,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2415,7 +2415,7 @@
         },
         "439": {
             "nombre_articulo": "LIMPIADOR LIQUIDO PINO",
-            "precio": "670.91",
+            "precio": 811.8010999999999,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2423,7 +2423,7 @@
         },
         "440": {
             "nombre_articulo": "LIMPIADOR LIQUIDO CITRONELA",
-            "precio": "670.91",
+            "precio": 811.8010999999999,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2431,7 +2431,7 @@
         },
         "467": {
             "nombre_articulo": "DETERGENTE LIMON SUIZA X 300",
-            "precio": "607.7",
+            "precio": 735.317,
             "modificado": false,
             "factor": "18",
             "unidad_kilo": "U",
@@ -2439,7 +2439,7 @@
         },
         "468": {
             "nombre_articulo": "DETERGENTE LIMON SUIZA X 750",
-            "precio": "1268.69",
+            "precio": 1535.1149,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2447,7 +2447,7 @@
         },
         "469": {
             "nombre_articulo": "DETERGENTE VERDE SUIZA X 300",
-            "precio": "607.7",
+            "precio": 735.317,
             "modificado": false,
             "factor": "18",
             "unidad_kilo": "U",
@@ -2455,7 +2455,7 @@
         },
         "470": {
             "nombre_articulo": "DETERGENTE VERDE SUIZA X 750",
-            "precio": "1268.69",
+            "precio": 1535.1149,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2465,7 +2465,7 @@
     "Ledvance": {
         "166": {
             "nombre_articulo": "LAMPARAS LED 60 W",
-            "precio": "861.79",
+            "precio": 1042.7658999999999,
             "modificado": false,
             "factor": "20",
             "unidad_kilo": "U",
@@ -2473,7 +2473,7 @@
         },
         "338": {
             "nombre_articulo": "LAMPARAS LED 100 W",
-            "precio": "1225.46",
+            "precio": 1482.8066,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -2483,7 +2483,7 @@
     "Tresal": {
         "178": {
             "nombre_articulo": "SAL GRUESA TRESAL X 1 KG",
-            "precio": "593.16",
+            "precio": 717.7235999999999,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -2491,7 +2491,7 @@
         },
         "250": {
             "nombre_articulo": "SAL FINA TRESAL X 500",
-            "precio": "378.2",
+            "precio": 457.62199999999996,
             "modificado": false,
             "factor": "20",
             "unidad_kilo": "U",
@@ -2499,7 +2499,7 @@
         },
         "471": {
             "nombre_articulo": "SAL MONOPORCION",
-            "precio": "7980.8",
+            "precio": 9656.768,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -2509,7 +2509,7 @@
     "Marvavic": {
         "190": {
             "nombre_articulo": "VINAGRE BLANCO X 1 L.",
-            "precio": "814.68",
+            "precio": 985.7627999999999,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2517,7 +2517,7 @@
         },
         "196": {
             "nombre_articulo": "VINAGRE DE ALCOHOL X 500",
-            "precio": "555.55",
+            "precio": 672.2154999999999,
             "modificado": false,
             "factor": "15",
             "unidad_kilo": "U",
@@ -2527,7 +2527,7 @@
     "Porta": {
         "213": {
             "nombre_articulo": "ALCOHOL PURO X 500",
-            "precio": "1439.12",
+            "precio": 1741.3351999999998,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -2535,7 +2535,7 @@
         },
         "214": {
             "nombre_articulo": "ALCOHOL DE QUEMAR X 1L",
-            "precio": "2061.47",
+            "precio": 2494.3786999999998,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2543,7 +2543,7 @@
         },
         "360": {
             "nombre_articulo": "ACETO BALSAMICO X 500",
-            "precio": "1626.25",
+            "precio": 1967.7625,
             "modificado": false,
             "factor": "15",
             "unidad_kilo": "U",
@@ -2551,7 +2551,7 @@
         },
         "361": {
             "nombre_articulo": "SALSA CAESAR X 285",
-            "precio": "2606.4",
+            "precio": 3153.744,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2561,7 +2561,7 @@
     "Veronica": {
         "222": {
             "nombre_articulo": "LECHE ENTERA VERONICA LV",
-            "precio": "1530.65",
+            "precio": 1852.0865000000001,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2569,7 +2569,7 @@
         },
         "265": {
             "nombre_articulo": "LECHE DESCREMADA VERONICA LV",
-            "precio": "1356.12",
+            "precio": 1640.9052,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2579,7 +2579,7 @@
     "Alco": {
         "225": {
             "nombre_articulo": "TOMATE PERITA X 400",
-            "precio": "596.84",
+            "precio": 722.1764000000001,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
@@ -2587,7 +2587,7 @@
         },
         "248": {
             "nombre_articulo": "DURAZNO X 820",
-            "precio": "1101.11",
+            "precio": 1332.3430999999998,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2595,7 +2595,7 @@
         },
         "288": {
             "nombre_articulo": "PURE DE TOMATE ALCO X520",
-            "precio": "527.4",
+            "precio": 638.154,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2605,7 +2605,7 @@
     "Inalpa": {
         "231": {
             "nombre_articulo": "LENTEJAS INALPA X 300",
-            "precio": "549.26",
+            "precio": 664.6046,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -2613,7 +2613,7 @@
         },
         "255": {
             "nombre_articulo": "ARVEJA X 300 INALPA",
-            "precio": "354.33",
+            "precio": 428.73929999999996,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
@@ -2621,7 +2621,7 @@
         },
         "300": {
             "nombre_articulo": "CHOCLO X 300",
-            "precio": "832.91",
+            "precio": 1007.8210999999999,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
@@ -2631,7 +2631,7 @@
     "Cabrales": {
         "245": {
             "nombre_articulo": "CAFE EN SAQ. CABRALES X18",
-            "precio": "3419.92",
+            "precio": 4138.1032,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -2639,7 +2639,7 @@
         },
         "246": {
             "nombre_articulo": "CAFE EN SAQ. LA PLANTA",
-            "precio": "2999.94",
+            "precio": 3629.9274,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -2647,7 +2647,7 @@
         },
         "445": {
             "nombre_articulo": "CAFE TOST.MOLIDO X 250 GRS.COLOMBIA",
-            "precio": "13130.06",
+            "precio": 15887.372599999999,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2655,7 +2655,7 @@
         },
         "474": {
             "nombre_articulo": "CAPSULA CORTADO DOLCE GUSTO",
-            "precio": "4525.86",
+            "precio": 5476.290599999999,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "U",
@@ -2663,7 +2663,7 @@
         },
         "475": {
             "nombre_articulo": "CAPSULA ESPRESSO DOLCE GUSTO",
-            "precio": "4525.86",
+            "precio": 5476.290599999999,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "U",
@@ -2671,7 +2671,7 @@
         },
         "476": {
             "nombre_articulo": "CAPSULA INTENSO LA PL.NESPRESSO",
-            "precio": "4244.3",
+            "precio": 5135.603,
             "modificado": false,
             "factor": "6",
             "unidad_kilo": "U",
@@ -2679,7 +2679,7 @@
         },
         "477": {
             "nombre_articulo": "CAPSULA LATTE DOLCE GUSTO",
-            "precio": "7280.7",
+            "precio": 8809.646999999999,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "U",
@@ -2687,7 +2687,7 @@
         },
         "478": {
             "nombre_articulo": "CAPSULA MOKA DOLCE GUSTO",
-            "precio": "7280.7",
+            "precio": 8809.646999999999,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "U",
@@ -2695,7 +2695,7 @@
         },
         "479": {
             "nombre_articulo": "CAPSULA PERU NESPRESSO",
-            "precio": "7170.79",
+            "precio": 8676.6559,
             "modificado": false,
             "factor": "6",
             "unidad_kilo": "U",
@@ -2703,7 +2703,7 @@
         },
         "480": {
             "nombre_articulo": "CAPSULA VITA NESPRESSO",
-            "precio": "7170.79",
+            "precio": 8676.6559,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -2713,7 +2713,7 @@
     "La Primera": {
         "276": {
             "nombre_articulo": "MANTECA X 100 PRIMER PREMIO",
-            "precio": "936.0",
+            "precio": 1132.56,
             "modificado": false,
             "factor": "30",
             "unidad_kilo": "U",
@@ -2721,7 +2721,7 @@
         },
         "277": {
             "nombre_articulo": "MANTECA X 200 PRIMER PREMIO",
-            "precio": "1872.0",
+            "precio": 2265.12,
             "modificado": false,
             "factor": "15",
             "unidad_kilo": "U",
@@ -2729,7 +2729,7 @@
         },
         "278": {
             "nombre_articulo": "MANTECA X 2.5 KG.PRIMER PREMIO",
-            "precio": "0.0",
+            "precio": 0.0,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
@@ -2739,7 +2739,7 @@
     "Abuelo Marcelino": {
         "308": {
             "nombre_articulo": "CREMOSO ABUELO",
-            "precio": "4657.02",
+            "precio": 5634.9942,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -2747,7 +2747,7 @@
         },
         "332": {
             "nombre_articulo": "SARDO ESTACIONADO ABUELO",
-            "precio": "8648.76",
+            "precio": 10464.9996,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2755,7 +2755,7 @@
         },
         "333": {
             "nombre_articulo": "GOUDA ABUELO",
-            "precio": "8094.22",
+            "precio": 9794.0062,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2763,7 +2763,7 @@
         },
         "441": {
             "nombre_articulo": "SARDO FRESCO ABUELO",
-            "precio": "7497.52",
+            "precio": 9071.9992,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2773,7 +2773,7 @@
     "Don Alejandro Luoni": {
         "324": {
             "nombre_articulo": "PANCETA ARROLLADA",
-            "precio": "13273.24",
+            "precio": 16060.6204,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2781,7 +2781,7 @@
         },
         "380": {
             "nombre_articulo": "CRUDO ARTESANAL DON ALEJANDRO",
-            "precio": "18118.2",
+            "precio": 21923.022,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2791,7 +2791,7 @@
     "Don Luis": {
         "334": {
             "nombre_articulo": "SALAME COLORADO DON LUIS",
-            "precio": "8843.8",
+            "precio": 10700.998,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2799,7 +2799,7 @@
         },
         "335": {
             "nombre_articulo": "PECHERA DON LUIS",
-            "precio": "9899.5",
+            "precio": 11978.395,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2807,7 +2807,7 @@
         },
         "336": {
             "nombre_articulo": "LONGA CALABRESA DON LUIS",
-            "precio": "9899.5",
+            "precio": 11978.395,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2815,7 +2815,7 @@
         },
         "337": {
             "nombre_articulo": "SALAME DON LUIS",
-            "precio": "10222.31",
+            "precio": 12368.995099999998,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2825,7 +2825,7 @@
     "Campo Grande": {
         "341": {
             "nombre_articulo": "JAMON COCIDO CAMPO GRANDE",
-            "precio": "4436.36",
+            "precio": 5367.995599999999,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2833,7 +2833,7 @@
         },
         "342": {
             "nombre_articulo": "PALETA CAMPO GRANDE",
-            "precio": "3629.76",
+            "precio": 4392.0096,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2841,7 +2841,7 @@
         },
         "343": {
             "nombre_articulo": "PALETA P/EMP.CAMPO GRANDE",
-            "precio": "1764.46",
+            "precio": 2134.9966,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2851,7 +2851,7 @@
     "Carrité": {
         "364": {
             "nombre_articulo": "ROLLO DE COCINA X 12",
-            "precio": "1100.0",
+            "precio": 1331.0,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -2859,7 +2859,7 @@
         },
         "512": {
             "nombre_articulo": "MICROFIBRA PAÑO 30X40",
-            "precio": "1123.75",
+            "precio": 1359.7375,
             "modificado": false,
             "factor": "150",
             "unidad_kilo": "U",
@@ -2869,7 +2869,7 @@
     "La Quesera": {
         "369": {
             "nombre_articulo": "QUESO RALLADO X 40 GRS.LA QUESERA",
-            "precio": "461.6",
+            "precio": 558.5360000000001,
             "modificado": false,
             "factor": "20",
             "unidad_kilo": "U",
@@ -2877,7 +2877,7 @@
         },
         "370": {
             "nombre_articulo": "BARRA CHEDDAR LA QUESERA",
-            "precio": "12004.87",
+            "precio": 14525.8927,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -2885,7 +2885,7 @@
         },
         "371": {
             "nombre_articulo": "GRUYERE CUÑA LA QUESERA",
-            "precio": "18093.62",
+            "precio": 21893.280199999997,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -2893,7 +2893,7 @@
         },
         "372": {
             "nombre_articulo": "MIXTO CON SALAME LA QUESERA",
-            "precio": "10204.31",
+            "precio": 12347.2151,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -2903,7 +2903,7 @@
     "Mix Dietetica": {
         "387": {
             "nombre_articulo": "MIX CRIOLLO X 10",
-            "precio": "7052.04",
+            "precio": 8532.9684,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
@@ -2911,7 +2911,7 @@
         },
         "388": {
             "nombre_articulo": "MIX FRUTOS SECOS X 10",
-            "precio": "17829.75",
+            "precio": 21573.997499999998,
             "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
@@ -2919,7 +2919,7 @@
         },
         "389": {
             "nombre_articulo": "MIX FUERTE X 10",
-            "precio": "7579.55",
+            "precio": 9171.2555,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
@@ -2927,7 +2927,7 @@
         },
         "390": {
             "nombre_articulo": "MIX EUROPEO X 10",
-            "precio": "9247.52",
+            "precio": 11189.4992,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
@@ -2935,7 +2935,7 @@
         },
         "391": {
             "nombre_articulo": "MIX P/ENSALADA X 1",
-            "precio": "4490.7",
+            "precio": 5433.746999999999,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2945,7 +2945,7 @@
     "El Rey Granel": {
         "433": {
             "nombre_articulo": "ACEITE DE GIRASOL X 5 LTS",
-            "precio": "8460.0",
+            "precio": 10236.6,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -2953,7 +2953,7 @@
         },
         "434": {
             "nombre_articulo": "VINAGRE X 5 LTS",
-            "precio": "2000.0",
+            "precio": 2420.0,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
@@ -2963,7 +2963,7 @@
     "Lopardo": {
         "461": {
             "nombre_articulo": "PANCETA AHUMADA LOPARDO",
-            "precio": "8813.72",
+            "precio": 10664.6012,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2971,7 +2971,7 @@
         },
         "462": {
             "nombre_articulo": "MILAN LOPARDO",
-            "precio": "5606.61",
+            "precio": 6783.9981,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2979,7 +2979,7 @@
         },
         "463": {
             "nombre_articulo": "JAMON NATURAL LOPARDO",
-            "precio": "8813.72",
+            "precio": 10664.6012,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2987,7 +2987,7 @@
         },
         "490": {
             "nombre_articulo": "PALETA COCIDA DON SILVIO",
-            "precio": "3887.85",
+            "precio": 4704.2985,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -2995,7 +2995,7 @@
         },
         "496": {
             "nombre_articulo": "QUESO DE CERDO LOPARDO",
-            "precio": "4066.6",
+            "precio": 4920.585999999999,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -3003,7 +3003,7 @@
         },
         "499": {
             "nombre_articulo": "SALAMIN LOPARDO",
-            "precio": "9254.35",
+            "precio": 11197.763500000001,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -3011,7 +3011,7 @@
         },
         "506": {
             "nombre_articulo": "CASERITA LOPARDO",
-            "precio": "8759.88",
+            "precio": 10599.4548,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -3019,7 +3019,7 @@
         },
         "507": {
             "nombre_articulo": "LONGA NAP.LOPARDO",
-            "precio": "8043.17",
+            "precio": 9732.2357,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -3027,7 +3027,7 @@
         },
         "508": {
             "nombre_articulo": "JAMON COCIDO C/C LOPARDO",
-            "precio": "5199.65",
+            "precio": 6291.576499999999,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -3037,7 +3037,7 @@
     "Cabaña Azul": {
         "491": {
             "nombre_articulo": "BARRA CABAÑA AZUL",
-            "precio": "5600.0",
+            "precio": 6776.0,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -3045,7 +3045,7 @@
         },
         "492": {
             "nombre_articulo": "CREMOSO CABAÑA AZUL",
-            "precio": "4600.0",
+            "precio": 5566.0,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -3053,7 +3053,7 @@
         },
         "494": {
             "nombre_articulo": "MUZZA CABAÑA AZUL",
-            "precio": "5464.46",
+            "precio": 6611.9965999999995,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -3061,7 +3061,7 @@
         },
         "495": {
             "nombre_articulo": "MUZZA PLANCHA",
-            "precio": "5560.33",
+            "precio": 6727.9992999999995,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -3069,7 +3069,7 @@
         },
         "498": {
             "nombre_articulo": "QUESO DE CERDO VICTORIA",
-            "precio": "3471.07",
+            "precio": 4199.9947,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -3079,7 +3079,7 @@
     "Sol Naciente": {
         "497": {
             "nombre_articulo": "CRUDO SOL NACIENTE",
-            "precio": "12555.37",
+            "precio": 15191.9977,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
@@ -3089,7 +3089,7 @@
     "Arrodul": {
         "529": {
             "nombre_articulo": "DULCE DE LECHE REP.X 10 KG",
-            "precio": "21166.66",
+            "precio": 25611.6586,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
@@ -3097,7 +3097,7 @@
         },
         "530": {
             "nombre_articulo": "DULCE DE LECHE HELAD.X 10 KG.",
-            "precio": "24340.08",
+            "precio": 29451.4968,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
@@ -3105,7 +3105,7 @@
         },
         "531": {
             "nombre_articulo": "DULCE DE LECHE FAM.X 10 KG",
-            "precio": "20044.21",
+            "precio": 24253.4941,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
@@ -3113,7 +3113,7 @@
         },
         "532": {
             "nombre_articulo": "DULCE DE LECHE FAM. X 1 KG.ARR.",
-            "precio": "2732.44",
+            "precio": 3306.2524,
             "modificado": true,
             "factor": "6",
             "unidad_kilo": "U",
@@ -3121,7 +3121,7 @@
         },
         "533": {
             "nombre_articulo": "DULCE DE LECHE REP. X 5 KG.",
-            "precio": "11421.11",
+            "precio": 13819.5431,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
