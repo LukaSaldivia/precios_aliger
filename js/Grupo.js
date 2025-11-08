@@ -1,11 +1,11 @@
 import { Articulo } from "./Articulo.js"
 
 export class Grupo {
-  constructor(nombre, articulos, {color, img}) {
+  constructor(nombre, articulos, {color = false, img = false}) {
     this.nombre = nombre
     this.articulos = Object.entries(articulos).map(([id, articulo]) => new Articulo(id, articulo))
-    this.color = color
-    this.imgURL = img
+    this.color = color || ""
+    this.imgURL = img || ""
     console.log(nombre, this.imgURL)
     
     // Si tiene por lo menos un articulo sin tacc, se puede confirmar que sin_tacc = true para este grupo
