@@ -1,10 +1,10 @@
 {
-    "FECHA": "08-11-2025",
+    "FECHA": "15-11-2025",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X500",
             "precio": 5595.124699999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -12,7 +12,7 @@
         "47": {
             "nombre_articulo": "PAPAS CORTE AMERICANO",
             "precio": 5595.124699999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -20,7 +20,7 @@
         "48": {
             "nombre_articulo": "PAPAS PAY PEIPO",
             "precio": 5556.9613,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -28,7 +28,7 @@
         "49": {
             "nombre_articulo": "PALITOS SALADOS PEIPO",
             "precio": 4827.174,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -36,7 +36,7 @@
         "52": {
             "nombre_articulo": "MANI SALADO PEIPO",
             "precio": 4537.4274,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
@@ -44,7 +44,7 @@
         "53": {
             "nombre_articulo": "MANI C/CASCARA PEIPO",
             "precio": 5836.108299999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -52,7 +52,7 @@
         "54": {
             "nombre_articulo": "BOLITAS CROCANTES PEIPO",
             "precio": 2183.5539,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -60,7 +60,7 @@
         "55": {
             "nombre_articulo": "PIZZA ROLLS PEIPO",
             "precio": 2005.4176999999997,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -76,7 +76,7 @@
         "57": {
             "nombre_articulo": "MANI REPELADO PEIPO",
             "precio": 4706.9726,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -84,7 +84,7 @@
         "58": {
             "nombre_articulo": "TUBITOS PEIPO",
             "precio": 2744.6308999999997,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -92,7 +92,7 @@
         "208": {
             "nombre_articulo": "PAPA CHEDDAR PEIPO X 330",
             "precio": 4786.4817,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -100,7 +100,7 @@
         "366": {
             "nombre_articulo": "MANI JAPONES X 700 PEIPO",
             "precio": 3962.5443,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -108,23 +108,15 @@
         "458": {
             "nombre_articulo": "CHEESTICK QUESO X 300",
             "precio": 2254.0364,
-            "modificado": true,
-            "factor": "10",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "459": {
-            "nombre_articulo": "PALITOS KETCHUP X 60 GRS.",
-            "precio": 498.2659,
             "modificado": false,
-            "factor": "24",
+            "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "511": {
             "nombre_articulo": "CHEESTICK CHEDDAR X265GR",
             "precio": 2411.8083,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -132,7 +124,7 @@
         "518": {
             "nombre_articulo": "PALITOS SABOR QUESO X 500",
             "precio": 4751.7547,
-            "modificado": true,
+            "modificado": false,
             "factor": "14",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -147,7 +139,71 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
+        "44": {
+            "nombre_articulo": "",
+            "precio": 0.0,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "46": {
+            "nombre_articulo": "",
+            "precio": 760.001,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "70": {
+            "nombre_articulo": "",
+            "precio": 0.0,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
         "73": {
+            "nombre_articulo": "",
+            "precio": 0.0,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "80": {
+            "nombre_articulo": "",
+            "precio": 8006.364299999999,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "81": {
+            "nombre_articulo": "",
+            "precio": 0.0,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "115": {
+            "nombre_articulo": "",
+            "precio": 15781.9211,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "117": {
+            "nombre_articulo": "",
+            "precio": 3276.0024,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "125": {
             "nombre_articulo": "",
             "precio": 0.0,
             "modificado": false,
@@ -163,6 +219,14 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
+        "142": {
+            "nombre_articulo": "",
+            "precio": 0.0,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
         "145": {
             "nombre_articulo": "",
             "precio": 6479.55,
@@ -171,9 +235,393 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
+        "153": {
+            "nombre_articulo": "",
+            "precio": 1294.4459,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "156": {
+            "nombre_articulo": "",
+            "precio": 3000.0014,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "169": {
+            "nombre_articulo": "",
+            "precio": 1421.5201,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "172": {
+            "nombre_articulo": "",
+            "precio": 572.3058,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "182": {
+            "nombre_articulo": "",
+            "precio": 632.5275,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "184": {
+            "nombre_articulo": "",
+            "precio": 7135.128,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "185": {
+            "nombre_articulo": "",
+            "precio": 1560.0167,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "199": {
+            "nombre_articulo": "",
+            "precio": 1580.4415000000001,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "202": {
+            "nombre_articulo": "",
+            "precio": 9292.5096,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "219": {
+            "nombre_articulo": "",
+            "precio": 943.2071,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "252": {
+            "nombre_articulo": "",
+            "precio": 986.6824,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "257": {
+            "nombre_articulo": "",
+            "precio": 2422.5773,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "259": {
+            "nombre_articulo": "",
+            "precio": 697.9400999999999,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "264": {
+            "nombre_articulo": "",
+            "precio": 1640.9052,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "269": {
+            "nombre_articulo": "",
+            "precio": 1299.9998,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "270": {
+            "nombre_articulo": "",
+            "precio": 1367.0458999999998,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "273": {
+            "nombre_articulo": "",
+            "precio": 1421.5442999999998,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "276": {
+            "nombre_articulo": "",
+            "precio": 1132.56,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "277": {
+            "nombre_articulo": "",
+            "precio": 2265.12,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "278": {
+            "nombre_articulo": "",
+            "precio": 0.0,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "284": {
+            "nombre_articulo": "",
+            "precio": 1317.6053,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "297": {
+            "nombre_articulo": "",
+            "precio": 4492.0524,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "298": {
+            "nombre_articulo": "",
+            "precio": 3699.0425999999998,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "299": {
+            "nombre_articulo": "",
+            "precio": 0.0,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
         "306": {
             "nombre_articulo": "",
             "precio": 0.0,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "310": {
+            "nombre_articulo": "",
+            "precio": 7139.9922,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "329": {
+            "nombre_articulo": "",
+            "precio": 1551.2078999999999,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "331": {
+            "nombre_articulo": "",
+            "precio": 15125.0,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "341": {
+            "nombre_articulo": "",
+            "precio": 5367.995599999999,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "342": {
+            "nombre_articulo": "",
+            "precio": 4392.0096,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "343": {
+            "nombre_articulo": "",
+            "precio": 2134.9966,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "355": {
+            "nombre_articulo": "",
+            "precio": 716.2474000000001,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "375": {
+            "nombre_articulo": "",
+            "precio": 8980.4143,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "385": {
+            "nombre_articulo": "",
+            "precio": 1930.4824,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "391": {
+            "nombre_articulo": "",
+            "precio": 5433.746999999999,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "393": {
+            "nombre_articulo": "",
+            "precio": 5375.001499999999,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "394": {
+            "nombre_articulo": "",
+            "precio": 2499.9931,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "395": {
+            "nombre_articulo": "",
+            "precio": 4750.0123,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "396": {
+            "nombre_articulo": "",
+            "precio": 8320.0084,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "397": {
+            "nombre_articulo": "",
+            "precio": 10800.0002,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "402": {
+            "nombre_articulo": "",
+            "precio": 6362.1678999999995,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "407": {
+            "nombre_articulo": "",
+            "precio": 1388.9711,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "409": {
+            "nombre_articulo": "",
+            "precio": 5739.513999999999,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "459": {
+            "nombre_articulo": "",
+            "precio": 498.2659,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "462": {
+            "nombre_articulo": "",
+            "precio": 6783.9981,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "465": {
+            "nombre_articulo": "",
+            "precio": 4786.6148,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "466": {
+            "nombre_articulo": "",
+            "precio": 4786.6148,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "492": {
+            "nombre_articulo": "",
+            "precio": 5566.0,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "507": {
+            "nombre_articulo": "",
+            "precio": 9732.2357,
             "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
@@ -340,22 +788,6 @@
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
-        },
-        "402": {
-            "nombre_articulo": "BARRIL MZ",
-            "precio": 6362.1678999999995,
-            "modificado": false,
-            "factor": "4",
-            "unidad_kilo": "K",
-            "peso_promedio": 5.0
-        },
-        "409": {
-            "nombre_articulo": "PALETA MINI S/GR.MZ",
-            "precio": 5739.513999999999,
-            "modificado": false,
-            "factor": "6",
-            "unidad_kilo": "K",
-            "peso_promedio": 4.0
         },
         "417": {
             "nombre_articulo": "BONDIOLA AL VACIO 1/2 MZ",
@@ -586,7 +1018,7 @@
         "244": {
             "nombre_articulo": "FECULA DE MAIZ AYS X1KG",
             "precio": 2824.9143999999997,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -728,14 +1160,6 @@
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
-        },
-        "385": {
-            "nombre_articulo": "MORTADELA PICCOLA CALCHAQUI",
-            "precio": 1930.4824,
-            "modificado": false,
-            "factor": "30",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.5
         },
         "473": {
             "nombre_articulo": "LECHE LARGA VIDA ILOLAY",
@@ -1081,18 +1505,10 @@
             "unidad_kilo": "K",
             "peso_promedio": 4.8
         },
-        "46": {
-            "nombre_articulo": "VIENA X6 FELA PALADINI",
-            "precio": 760.001,
-            "modificado": false,
-            "factor": "24",
-            "unidad_kilo": "U",
-            "peso_promedio": 50.0
-        },
         "50": {
             "nombre_articulo": "MORTADELA FAM. PALADINI",
-            "precio": 2573.0166,
-            "modificado": false,
+            "precio": 2770.5853999999995,
+            "modificado": true,
             "factor": "16",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1123,23 +1539,23 @@
         },
         "340": {
             "nombre_articulo": "VIENA X 6 PALDINI",
-            "precio": 1463.253,
-            "modificado": false,
+            "precio": 1476.0911,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "357": {
             "nombre_articulo": "LEBERWURST X 250 GRS.",
-            "precio": 1929.5386,
-            "modificado": false,
+            "precio": 1946.4544,
+            "modificado": true,
             "factor": "26",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
-            "precio": 10271.4238,
+            "precio": 11385.555499999999,
             "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
@@ -1155,8 +1571,8 @@
         },
         "399": {
             "nombre_articulo": "MILAN FELA",
-            "precio": 10574.6135,
-            "modificado": false,
+            "precio": 11034.256199999998,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
@@ -1204,7 +1620,7 @@
         "519": {
             "nombre_articulo": "BONDIOLA CONGELADA PALADINI",
             "precio": 8950.0554,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
@@ -1212,7 +1628,7 @@
         "522": {
             "nombre_articulo": "COSTILLITAS CONG.PALADINI",
             "precio": 7954.7215,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
@@ -1220,7 +1636,7 @@
         "523": {
             "nombre_articulo": "MEDALLON FELA X 4",
             "precio": 2301.9524,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1228,7 +1644,7 @@
         "524": {
             "nombre_articulo": "HAMBURGUESA PALADINI X 4",
             "precio": 4502.6399,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1236,14 +1652,14 @@
         "525": {
             "nombre_articulo": "MEDALLON FELA X 2 UNID.",
             "precio": 1085.9992,
-            "modificado": true,
+            "modificado": false,
             "factor": "36",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "526": {
             "nombre_articulo": "HAMB. PALADINI X 2 UNID.",
-            "precio": 1568.3051999999998,
+            "precio": 1845.1290000000001,
             "modificado": true,
             "factor": "30",
             "unidad_kilo": "U",
@@ -1252,7 +1668,7 @@
         "527": {
             "nombre_articulo": "PIZZETAS X 20 JAMON Y QUESO",
             "precio": 2315.1171999999997,
-            "modificado": true,
+            "modificado": false,
             "factor": "20",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1260,7 +1676,7 @@
         "528": {
             "nombre_articulo": "PIZZETA MUZZARELLA",
             "precio": 2156.2684,
-            "modificado": true,
+            "modificado": false,
             "factor": "20",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1268,7 +1684,7 @@
         "535": {
             "nombre_articulo": "EMPANADAS JAMON Y QUESO",
             "precio": 4254.5778,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1276,7 +1692,7 @@
         "536": {
             "nombre_articulo": "EMPANADAS CARNE",
             "precio": 4254.5778,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1284,7 +1700,7 @@
         "537": {
             "nombre_articulo": "EMPANADAS ESPIN.Y QUESO",
             "precio": 4254.5778,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1292,7 +1708,7 @@
         "538": {
             "nombre_articulo": "FIAMBRE EMP.FELA",
             "precio": 5249.2462000000005,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -1386,14 +1802,6 @@
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
-        },
-        "70": {
-            "nombre_articulo": "QUESO AZUL EMPERADOR",
-            "precio": 0.0,
-            "modificado": false,
-            "factor": "8",
-            "unidad_kilo": "K",
-            "peso_promedio": 0.6
         },
         "75": {
             "nombre_articulo": "REGGIANO QUESADA",
@@ -1570,7 +1978,7 @@
         "82": {
             "nombre_articulo": "FRASCO X1.8KG 0",
             "precio": 12714.801,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1578,7 +1986,7 @@
         "83": {
             "nombre_articulo": "FRASCO X2KG 00",
             "precio": 19682.6707,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1586,7 +1994,7 @@
         "84": {
             "nombre_articulo": "FRASCO X2KG 000",
             "precio": 21507.4233,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1594,7 +2002,7 @@
         "85": {
             "nombre_articulo": "FRASCO X1.8KG RODAJAS",
             "precio": 14471.1281,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1602,7 +2010,7 @@
         "86": {
             "nombre_articulo": "FRASCO X2KG DESC 0",
             "precio": 16260.754399999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1610,7 +2018,7 @@
         "87": {
             "nombre_articulo": "FRASCO X2KG DESC 00",
             "precio": 18124.832000000002,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1618,7 +2026,7 @@
         "88": {
             "nombre_articulo": "FRASCO X2KG RELLENA",
             "precio": 23948.925,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1626,7 +2034,7 @@
         "89": {
             "nombre_articulo": "FRASCO X1KG 00",
             "precio": 11469.6021,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1634,7 +2042,7 @@
         "90": {
             "nombre_articulo": "FRASCO NEGRA X2KG 0",
             "precio": 15095.7059,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1642,7 +2050,7 @@
         "91": {
             "nombre_articulo": "FRASCO NEGRA X2KG 00",
             "precio": 21885.149,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1650,7 +2058,7 @@
         "92": {
             "nombre_articulo": "FRASCO NEGRA X1KG 0",
             "precio": 12818.340699999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1658,7 +2066,7 @@
         "93": {
             "nombre_articulo": "BIDON X4.6KG 0",
             "precio": 26744.521099999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1666,7 +2074,7 @@
         "94": {
             "nombre_articulo": "BIDON X4.6KG 00",
             "precio": 41952.236699999994,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1674,7 +2082,7 @@
         "95": {
             "nombre_articulo": "BIDON X4.6KG 000",
             "precio": 46242.2433,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1682,7 +2090,7 @@
         "96": {
             "nombre_articulo": "BIDON DESC X4KG 0",
             "precio": 31014.719999999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1690,7 +2098,7 @@
         "97": {
             "nombre_articulo": "BIDON DESC X4KG 00",
             "precio": 34088.8218,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1698,7 +2106,7 @@
         "98": {
             "nombre_articulo": "BIDON RODAJA X4KG",
             "precio": 27294.962199999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1706,7 +2114,7 @@
         "99": {
             "nombre_articulo": "BIDON NEGRA X4.6K 0",
             "precio": 30179.505400000002,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1714,7 +2122,7 @@
         "100": {
             "nombre_articulo": "BIDON ROTA X5KG",
             "precio": 21356.9961,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1722,7 +2130,7 @@
         "101": {
             "nombre_articulo": "AJI EN VINAGRE X900GR",
             "precio": 11875.9564,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1738,7 +2146,7 @@
         "103": {
             "nombre_articulo": "BIDON X4.6KG 1",
             "precio": 24014.7611,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1746,7 +2154,7 @@
         "104": {
             "nombre_articulo": "BIDON X4.6KG 2",
             "precio": 22845.2356,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1754,7 +2162,7 @@
         "105": {
             "nombre_articulo": "BIDON NEGRA DESC X4KG",
             "precio": 35092.2022,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1762,7 +2170,7 @@
         "106": {
             "nombre_articulo": "BIDON X4.6KG RELLENA",
             "precio": 48906.76009999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1770,7 +2178,7 @@
         "107": {
             "nombre_articulo": "FRASCO NEGRA DESC X2KG",
             "precio": 18431.5549,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1778,7 +2186,7 @@
         "108": {
             "nombre_articulo": "BIDON X4.6KG 3",
             "precio": 21674.403299999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1786,7 +2194,7 @@
         "240": {
             "nombre_articulo": "BIDON PICKLE X4.6KG",
             "precio": 16527.7167,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1794,7 +2202,7 @@
         "521": {
             "nombre_articulo": "PICKLES X 2KG",
             "precio": 8469.153,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1874,25 +2282,9 @@
             "factor": "6",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
-        },
-        "331": {
-            "nombre_articulo": "ANCHOAS X 750 GRS.",
-            "precio": 15125.0,
-            "modificado": false,
-            "factor": "6",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
         }
     },
     "El Bocarte": {
-        "117": {
-            "nombre_articulo": "ANCHOAS X 90G",
-            "precio": 3276.0024,
-            "modificado": false,
-            "factor": "24",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
         "118": {
             "nombre_articulo": "ANCHOAS 60 X 3",
             "precio": 32640.0041,
@@ -2015,8 +2407,8 @@
     "Finca de Santiago": {
         "130": {
             "nombre_articulo": "LATA DE TOMATE X8KG",
-            "precio": 9416.4015,
-            "modificado": false,
+            "precio": 8874.999099999999,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2039,16 +2431,16 @@
         },
         "356": {
             "nombre_articulo": "NUEZ PELADA MARIPOSA",
-            "precio": 17817.9881,
-            "modificado": false,
+            "precio": 18087.9996,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 5.2
         },
         "442": {
             "nombre_articulo": "NUEZ CUARTA BLANCA",
-            "precio": 12810.0038,
-            "modificado": false,
+            "precio": 17492.9942,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 11.5
@@ -2142,7 +2534,7 @@
         "137": {
             "nombre_articulo": "SACHET X 100 NATURAL SHOP",
             "precio": 628.7402,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2150,7 +2542,7 @@
         "141": {
             "nombre_articulo": "SACHET X100 DESC NATURAL SHOP",
             "precio": 944.9979,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2176,7 +2568,7 @@
         "326": {
             "nombre_articulo": "SACHET RELLENA CHIRO",
             "precio": 1143.8977,
-            "modificado": true,
+            "modificado": false,
             "factor": "18",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2194,6 +2586,14 @@
             "precio": 4800.3241,
             "modificado": false,
             "factor": "3",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "542": {
+            "nombre_articulo": "FRASCO X 2 DESC CHIRO 000",
+            "precio": 19061.251,
+            "modificado": true,
+            "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         }
@@ -2222,14 +2622,6 @@
             "precio": 946.1231999999999,
             "modificado": false,
             "factor": "12",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "269": {
-            "nombre_articulo": "ROLLO DE COC. X200 PAÑOS CAVADE",
-            "precio": 1299.9998,
-            "modificado": false,
-            "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
@@ -2346,22 +2738,6 @@
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
-        },
-        "465": {
-            "nombre_articulo": "PAPA X 500 AMANECER",
-            "precio": 4786.6148,
-            "modificado": false,
-            "factor": "8",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "466": {
-            "nombre_articulo": "PAPA X 500 AMANECER AMERICANAS",
-            "precio": 4786.6148,
-            "modificado": false,
-            "factor": "8",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
         }
     },
     "Limpialin": {
@@ -2468,7 +2844,7 @@
         "178": {
             "nombre_articulo": "SAL GRUESA TRESAL X 1 KG",
             "precio": 786.8629999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2476,7 +2852,7 @@
         "250": {
             "nombre_articulo": "SAL FINA TRESAL X 500",
             "precio": 498.278,
-            "modificado": true,
+            "modificado": false,
             "factor": "20",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2846,14 +3222,6 @@
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 1.0
-        },
-        "391": {
-            "nombre_articulo": "MIX P/ENSALADA X 1",
-            "precio": 5433.746999999999,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 500.0
         }
     },
     "El Rey Granel": {
@@ -2882,14 +3250,6 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.6
-        },
-        "462": {
-            "nombre_articulo": "MILAN LOPARDO",
-            "precio": 6783.9981,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 1.9
         },
         "463": {
             "nombre_articulo": "JAMON NATURAL LOPARDO",
@@ -2931,14 +3291,6 @@
             "unidad_kilo": "K",
             "peso_promedio": 1.1
         },
-        "507": {
-            "nombre_articulo": "LONGA NAP.LOPARDO",
-            "precio": 9732.2357,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 1.1
-        },
         "508": {
             "nombre_articulo": "JAMON COCIDO C/C LOPARDO",
             "precio": 6291.576499999999,
@@ -2956,14 +3308,6 @@
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.2
-        },
-        "492": {
-            "nombre_articulo": "CREMOSO CABAÑA AZUL",
-            "precio": 5566.0,
-            "modificado": false,
-            "factor": "4",
-            "unidad_kilo": "K",
-            "peso_promedio": 4.7
         },
         "494": {
             "nombre_articulo": "MUZZA CABAÑA AZUL",
@@ -3020,7 +3364,7 @@
         "497": {
             "nombre_articulo": "CRUDO SOL NACIENTE",
             "precio": 16080.0046,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
