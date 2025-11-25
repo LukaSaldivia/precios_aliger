@@ -1,5 +1,5 @@
 {
-    "FECHA": "21-11-2025",
+    "FECHA": "25-11-2025",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X500",
@@ -1636,16 +1636,16 @@
         "523": {
             "nombre_articulo": "MEDALLON FELA X 4",
             "precio": 2301.9524,
-            "modificado": false,
-            "factor": "12",
+            "modificado": true,
+            "factor": "18",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "524": {
             "nombre_articulo": "HAMBURGUESA PALADINI X 4",
             "precio": 4502.6399,
-            "modificado": false,
-            "factor": "12",
+            "modificado": true,
+            "factor": "18",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
@@ -1659,8 +1659,8 @@
         },
         "526": {
             "nombre_articulo": "HAMB. PALADINI X 2 UNID.",
-            "precio": 1845.1290000000001,
-            "modificado": false,
+            "precio": 2027.7179999999998,
+            "modificado": true,
             "factor": "30",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
