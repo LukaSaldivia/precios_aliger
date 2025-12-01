@@ -1,5 +1,5 @@
 {
-    "FECHA": "25-11-2025",
+    "FECHA": "01-12-2025",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X500",
@@ -531,14 +531,6 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
-        "395": {
-            "nombre_articulo": "",
-            "precio": 4750.0123,
-            "modificado": false,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
         "396": {
             "nombre_articulo": "",
             "precio": 8320.0084,
@@ -672,7 +664,7 @@
         "8": {
             "nombre_articulo": "MILAN LARGO EMEZETA",
             "precio": 9056.583799999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -680,7 +672,7 @@
         "9": {
             "nombre_articulo": "BASTON EMEZETA",
             "precio": 10668.098100000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
@@ -744,7 +736,7 @@
         "134": {
             "nombre_articulo": "MILANCITO EMEZETA",
             "precio": 10401.002700000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "15",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
@@ -781,10 +773,18 @@
             "unidad_kilo": "K",
             "peso_promedio": 4.0
         },
+        "395": {
+            "nombre_articulo": "PALETA EMEZETA GRANDE",
+            "precio": 5739.852800000001,
+            "modificado": true,
+            "factor": "4",
+            "unidad_kilo": "K",
+            "peso_promedio": 4.3
+        },
         "401": {
             "nombre_articulo": "MILAN CORTO MZ",
             "precio": 9056.583799999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
@@ -1182,7 +1182,7 @@
         "37": {
             "nombre_articulo": "JAMON COCIDO BOCATTI",
             "precio": 18002.138,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.2
@@ -1343,8 +1343,8 @@
         },
         "450": {
             "nombre_articulo": "MEMBRILLO X 2 KG.",
-            "precio": 4914.1125,
-            "modificado": false,
+            "precio": 5172.4717,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1572,7 +1572,7 @@
         "399": {
             "nombre_articulo": "MILAN FELA",
             "precio": 11035.2242,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
@@ -1716,7 +1716,7 @@
         "544": {
             "nombre_articulo": "SALCHICHON TRIPLE PALADINI",
             "precio": 7650.2008,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
@@ -2330,7 +2330,7 @@
         "122": {
             "nombre_articulo": "CRUDO W",
             "precio": 14452.494099999998,
-            "modificado": false,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.6
@@ -2364,7 +2364,7 @@
         "126": {
             "nombre_articulo": "MATAMBRE FEPA",
             "precio": 11560.7272,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
@@ -2372,7 +2372,7 @@
         "127": {
             "nombre_articulo": "POLLO FEPA",
             "precio": 11056.496000000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.3
@@ -2380,7 +2380,7 @@
         "321": {
             "nombre_articulo": "MATAMBRE PREMIUN EL CRIOLLITO",
             "precio": 17887.9503,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -2388,7 +2388,7 @@
         "322": {
             "nombre_articulo": "MATAMBRE EL CRIOLLITO",
             "precio": 15678.7202,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
@@ -2410,6 +2410,30 @@
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
+        },
+        "546": {
+            "nombre_articulo": "QUESO AZUL X 180 GRS.",
+            "precio": 3395.9981000000002,
+            "modificado": true,
+            "factor": "36",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "547": {
+            "nombre_articulo": "QUESO AZUL MALBEC X 180 GRS.",
+            "precio": 5192.4003999999995,
+            "modificado": true,
+            "factor": "36",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "548": {
+            "nombre_articulo": "QUESO AZUL AHUMADO X 180 GRS.",
+            "precio": 3998.1546000000003,
+            "modificado": true,
+            "factor": "36",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
         }
     },
     "Finca de Santiago": {
@@ -2938,7 +2962,7 @@
         "248": {
             "nombre_articulo": "DURAZNO X 820",
             "precio": 1527.7459999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2982,7 +3006,7 @@
         "245": {
             "nombre_articulo": "CAFE EN SAQ. CABRALES X18",
             "precio": 4138.4057,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3124,7 +3148,7 @@
         "335": {
             "nombre_articulo": "PECHERA DON LUIS",
             "precio": 11979.0242,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 500.0
@@ -3132,7 +3156,7 @@
         "336": {
             "nombre_articulo": "LONGA CALABRESA DON LUIS",
             "precio": 11979.0242,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 500.0
@@ -3202,7 +3226,7 @@
         "387": {
             "nombre_articulo": "MIX CRIOLLO X 10",
             "precio": 8532.9684,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
@@ -3243,9 +3267,17 @@
         },
         "434": {
             "nombre_articulo": "VINAGRE X 5 LTS",
-            "precio": 2420.0,
-            "modificado": false,
+            "precio": 2480.0039,
+            "modificado": true,
             "factor": "4",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "545": {
+            "nombre_articulo": "VINAGRE X 900 REY GRANEL",
+            "precio": 524.9947999999999,
+            "modificado": true,
+            "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         }
@@ -3277,8 +3309,8 @@
         },
         "496": {
             "nombre_articulo": "QUESO DE CERDO LOPARDO",
-            "precio": 4920.585999999999,
-            "modificado": false,
+            "precio": 6008.0493,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
