@@ -1,5 +1,5 @@
 {
-    "FECHA": "04-12-2025",
+    "FECHA": "05-12-2025",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X500",
@@ -672,8 +672,8 @@
         "9": {
             "nombre_articulo": "BASTON EMEZETA",
             "precio": 10721.4349,
-            "modificado": false,
-            "factor": "12",
+            "modificado": true,
+            "factor": "15",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
         },
@@ -712,24 +712,24 @@
         "14": {
             "nombre_articulo": "SALCHICHON C/JAMON EMEZETA",
             "precio": 4102.8317,
-            "modificado": false,
-            "factor": "8",
+            "modificado": true,
+            "factor": "7",
             "unidad_kilo": "K",
             "peso_promedio": 3.1
         },
         "15": {
             "nombre_articulo": "SALCHICHON PRIMAVERA EMEZETA",
             "precio": 4102.8317,
-            "modificado": false,
-            "factor": "8",
+            "modificado": true,
+            "factor": "7",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
         },
         "16": {
             "nombre_articulo": "MORTADELA EMEZETA",
             "precio": 4583.2501,
-            "modificado": false,
-            "factor": "8",
+            "modificado": true,
+            "factor": "7",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
         },
@@ -1942,10 +1942,10 @@
         "362": {
             "nombre_articulo": "SALSA CHEDDAR SACHET",
             "precio": 3897.3010999999997,
-            "modificado": false,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
-            "peso_promedio": 5.0
+            "peso_promedio": 4.9
         },
         "383": {
             "nombre_articulo": "SABORIZADO QUESADA X 700",
@@ -2362,7 +2362,7 @@
         "122": {
             "nombre_articulo": "CRUDO W",
             "precio": 14524.7553,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.6
@@ -2446,7 +2446,7 @@
         "546": {
             "nombre_articulo": "QUESO AZUL X 180 GRS.",
             "precio": 3412.9743999999996,
-            "modificado": true,
+            "modificado": false,
             "factor": "36",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2454,7 +2454,7 @@
         "547": {
             "nombre_articulo": "QUESO AZUL MALBEC X 180 GRS.",
             "precio": 5218.366999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "36",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2462,7 +2462,7 @@
         "548": {
             "nombre_articulo": "QUESO AZUL AHUMADO X 180 GRS.",
             "precio": 4018.1438000000003,
-            "modificado": true,
+            "modificado": false,
             "factor": "36",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3342,7 +3342,7 @@
         "496": {
             "nombre_articulo": "QUESO DE CERDO LOPARDO",
             "precio": 6038.093599999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
