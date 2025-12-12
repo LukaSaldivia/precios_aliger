@@ -1,5 +1,5 @@
 {
-    "FECHA": "05-12-2025",
+    "FECHA": "12-12-2025",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X500",
@@ -611,6 +611,14 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
+        "498": {
+            "nombre_articulo": "",
+            "precio": 4221.0003,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
         "507": {
             "nombre_articulo": "",
             "precio": 9780.9019,
@@ -752,7 +760,7 @@
         "363": {
             "nombre_articulo": "LOMO AHUMADO EMEZETA",
             "precio": 9736.1319,
-            "modificado": true,
+            "modificado": false,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
@@ -1115,16 +1123,16 @@
     "Calchaqui": {
         "32": {
             "nombre_articulo": "MORTADELA BOCHA CALCHAQUI",
-            "precio": 7893.6044,
-            "modificado": false,
+            "precio": 8209.3418,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 5.7
         },
         "33": {
             "nombre_articulo": "MORTADELA CAÑON CALCHAQUI",
-            "precio": 6690.634499999999,
-            "modificado": false,
+            "precio": 7016.6932,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
@@ -1147,16 +1155,16 @@
         },
         "36": {
             "nombre_articulo": "MORTADELA GIG. CALCHAQUI",
-            "precio": 8603.1242,
-            "modificado": false,
+            "precio": 8946.4012,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 25.0
         },
         "38": {
             "nombre_articulo": "MORTADELA C/PIST CALCHAQUI",
-            "precio": 12503.946399999999,
-            "modificado": false,
+            "precio": 13004.099900000001,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -1182,7 +1190,7 @@
         "37": {
             "nombre_articulo": "JAMON COCIDO BOCATTI",
             "precio": 18092.1499,
-            "modificado": false,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.2
@@ -1480,7 +1488,7 @@
         "549": {
             "nombre_articulo": "MANTECOL X 404 GRS.",
             "precio": 5731.443299999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1508,10 +1516,10 @@
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
             "precio": 7923.7576,
-            "modificado": false,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
-            "peso_promedio": 4.8
+            "peso_promedio": 3.2
         },
         "50": {
             "nombre_articulo": "MORTADELA FAM. PALADINI",
@@ -1732,7 +1740,7 @@
         "550": {
             "nombre_articulo": "CRUDO BLOQUE PALADINI",
             "precio": 30049.1763,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -1740,7 +1748,7 @@
         "551": {
             "nombre_articulo": "VIENA X 12 LARGAS PALADINI",
             "precio": 8008.8569,
-            "modificado": true,
+            "modificado": false,
             "factor": "6",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1748,7 +1756,7 @@
         "552": {
             "nombre_articulo": "MORTADELA PISTACHO PALADINI",
             "precio": 13813.0333,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.5
@@ -1782,7 +1790,7 @@
         "62": {
             "nombre_articulo": "FONTINA QUESADA",
             "precio": 10262.131,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 8.7
@@ -1942,7 +1950,7 @@
         "362": {
             "nombre_articulo": "SALSA CHEDDAR SACHET",
             "precio": 3897.3010999999997,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.9
@@ -2000,10 +2008,10 @@
         "72": {
             "nombre_articulo": "PATEGRAS ALIGER",
             "precio": 8747.525599999999,
-            "modificado": false,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
-            "peso_promedio": 5.0
+            "peso_promedio": 4.8
         },
         "74": {
             "nombre_articulo": "BARRA ALIGER",
@@ -2377,16 +2385,16 @@
         },
         "124": {
             "nombre_articulo": "PALETA P/EMP.W",
-            "precio": 2261.248,
-            "modificado": false,
+            "precio": 2386.8702,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
         },
         "427": {
             "nombre_articulo": "PALETA DE CERDO W",
-            "precio": 3770.2510999999995,
-            "modificado": false,
+            "precio": 3987.8453999999997,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -2430,7 +2438,7 @@
         "128": {
             "nombre_articulo": "QUESO AZUL 1/2 ALLOA",
             "precio": 10987.0904,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.4
@@ -2495,8 +2503,8 @@
         },
         "356": {
             "nombre_articulo": "NUEZ PELADA MARIPOSA",
-            "precio": 18178.434999999998,
-            "modificado": false,
+            "precio": 18789.485,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 5.2
@@ -2530,7 +2538,7 @@
         "159": {
             "nombre_articulo": "CIRUELAS SECAS X 250 C/C",
             "precio": 1417.2004,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2538,7 +2546,7 @@
         "160": {
             "nombre_articulo": "CIRUELAS X 250 D'AGEN S/C",
             "precio": 2502.4494,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2571,8 +2579,8 @@
         },
         "136": {
             "nombre_articulo": "MAYONESA MONOPORCION",
-            "precio": 11412.2118,
-            "modificado": false,
+            "precio": 14044.5789,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2624,7 +2632,7 @@
         "325": {
             "nombre_articulo": "SACHET DESC.X 100 CHIRO",
             "precio": 920.1081999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "18",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2994,7 +3002,7 @@
         "248": {
             "nombre_articulo": "DURAZNO X 820",
             "precio": 1636.5492,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3218,6 +3226,14 @@
             "factor": "150",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
+        },
+        "553": {
+            "nombre_articulo": "ACEITE GERASOLES X 4.5 LTS.",
+            "precio": 8864.1091,
+            "modificado": true,
+            "factor": "4",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
         }
     },
     "La Quesera": {
@@ -3257,32 +3273,32 @@
     "Mix Dietetica": {
         "387": {
             "nombre_articulo": "MIX CRIOLLO X 10",
-            "precio": 8575.633,
-            "modificado": false,
+            "precio": 8650.2174,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
         },
         "388": {
             "nombre_articulo": "MIX FRUTOS SECOS X 10",
-            "precio": 21681.869000000002,
-            "modificado": false,
+            "precio": 22686.4715,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 1.0
         },
         "389": {
             "nombre_articulo": "MIX FUERTE X 10",
-            "precio": 9217.1145,
-            "modificado": false,
+            "precio": 9804.3759,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 1.0
         },
         "390": {
             "nombre_articulo": "MIX EUROPEO X 10",
-            "precio": 11245.4496,
-            "modificado": false,
+            "precio": 11914.4828,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 1.0
@@ -3317,8 +3333,8 @@
     "Lopardo": {
         "461": {
             "nombre_articulo": "PANCETA AHUMADA LOPARDO",
-            "precio": 10717.9259,
-            "modificado": false,
+            "precio": 10721.447,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.6
@@ -3333,8 +3349,8 @@
         },
         "490": {
             "nombre_articulo": "PALETA COCIDA DON SILVIO",
-            "precio": 4727.8209,
-            "modificado": false,
+            "precio": 4800.4814,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -3357,8 +3373,8 @@
         },
         "506": {
             "nombre_articulo": "CASERITA LOPARDO",
-            "precio": 10652.452800000001,
-            "modificado": false,
+            "precio": 11233.664200000001,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.1
@@ -3388,14 +3404,6 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
-        },
-        "498": {
-            "nombre_articulo": "QUESO DE CERDO VICTORIA",
-            "precio": 4221.0003,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 2.8
         }
     },
     "La Gauchita": {
