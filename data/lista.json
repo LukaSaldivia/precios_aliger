@@ -1,5 +1,5 @@
 {
-    "FECHA": "22-12-2025",
+    "FECHA": "26-12-2025",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X500",
@@ -680,7 +680,7 @@
         "9": {
             "nombre_articulo": "BASTON EMEZETA",
             "precio": 10721.4349,
-            "modificado": true,
+            "modificado": false,
             "factor": "15",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
@@ -688,7 +688,7 @@
         "10": {
             "nombre_articulo": "BONDIOLA EMEZETA",
             "precio": 15662.917599999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "K",
             "peso_promedio": 1.9
@@ -1097,8 +1097,8 @@
         },
         "487": {
             "nombre_articulo": "ALBAHACA X 1KG",
-            "precio": 8280.2599,
-            "modificado": false,
+            "precio": 10549.99,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1156,7 +1156,7 @@
         "36": {
             "nombre_articulo": "MORTADELA GIG. CALCHAQUI",
             "precio": 9022.3892,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 25.0
@@ -1164,10 +1164,10 @@
         "38": {
             "nombre_articulo": "MORTADELA C/PIST CALCHAQUI",
             "precio": 13004.099900000001,
-            "modificado": false,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
-            "peso_promedio": 4.5
+            "peso_promedio": 5.0
         },
         "473": {
             "nombre_articulo": "LECHE LARGA VIDA ILOLAY",
@@ -1595,8 +1595,8 @@
         },
         "400": {
             "nombre_articulo": "BONDIOLA PALADINI",
-            "precio": 25810.2075,
-            "modificado": false,
+            "precio": 26963.652099999996,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
@@ -1910,7 +1910,7 @@
         "147": {
             "nombre_articulo": "QUESO AZUL 1/2 EMPERADOR",
             "precio": 10595.1472,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
@@ -1982,7 +1982,7 @@
         "447": {
             "nombre_articulo": "CREMA X 5 QUESADA",
             "precio": 6224.4094000000005,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -2394,7 +2394,7 @@
         "427": {
             "nombre_articulo": "PALETA DE CERDO W",
             "precio": 3987.8453999999997,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.7
@@ -2438,7 +2438,7 @@
         "128": {
             "nombre_articulo": "QUESO AZUL 1/2 ALLOA",
             "precio": 11646.721899999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.4
@@ -2446,7 +2446,7 @@
         "129": {
             "nombre_articulo": "QUESO AZUL ALLOA",
             "precio": 10787.2226,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -2454,7 +2454,7 @@
         "546": {
             "nombre_articulo": "QUESO AZUL X 180 GRS.",
             "precio": 3648.15,
-            "modificado": true,
+            "modificado": false,
             "factor": "36",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2571,8 +2571,8 @@
     "Hellmans": {
         "135": {
             "nombre_articulo": "MAYONESA X2.9 HELLMANS",
-            "precio": 11412.2118,
-            "modificado": false,
+            "precio": 11556.068699999998,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2587,8 +2587,8 @@
         },
         "163": {
             "nombre_articulo": "KETCHUP HELLMAN`S X 60 GRS.",
-            "precio": 816.6774,
-            "modificado": false,
+            "precio": 886.0587999999999,
+            "modificado": true,
             "factor": "30",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2606,7 +2606,7 @@
         "137": {
             "nombre_articulo": "SACHET X 100 NATURAL SHOP",
             "precio": 631.8862,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2614,7 +2614,7 @@
         "141": {
             "nombre_articulo": "SACHET X100 DESC NATURAL SHOP",
             "precio": 949.7289999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3239,16 +3239,16 @@
     "La Quesera": {
         "369": {
             "nombre_articulo": "QUESO RALLADO X 40 GRS.LA QUESERA",
-            "precio": 561.3311,
-            "modificado": false,
+            "precio": 578.1743,
+            "modificado": true,
             "factor": "20",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "370": {
             "nombre_articulo": "BARRA CHEDDAR LA QUESERA",
-            "precio": 14598.516899999999,
-            "modificado": false,
+            "precio": 15291.338699999998,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -3263,8 +3263,8 @@
         },
         "372": {
             "nombre_articulo": "MIXTO CON SALAME LA QUESERA",
-            "precio": 12408.9493,
-            "modificado": false,
+            "precio": 12781.2058,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -3274,7 +3274,7 @@
         "387": {
             "nombre_articulo": "MIX CRIOLLO X 10",
             "precio": 9792.7115,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
@@ -3282,7 +3282,7 @@
         "388": {
             "nombre_articulo": "MIX FRUTOS SECOS X 10",
             "precio": 23665.7487,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 1.0
@@ -3290,7 +3290,7 @@
         "389": {
             "nombre_articulo": "MIX FUERTE X 10",
             "precio": 10987.671199999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 1.0
@@ -3298,7 +3298,7 @@
         "390": {
             "nombre_articulo": "MIX EUROPEO X 10",
             "precio": 11914.4828,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 1.0
@@ -3350,7 +3350,7 @@
         "490": {
             "nombre_articulo": "PALETA COCIDA DON SILVIO",
             "precio": 4800.4814,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -3444,10 +3444,10 @@
         "497": {
             "nombre_articulo": "CRUDO SOL NACIENTE",
             "precio": 16160.409099999999,
-            "modificado": false,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
-            "peso_promedio": 2.5
+            "peso_promedio": 2.1
         }
     },
     "Arrodul": {
