@@ -1,10 +1,10 @@
 {
-    "FECHA": "02-01-2026",
+    "FECHA": "08-01-2026",
     "Peipo": {
         "1": {
-            "nombre_articulo": "PAPA COMUN X500",
+            "nombre_articulo": "PAPA COMUN X 450",
             "precio": 5623.099899999999,
-            "modificado": false,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -547,14 +547,6 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
-        "402": {
-            "nombre_articulo": "",
-            "precio": 6393.9788,
-            "modificado": false,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
         "407": {
             "nombre_articulo": "",
             "precio": 1395.9165,
@@ -606,6 +598,14 @@
         "492": {
             "nombre_articulo": "",
             "precio": 5593.83,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "495": {
+            "nombre_articulo": "",
+            "precio": 6375.828799999999,
             "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
@@ -796,6 +796,14 @@
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
+        },
+        "402": {
+            "nombre_articulo": "BARRIL MZ",
+            "precio": 6393.9909,
+            "modificado": true,
+            "factor": "4",
+            "unidad_kilo": "K",
+            "peso_promedio": 5.0
         },
         "417": {
             "nombre_articulo": "BONDIOLA AL VACIO 1/2 MZ",
@@ -1132,7 +1140,7 @@
         "33": {
             "nombre_articulo": "MORTADELA CAÑON CALCHAQUI",
             "precio": 7016.6932,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.5
@@ -1199,24 +1207,24 @@
     "Dulcor": {
         "39": {
             "nombre_articulo": "DULCE DE MEMBRILLO",
-            "precio": 11140.7604,
-            "modificado": false,
+            "precio": 11697.7839,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
         },
         "40": {
             "nombre_articulo": "DULCE DE BATATA",
-            "precio": 9046.081,
-            "modificado": false,
+            "precio": 9498.378999999999,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
         },
         "41": {
             "nombre_articulo": "DULCE DE BATATA C/CHOC",
-            "precio": 9046.081,
-            "modificado": false,
+            "precio": 9498.378999999999,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 500.0
@@ -1263,8 +1271,8 @@
         },
         "296": {
             "nombre_articulo": "MEMBRILLO LATA",
-            "precio": 12875.3196,
-            "modificado": false,
+            "precio": 15311.6667,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1415,8 +1423,8 @@
         },
         "486": {
             "nombre_articulo": "BATATA X 500 ESNAOLA",
-            "precio": 1387.7369,
-            "modificado": false,
+            "precio": 1469.2667,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1492,6 +1500,22 @@
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
+        },
+        "563": {
+            "nombre_articulo": "MEMBRILLO X 500 ESNAOLA",
+            "precio": 1766.5516,
+            "modificado": true,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "564": {
+            "nombre_articulo": "BATATA X 500 DULCOR",
+            "precio": 1189.6236,
+            "modificado": true,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
         }
     },
     "Halcon": {
@@ -1515,7 +1539,7 @@
     "Paladini": {
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
-            "precio": 7821.0165,
+            "precio": 7821.2101,
             "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
@@ -1523,7 +1547,7 @@
         },
         "50": {
             "nombre_articulo": "MORTADELA FAM. PALADINI",
-            "precio": 2676.5805,
+            "precio": 2676.6289,
             "modificado": true,
             "factor": "16",
             "unidad_kilo": "U",
@@ -1531,7 +1555,7 @@
         },
         "51": {
             "nombre_articulo": "MORTADELA X 2.5KG PALADINI",
-            "precio": 8594.2186,
+            "precio": 8594.460599999999,
             "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
@@ -1540,14 +1564,14 @@
         "157": {
             "nombre_articulo": "VIENA X 6 FELA",
             "precio": 1061.2305,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "266": {
             "nombre_articulo": "PALETA PALADINI X6KG",
-            "precio": 11786.7673,
+            "precio": 12094.0589,
             "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
@@ -1563,15 +1587,15 @@
         },
         "357": {
             "nombre_articulo": "LEBERWURST X 250 GRS.",
-            "precio": 1956.1828,
-            "modificado": false,
+            "precio": 1901.5755,
+            "modificado": true,
             "factor": "26",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
-            "precio": 10122.0856,
+            "precio": 10121.904099999998,
             "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
@@ -1579,7 +1603,7 @@
         },
         "398": {
             "nombre_articulo": "MILAN TIVOLI",
-            "precio": 9305.7591,
+            "precio": 9305.9648,
             "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
@@ -1595,7 +1619,7 @@
         },
         "400": {
             "nombre_articulo": "BONDIOLA PALADINI",
-            "precio": 23835.4028,
+            "precio": 23835.160799999998,
             "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
@@ -1739,7 +1763,7 @@
         },
         "550": {
             "nombre_articulo": "CRUDO BLOQUE PALADINI",
-            "precio": 31048.0434,
+            "precio": 30560.4618,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1760,13 +1784,21 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.5
+        },
+        "565": {
+            "nombre_articulo": "CRUDO ESPUÑA",
+            "precio": 41853.621699999996,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 4.7
         }
     },
     "Quesada": {
         "59": {
             "nombre_articulo": "BARRA QUESADA",
             "precio": 7900.622399999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
@@ -1774,7 +1806,7 @@
         "60": {
             "nombre_articulo": "CREMOSO QUESADA",
             "precio": 6076.148099999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.5
@@ -1894,7 +1926,7 @@
         "133": {
             "nombre_articulo": "MUZZA BARRA QUESADA",
             "precio": 7900.622399999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.7
@@ -2428,7 +2460,7 @@
         "322": {
             "nombre_articulo": "MATAMBRE EL CRIOLLITO",
             "precio": 15757.1161,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.3
@@ -3406,40 +3438,6 @@
             "peso_promedio": 2.0
         }
     },
-    "La Gauchita": {
-        "495": {
-            "nombre_articulo": "MUZZA PLANCHA GAUCHITA",
-            "precio": 6375.828799999999,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 10.0
-        },
-        "539": {
-            "nombre_articulo": "CREMOSO GAUCHITA",
-            "precio": 5592.8257,
-            "modificado": false,
-            "factor": "4",
-            "unidad_kilo": "K",
-            "peso_promedio": 4.0
-        },
-        "540": {
-            "nombre_articulo": "MUZZARELLA GAUCHITA",
-            "precio": 5816.542600000001,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 4.5
-        },
-        "541": {
-            "nombre_articulo": "SARDO FRESCO GAUCHITA",
-            "precio": 7314.389499999999,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 3.2
-        }
-    },
     "Sol Naciente": {
         "497": {
             "nombre_articulo": "CRUDO SOL NACIENTE",
@@ -3492,6 +3490,32 @@
             "peso_promedio": 0.0
         }
     },
+    "La Gauchita": {
+        "539": {
+            "nombre_articulo": "CREMOSO GAUCHITA",
+            "precio": 5592.8257,
+            "modificado": false,
+            "factor": "4",
+            "unidad_kilo": "K",
+            "peso_promedio": 4.0
+        },
+        "540": {
+            "nombre_articulo": "MUZZARELLA GAUCHITA",
+            "precio": 5816.542600000001,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 4.5
+        },
+        "541": {
+            "nombre_articulo": "SARDO FRESCO GAUCHITA",
+            "precio": 7314.389499999999,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 3.2
+        }
+    },
     "Angelani": {
         "556": {
             "nombre_articulo": "MILANCITO ANGELANI",
@@ -3507,7 +3531,7 @@
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
-            "peso_promedio": 3.2
+            "peso_promedio": 2.2
         },
         "558": {
             "nombre_articulo": "BASTON PURO CERDO ANGELANI",
