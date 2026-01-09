@@ -1,5 +1,5 @@
 {
-    "FECHA": "08-01-2026",
+    "FECHA": "09-01-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -1941,8 +1941,8 @@
         },
         "147": {
             "nombre_articulo": "QUESO AZUL 1/2 EMPERADOR",
-            "precio": 10595.1472,
-            "modificado": false,
+            "precio": 11126.688100000001,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
@@ -2418,10 +2418,10 @@
         "124": {
             "nombre_articulo": "PALETA P/EMP.W",
             "precio": 2386.8702,
-            "modificado": false,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
-            "peso_promedio": 4.5
+            "peso_promedio": 5.8
         },
         "427": {
             "nombre_articulo": "PALETA DE CERDO W",
@@ -3564,6 +3564,14 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.2
+        },
+        "566": {
+            "nombre_articulo": "SALAMIN ANGELANI",
+            "precio": 12555.044699999999,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 2.0
         }
     }
 }
