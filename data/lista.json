@@ -1,10 +1,10 @@
 {
-    "FECHA": "15-01-2026",
+    "FECHA": "16-01-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
             "precio": 5623.099899999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -800,7 +800,7 @@
         "402": {
             "nombre_articulo": "BARRIL MZ",
             "precio": 6393.9909,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
@@ -1806,7 +1806,7 @@
         "60": {
             "nombre_articulo": "CREMOSO QUESADA",
             "precio": 6076.148099999999,
-            "modificado": false,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.5
@@ -3295,8 +3295,8 @@
         },
         "371": {
             "nombre_articulo": "GRUYERE CUÑA LA QUESERA",
-            "precio": 22002.7489,
-            "modificado": false,
+            "precio": 22662.816,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
