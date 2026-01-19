@@ -1,5 +1,5 @@
 {
-    "FECHA": "16-01-2026",
+    "FECHA": "19-01-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -631,144 +631,144 @@
     "Emezeta": {
         "3": {
             "nombre_articulo": "CRUDO EMEZETA",
-            "precio": 20329.197900000003,
-            "modificado": false,
+            "precio": 21548.9384,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 3.5
         },
         "4": {
             "nombre_articulo": "JAMON NATIVO EMEZETA",
-            "precio": 9447.1355,
-            "modificado": false,
+            "precio": 10013.9721,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 5.5
         },
         "5": {
             "nombre_articulo": "FIAMBRE DE JAMON COCIDO GRANDE",
-            "precio": 6354.0246,
-            "modificado": false,
+            "precio": 6735.2593,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
         },
         "6": {
             "nombre_articulo": "PALETA MINI EMEZETA",
-            "precio": 5941.2573,
-            "modificado": false,
+            "precio": 6297.7233,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
         },
         "7": {
             "nombre_articulo": "LOMO CANADIENSE EMEZETA",
-            "precio": 11376.988699999998,
-            "modificado": false,
+            "precio": 12059.610200000001,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
         },
         "8": {
             "nombre_articulo": "MILAN LARGO EMEZETA",
-            "precio": 9101.862,
-            "modificado": false,
+            "precio": 9647.9834,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
         },
         "9": {
             "nombre_articulo": "BASTON EMEZETA",
-            "precio": 10721.4349,
-            "modificado": false,
+            "precio": 11364.7314,
+            "modificado": true,
             "factor": "15",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
         },
         "10": {
             "nombre_articulo": "BONDIOLA EMEZETA",
-            "precio": 15662.917599999999,
-            "modificado": false,
+            "precio": 16602.700399999998,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "K",
             "peso_promedio": 1.9
         },
         "11": {
             "nombre_articulo": "PANCETA AHUM C/C EMEZETA",
-            "precio": 12316.6384,
-            "modificado": false,
+            "precio": 13079.0957,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
         },
         "12": {
             "nombre_articulo": "PANCETA TIERNIZADA EMEZETA",
-            "precio": 6335.2575,
-            "modificado": false,
+            "precio": 6715.3669,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
         },
         "13": {
             "nombre_articulo": "PANCETA SALADA EMEZETA",
-            "precio": 12183.5868,
-            "modificado": false,
+            "precio": 12338.8298,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
         },
         "14": {
             "nombre_articulo": "SALCHICHON C/JAMON EMEZETA",
-            "precio": 4102.8317,
-            "modificado": false,
+            "precio": 4349.0062,
+            "modificado": true,
             "factor": "7",
             "unidad_kilo": "K",
             "peso_promedio": 3.1
         },
         "15": {
             "nombre_articulo": "SALCHICHON PRIMAVERA EMEZETA",
-            "precio": 4102.8317,
-            "modificado": false,
+            "precio": 4349.0062,
+            "modificado": true,
             "factor": "7",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
         },
         "16": {
             "nombre_articulo": "MORTADELA EMEZETA",
-            "precio": 4583.2501,
-            "modificado": false,
+            "precio": 4858.1741999999995,
+            "modificado": true,
             "factor": "7",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
         },
         "134": {
             "nombre_articulo": "MILANCITO EMEZETA",
-            "precio": 10453.0085,
-            "modificado": false,
+            "precio": 11080.1878,
+            "modificado": true,
             "factor": "15",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
         },
         "318": {
             "nombre_articulo": "JAMON BOLON 3783",
-            "precio": 5757.6398,
-            "modificado": false,
+            "precio": 6103.0948,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
         },
         "363": {
             "nombre_articulo": "LOMO AHUMADO EMEZETA",
-            "precio": 9736.1319,
-            "modificado": false,
+            "precio": 10320.283599999999,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
         },
         "365": {
             "nombre_articulo": "PALETA CUADRADA EMEZETA",
-            "precio": 5935.9212,
-            "modificado": false,
+            "precio": 6297.7233,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
@@ -783,16 +783,16 @@
         },
         "395": {
             "nombre_articulo": "PALETA EMEZETA GRANDE",
-            "precio": 5768.553999999999,
-            "modificado": false,
+            "precio": 6114.662399999999,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.3
         },
         "401": {
             "nombre_articulo": "MILAN CORTO MZ",
-            "precio": 9101.862,
-            "modificado": false,
+            "precio": 9647.9834,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
@@ -1942,7 +1942,7 @@
         "147": {
             "nombre_articulo": "QUESO AZUL 1/2 EMPERADOR",
             "precio": 11126.688100000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
@@ -2418,7 +2418,7 @@
         "124": {
             "nombre_articulo": "PALETA P/EMP.W",
             "precio": 2386.8702,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.8
@@ -3576,7 +3576,7 @@
         "566": {
             "nombre_articulo": "SALAMIN ANGELANI",
             "precio": 12555.044699999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
@@ -3598,6 +3598,16 @@
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
+        }
+    },
+    "Bahia": {
+        "570": {
+            "nombre_articulo": "ARVEJAS X300 BAHIA",
+            "precio": 457.6946,
+            "modificado": true,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
         }
     }
 }
