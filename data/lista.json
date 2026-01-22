@@ -1,5 +1,5 @@
 {
-    "FECHA": "19-01-2026",
+    "FECHA": "22-01-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -961,8 +961,8 @@
         },
         "151": {
             "nombre_articulo": "AJI MOLIDO X 1 KG",
-            "precio": 5567.2826000000005,
-            "modificado": false,
+            "precio": 7059.624,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1368,7 +1368,7 @@
         "451": {
             "nombre_articulo": "BATATA CON CHOCOLATE X 700",
             "precio": 3813.1335,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1376,7 +1376,7 @@
         "452": {
             "nombre_articulo": "BATATA VLLA.LATA X 700",
             "precio": 3813.1335,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1384,7 +1384,7 @@
         "453": {
             "nombre_articulo": "MEMBRILLO LATA X 700",
             "precio": 4738.5415,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1539,8 +1539,8 @@
     "Paladini": {
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
-            "precio": 7821.2101,
-            "modificado": false,
+            "precio": 8232.8521,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
@@ -1579,7 +1579,7 @@
         },
         "340": {
             "nombre_articulo": "VIENA X 6 PALDINI",
-            "precio": 1673.5267999999999,
+            "precio": 1669.0256,
             "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
@@ -1587,8 +1587,8 @@
         },
         "357": {
             "nombre_articulo": "LEBERWURST X 250 GRS.",
-            "precio": 1901.5755,
-            "modificado": false,
+            "precio": 2007.2084999999997,
+            "modificado": true,
             "factor": "26",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1612,15 +1612,15 @@
         "399": {
             "nombre_articulo": "MILAN FELA",
             "precio": 11379.7112,
-            "modificado": false,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
         },
         "400": {
             "nombre_articulo": "BONDIOLA PALADINI",
-            "precio": 23835.160799999998,
-            "modificado": false,
+            "precio": 24894.515799999997,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
@@ -1635,8 +1635,8 @@
         },
         "502": {
             "nombre_articulo": "QUESO DE CERDO PALADINI",
-            "precio": 7107.9877,
-            "modificado": false,
+            "precio": 7169.8066,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -1723,8 +1723,8 @@
         },
         "535": {
             "nombre_articulo": "EMPANADAS JAMON Y QUESO",
-            "precio": 4275.8496000000005,
-            "modificado": false,
+            "precio": 4566.4069,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1739,8 +1739,8 @@
         },
         "537": {
             "nombre_articulo": "EMPANADAS ESPIN.Y QUESO",
-            "precio": 4275.8496000000005,
-            "modificado": false,
+            "precio": 4566.4069,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1755,8 +1755,8 @@
         },
         "544": {
             "nombre_articulo": "SALCHICHON TRIPLE PALADINI",
-            "precio": 7688.4489,
-            "modificado": false,
+            "precio": 7755.3135,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
@@ -1779,8 +1779,8 @@
         },
         "552": {
             "nombre_articulo": "MORTADELA PISTACHO PALADINI",
-            "precio": 13813.0333,
-            "modificado": false,
+            "precio": 13930.088699999998,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.5
@@ -2602,7 +2602,7 @@
         "567": {
             "nombre_articulo": "CIRUELAS D'AGEN S/CAR.X 5 KG",
             "precio": 21959.249399999997,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3060,7 +3060,7 @@
         "231": {
             "nombre_articulo": "LENTEJAS INALPA X 300",
             "precio": 1224.4958,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3586,7 +3586,7 @@
         "568": {
             "nombre_articulo": "CREMOSO EL DESTINO",
             "precio": 5322.7416,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
@@ -3594,7 +3594,7 @@
         "569": {
             "nombre_articulo": "BARRA TYBO EL DESTINO",
             "precio": 7312.8769999999995,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
@@ -3603,7 +3603,39 @@
     "Bahia": {
         "570": {
             "nombre_articulo": "ARVEJAS X300 BAHIA",
-            "precio": 457.6946,
+            "precio": 548.6261000000001,
+            "modificado": true,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "571": {
+            "nombre_articulo": "ATUN DESMENUZADO BAHIA",
+            "precio": 1134.1451,
+            "modificado": true,
+            "factor": "48",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "572": {
+            "nombre_articulo": "ATUN LOMITO BAHIA",
+            "precio": 2181.5937,
+            "modificado": true,
+            "factor": "48",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "573": {
+            "nombre_articulo": "CABALLA BAHIA",
+            "precio": 3400.0758,
+            "modificado": true,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "574": {
+            "nombre_articulo": "CHOCLO X 300 BAHIA",
+            "precio": 1109.8604,
             "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
