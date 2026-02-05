@@ -1,5 +1,5 @@
 {
-    "FECHA": "03-02-2026",
+    "FECHA": "05-02-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -315,6 +315,14 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
+        "222": {
+            "nombre_articulo": "",
+            "precio": 1861.3429999999998,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
         "252": {
             "nombre_articulo": "",
             "precio": 991.6192,
@@ -340,6 +348,14 @@
             "peso_promedio": 0.0
         },
         "264": {
+            "nombre_articulo": "",
+            "precio": 1649.1090000000002,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "265": {
             "nombre_articulo": "",
             "precio": 1649.1090000000002,
             "modificado": false,
@@ -667,9 +683,25 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
+        "533": {
+            "nombre_articulo": "",
+            "precio": 13888.6462,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
         "539": {
             "nombre_articulo": "",
             "precio": 5592.8257,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "562": {
+            "nombre_articulo": "",
+            "precio": 5663.1751,
             "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
@@ -864,7 +896,7 @@
         "576": {
             "nombre_articulo": "CRUDO CON HUESO EMEZETA",
             "precio": 16856.171199999997,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.5
@@ -1188,7 +1220,7 @@
         "32": {
             "nombre_articulo": "MORTADELA BOCHA CALCHAQUI",
             "precio": 8783.9466,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 5.7
@@ -1196,7 +1228,7 @@
         "33": {
             "nombre_articulo": "MORTADELA CAÑON CALCHAQUI",
             "precio": 7507.7959,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.5
@@ -1220,7 +1252,7 @@
         "36": {
             "nombre_articulo": "MORTADELA GIG. CALCHAQUI",
             "precio": 9563.731099999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 25.0
@@ -1228,15 +1260,15 @@
         "38": {
             "nombre_articulo": "MORTADELA C/PIST CALCHAQUI",
             "precio": 13784.3442,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
         },
         "473": {
             "nombre_articulo": "LECHE LARGA VIDA ILOLAY",
-            "precio": 1427.5458999999998,
-            "modificado": false,
+            "precio": 1471.6988,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.5
@@ -2441,32 +2473,32 @@
     "Productos W": {
         "122": {
             "nombre_articulo": "CRUDO W",
-            "precio": 14524.7553,
-            "modificado": false,
+            "precio": 15451.8694,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.6
         },
         "123": {
             "nombre_articulo": "BONDIOLA W",
-            "precio": 14030.3009,
-            "modificado": false,
+            "precio": 15699.108699999999,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
         },
         "124": {
             "nombre_articulo": "PALETA P/EMP.W",
-            "precio": 2386.8702,
-            "modificado": false,
+            "precio": 2425.0699,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.8
         },
         "427": {
             "nombre_articulo": "PALETA DE CERDO W",
-            "precio": 4299.396199999999,
-            "modificado": false,
+            "precio": 4403.4199,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.7
@@ -2771,8 +2803,8 @@
     "Cavade": {
         "143": {
             "nombre_articulo": "PAPEL HIGIENICO CAVADE X 4X 30 MTS.",
-            "precio": 950.8543,
-            "modificado": false,
+            "precio": 1018.4449000000001,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2789,8 +2821,8 @@
     "Amanecer": {
         "158": {
             "nombre_articulo": "COPETIN X 300",
-            "precio": 1493.3578,
-            "modificado": false,
+            "precio": 1642.696,
+            "modificado": true,
             "factor": "25",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2861,8 +2893,8 @@
         },
         "373": {
             "nombre_articulo": "CONITOS CON QUESO X 800",
-            "precio": 10584.027299999998,
-            "modificado": false,
+            "precio": 11748.277199999999,
+            "modificado": true,
             "factor": "5",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3242,7 +3274,7 @@
         "324": {
             "nombre_articulo": "PANCETA ARROLLADA",
             "precio": 16277.7186,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.2
@@ -3293,8 +3325,8 @@
     "Carrité": {
         "364": {
             "nombre_articulo": "ROLLO DE COCINA X 12",
-            "precio": 1337.655,
-            "modificado": false,
+            "precio": 1394.6944,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3302,7 +3334,7 @@
         "512": {
             "nombre_articulo": "MICROFIBRA PAÑO 30X40",
             "precio": 1366.5376999999999,
-            "modificado": false,
+            "modificado": true,
             "factor": "150",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3320,7 +3352,7 @@
         "369": {
             "nombre_articulo": "QUESO RALLADO X 40 GRS.LA QUESERA",
             "precio": 598.4055,
-            "modificado": true,
+            "modificado": false,
             "factor": "20",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3328,7 +3360,7 @@
         "370": {
             "nombre_articulo": "BARRA CHEDDAR LA QUESERA",
             "precio": 15826.5217,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -3336,7 +3368,7 @@
         "371": {
             "nombre_articulo": "GRUYERE CUÑA LA QUESERA",
             "precio": 23456.019399999997,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
@@ -3344,7 +3376,7 @@
         "372": {
             "nombre_articulo": "MIXTO CON SALAME LA QUESERA",
             "precio": 13228.554900000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -3502,14 +3534,6 @@
             "precio": 3322.781,
             "modificado": false,
             "factor": "6",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "533": {
-            "nombre_articulo": "DULCE DE LECHE REP. X 5 KG.",
-            "precio": 13888.6462,
-            "modificado": false,
-            "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         }
