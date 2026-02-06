@@ -1,5 +1,5 @@
 {
-    "FECHA": "05-02-2026",
+    "FECHA": "06-02-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -3240,7 +3240,7 @@
         "308": {
             "nombre_articulo": "CREMOSO ABUELO",
             "precio": 5761.6691,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -3612,6 +3612,22 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
+        },
+        "580": {
+            "nombre_articulo": "LONGA.PURO CERDO ANGELANI",
+            "precio": 14023.6822,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 0.6
+        },
+        "581": {
+            "nombre_articulo": "LONGA NAPOLITANA ANGELANI",
+            "precio": 11206.1246,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 0.6
         }
     },
     "El Destino": {
