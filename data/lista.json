@@ -1,5 +1,5 @@
 {
-    "FECHA": "06-02-2026",
+    "FECHA": "10-02-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -1620,7 +1620,7 @@
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
             "precio": 8232.8521,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
@@ -1628,7 +1628,7 @@
         "50": {
             "nombre_articulo": "MORTADELA FAM. PALADINI",
             "precio": 2766.8585999999996,
-            "modificado": true,
+            "modificado": false,
             "factor": "16",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1636,7 +1636,7 @@
         "51": {
             "nombre_articulo": "MORTADELA X 2.5KG PALADINI",
             "precio": 9337.194899999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
@@ -1668,7 +1668,7 @@
         "357": {
             "nombre_articulo": "LEBERWURST X 250 GRS.",
             "precio": 2007.2084999999997,
-            "modificado": true,
+            "modificado": false,
             "factor": "26",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1708,7 +1708,7 @@
         "502": {
             "nombre_articulo": "QUESO DE CERDO PALADINI",
             "precio": 7293.4202,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -1788,7 +1788,7 @@
         "528": {
             "nombre_articulo": "PIZZETA MUZZARELLA",
             "precio": 2221.802,
-            "modificado": true,
+            "modificado": false,
             "factor": "20",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1796,7 +1796,7 @@
         "535": {
             "nombre_articulo": "EMPANADAS JAMON Y QUESO",
             "precio": 4566.4069,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1804,7 +1804,7 @@
         "536": {
             "nombre_articulo": "EMPANADAS CARNE",
             "precio": 4566.4069,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1812,7 +1812,7 @@
         "537": {
             "nombre_articulo": "EMPANADAS ESPIN.Y QUESO",
             "precio": 4566.4069,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2735,24 +2735,24 @@
     "Chiro": {
         "138": {
             "nombre_articulo": "SACHET X 100 CHIRO",
-            "precio": 698.4725,
-            "modificado": false,
+            "precio": 726.121,
+            "modificado": true,
             "factor": "18",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "325": {
             "nombre_articulo": "SACHET DESC.X 100 CHIRO",
-            "precio": 920.1081999999999,
-            "modificado": false,
+            "precio": 956.4566,
+            "modificado": true,
             "factor": "18",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "326": {
             "nombre_articulo": "SACHET RELLENA CHIRO",
-            "precio": 1149.621,
-            "modificado": false,
+            "precio": 1205.7045,
+            "modificado": true,
             "factor": "18",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2767,16 +2767,16 @@
         },
         "346": {
             "nombre_articulo": "RELLENA GOURMET X 200",
-            "precio": 4824.3305,
-            "modificado": false,
+            "precio": 5106.393599999999,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "542": {
             "nombre_articulo": "FRASCO X 2 DESC CHIRO 000",
-            "precio": 19156.562700000002,
-            "modificado": false,
+            "precio": 19093.6548,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3248,7 +3248,7 @@
         "332": {
             "nombre_articulo": "SARDO ESTACIONADO ABUELO",
             "precio": 11191.6893,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -3256,7 +3256,7 @@
         "333": {
             "nombre_articulo": "GOUDA ABUELO",
             "precio": 10524.3622,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -3264,7 +3264,7 @@
         "441": {
             "nombre_articulo": "SARDO FRESCO ABUELO",
             "precio": 9623.8802,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -3300,7 +3300,7 @@
         "335": {
             "nombre_articulo": "PECHERA DON LUIS",
             "precio": 13085.0973,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 500.0
@@ -3308,7 +3308,7 @@
         "336": {
             "nombre_articulo": "LONGA CALABRESA DON LUIS",
             "precio": 13085.0973,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 500.0
@@ -3316,7 +3316,7 @@
         "337": {
             "nombre_articulo": "SALAME DON LUIS",
             "precio": 13511.2956,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 500.0
@@ -3402,10 +3402,10 @@
         "389": {
             "nombre_articulo": "MIX FUERTE X 10",
             "precio": 10987.671199999999,
-            "modificado": false,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
-            "peso_promedio": 1.0
+            "peso_promedio": 1.4
         },
         "390": {
             "nombre_articulo": "MIX EUROPEO X 10",
@@ -3549,8 +3549,8 @@
         },
         "541": {
             "nombre_articulo": "SARDO FRESCO GAUCHITA",
-            "precio": 7314.389499999999,
-            "modificado": false,
+            "precio": 7680.111999999999,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
@@ -3568,7 +3568,7 @@
         "557": {
             "nombre_articulo": "MORTA BOLONIA ANGELANI",
             "precio": 5851.0518,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
@@ -3608,7 +3608,7 @@
         "566": {
             "nombre_articulo": "SALAMIN ANGELANI",
             "precio": 12555.044699999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
@@ -3702,7 +3702,7 @@
         "577": {
             "nombre_articulo": "QUESO DE CERDO 103",
             "precio": 4020.0072,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 5.2
@@ -3710,7 +3710,7 @@
         "578": {
             "nombre_articulo": "PANCETA AHUMADA 103",
             "precio": 10389.1931,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
