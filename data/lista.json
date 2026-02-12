@@ -1,5 +1,5 @@
 {
-    "FECHA": "11-02-2026",
+    "FECHA": "12-02-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -1268,7 +1268,7 @@
         "473": {
             "nombre_articulo": "LECHE LARGA VIDA ILOLAY",
             "precio": 1471.6988,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.5
@@ -2029,8 +2029,8 @@
         },
         "282": {
             "nombre_articulo": "BARRA SABORIZADA QUESADA",
-            "precio": 10328.8504,
-            "modificado": false,
+            "precio": 10954.8439,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.2
@@ -2633,7 +2633,7 @@
     "Rodriguez Acacio": {
         "131": {
             "nombre_articulo": "BOTELLA TOMATE ROD AC",
-            "precio": 1808.9984,
+            "precio": 1718.5509,
             "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
@@ -2804,7 +2804,7 @@
         "143": {
             "nombre_articulo": "PAPEL HIGIENICO CAVADE X 4X 30 MTS.",
             "precio": 1018.4449000000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2822,7 +2822,7 @@
         "158": {
             "nombre_articulo": "COPETIN X 300",
             "precio": 1642.696,
-            "modificado": true,
+            "modificado": false,
             "factor": "25",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2894,7 +2894,7 @@
         "373": {
             "nombre_articulo": "CONITOS CON QUESO X 800",
             "precio": 11748.277199999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "5",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3326,7 +3326,7 @@
         "364": {
             "nombre_articulo": "ROLLO DE COCINA X 12",
             "precio": 1394.6944,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
