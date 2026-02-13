@@ -1,5 +1,5 @@
 {
-    "FECHA": "12-02-2026",
+    "FECHA": "13-02-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -2943,40 +2943,40 @@
         },
         "437": {
             "nombre_articulo": "LIMPIADOR LIQ.LAVANDA",
-            "precio": 815.8666999999999,
-            "modificado": false,
+            "precio": 837.0658999999999,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 499.9
         },
         "438": {
             "nombre_articulo": "LIMPIADOR LIQUIDO MARINA",
-            "precio": 815.8666999999999,
-            "modificado": false,
+            "precio": 837.0658999999999,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "439": {
             "nombre_articulo": "LIMPIADOR LIQUIDO PINO",
-            "precio": 815.8666999999999,
-            "modificado": false,
+            "precio": 837.0658999999999,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "440": {
             "nombre_articulo": "LIMPIADOR LIQUIDO CITRONELA",
-            "precio": 815.8666999999999,
-            "modificado": false,
+            "precio": 837.0658999999999,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "467": {
             "nombre_articulo": "DETERGENTE LIMON SUIZA X 300",
-            "precio": 738.9954,
-            "modificado": false,
+            "precio": 751.0591000000001,
+            "modificado": true,
             "factor": "18",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2991,8 +2991,8 @@
         },
         "469": {
             "nombre_articulo": "DETERGENTE VERDE SUIZA X 300",
-            "precio": 738.9954,
-            "modificado": false,
+            "precio": 751.0591000000001,
+            "modificado": true,
             "factor": "18",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3130,9 +3130,9 @@
     },
     "Inalpa": {
         "231": {
-            "nombre_articulo": "LENTEJAS INALPA X 300",
-            "precio": 1224.4958,
-            "modificado": false,
+            "nombre_articulo": "LENTEJAS BAHIA X 300",
+            "precio": 952.9113,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3615,7 +3615,7 @@
         },
         "580": {
             "nombre_articulo": "LONGA.PURO CERDO ANGELANI",
-            "precio": 14023.6822,
+            "precio": 1183.5252,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
