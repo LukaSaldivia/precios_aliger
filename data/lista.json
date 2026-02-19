@@ -1,5 +1,5 @@
 {
-    "FECHA": "13-02-2026",
+    "FECHA": "19-02-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -52,7 +52,7 @@
         "54": {
             "nombre_articulo": "BOLITAS CROCANTES PEIPO",
             "precio": 2228.7474,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -60,7 +60,7 @@
         "55": {
             "nombre_articulo": "PIZZA ROLLS PEIPO",
             "precio": 2031.0696999999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -887,7 +887,7 @@
         },
         "417": {
             "nombre_articulo": "BONDIOLA AL VACIO 1/2 MZ",
-            "precio": 16224.7327,
+            "precio": 17525.8094,
             "modificado": true,
             "factor": "20",
             "unidad_kilo": "K",
@@ -1026,7 +1026,7 @@
         "148": {
             "nombre_articulo": "ADOBO P/PIZZAS X 1 KG",
             "precio": 5019.8907,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1034,7 +1034,7 @@
         "149": {
             "nombre_articulo": "OREGANO X 1 KG",
             "precio": 4692.0896,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1042,7 +1042,7 @@
         "150": {
             "nombre_articulo": "PIMENTON X 1 KG",
             "precio": 6661.6429,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1050,7 +1050,7 @@
         "151": {
             "nombre_articulo": "AJI MOLIDO X 1 KG",
             "precio": 5383.5925,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1058,7 +1058,7 @@
         "152": {
             "nombre_articulo": "PROVENZAL X 1 KG",
             "precio": 5185.5034,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1074,7 +1074,7 @@
         "204": {
             "nombre_articulo": "COCO RALLADO X1KG AYS",
             "precio": 10017.3359,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1082,7 +1082,7 @@
         "205": {
             "nombre_articulo": "PIM BLANCA MOLIDA X 1 KG",
             "precio": 12176.326799999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1098,7 +1098,7 @@
         "241": {
             "nombre_articulo": "ESPECIES SURTIDA X1KG",
             "precio": 7002.8387,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1259,16 +1259,16 @@
         },
         "38": {
             "nombre_articulo": "MORTADELA C/PIST CALCHAQUI",
-            "precio": 13784.3442,
-            "modificado": false,
+            "precio": 13914.346599999999,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
         },
         "473": {
             "nombre_articulo": "LECHE LARGA VIDA ILOLAY",
-            "precio": 1471.6988,
-            "modificado": false,
+            "precio": 1698.9973,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.5
@@ -1367,8 +1367,8 @@
         },
         "408": {
             "nombre_articulo": "MERMELADA POTE DURAZNO",
-            "precio": 1006.5627,
-            "modificado": false,
+            "precio": 1056.8987,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1660,7 +1660,7 @@
         "340": {
             "nombre_articulo": "VIENA X 6 PALADINI",
             "precio": 1669.0256,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1878,7 +1878,7 @@
         "60": {
             "nombre_articulo": "CREMOSO QUESADA",
             "precio": 6234.9848,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.5
@@ -2030,7 +2030,7 @@
         "282": {
             "nombre_articulo": "BARRA SABORIZADA QUESADA",
             "precio": 10954.8439,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.2
@@ -2104,7 +2104,7 @@
         "71": {
             "nombre_articulo": "SARDO ALIGER",
             "precio": 8653.048799999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.9
@@ -2666,7 +2666,7 @@
         "323": {
             "nombre_articulo": "PASAS SIN SEMILLA X 10 KG",
             "precio": 5692.324,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 500.0
@@ -2674,7 +2674,7 @@
         "567": {
             "nombre_articulo": "CIRUELAS D'AGEN S/CAR.X 5 KG",
             "precio": 25888.8091,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2736,7 +2736,7 @@
         "138": {
             "nombre_articulo": "SACHET X 100 CHIRO",
             "precio": 726.121,
-            "modificado": true,
+            "modificado": false,
             "factor": "18",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2744,7 +2744,7 @@
         "325": {
             "nombre_articulo": "SACHET DESC.X 100 CHIRO",
             "precio": 956.4566,
-            "modificado": true,
+            "modificado": false,
             "factor": "18",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2752,7 +2752,7 @@
         "326": {
             "nombre_articulo": "SACHET RELLENA CHIRO",
             "precio": 1205.7045,
-            "modificado": true,
+            "modificado": false,
             "factor": "18",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2768,7 +2768,7 @@
         "346": {
             "nombre_articulo": "RELLENA GOURMET X 200",
             "precio": 5106.393599999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2776,7 +2776,7 @@
         "542": {
             "nombre_articulo": "FRASCO X 2 DESC CHIRO 000",
             "precio": 19093.6548,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3113,8 +3113,8 @@
         },
         "248": {
             "nombre_articulo": "DURAZNO X 820",
-            "precio": 1636.5492,
-            "modificado": false,
+            "precio": 2032.6305999999997,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3402,7 +3402,7 @@
         "389": {
             "nombre_articulo": "MIX FUERTE X 10",
             "precio": 10987.671199999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 1.4
@@ -3507,8 +3507,8 @@
     "Arrodul": {
         "529": {
             "nombre_articulo": "DULCE DE LECHE REP.X 10 KG",
-            "precio": 25739.712900000002,
-            "modificado": false,
+            "precio": 27521.050699999996,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3523,16 +3523,16 @@
         },
         "531": {
             "nombre_articulo": "DULCE DE LECHE FAM.X 10 KG",
-            "precio": 24374.760299999998,
-            "modificado": false,
+            "precio": 26061.464,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "532": {
             "nombre_articulo": "DULCE DE LECHE FAM. X 1 KG.ARR.",
-            "precio": 3322.781,
-            "modificado": false,
+            "precio": 3553.3585999999996,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3550,7 +3550,7 @@
         "541": {
             "nombre_articulo": "SARDO FRESCO GAUCHITA",
             "precio": 7680.111999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
@@ -3615,7 +3615,7 @@
         },
         "580": {
             "nombre_articulo": "LONGA.PURO CERDO ANGELANI",
-            "precio": 1183.5252,
+            "precio": 14023.6822,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
@@ -3623,7 +3623,7 @@
         },
         "581": {
             "nombre_articulo": "LONGA NAPOLITANA ANGELANI",
-            "precio": 11206.1246,
+            "precio": 0.0,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
@@ -3658,17 +3658,17 @@
             "peso_promedio": 0.0
         },
         "571": {
-            "nombre_articulo": "ATUN DESMENUZADO BAHIA",
+            "nombre_articulo": "ATUN DESMENUZADO AL NATURAL BAHIA",
             "precio": 1134.1451,
-            "modificado": false,
+            "modificado": true,
             "factor": "48",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "572": {
-            "nombre_articulo": "ATUN LOMITO BAHIA",
+            "nombre_articulo": "ATUN LOMITO AL ACEITE BAHIA",
             "precio": 2181.5937,
-            "modificado": false,
+            "modificado": true,
             "factor": "48",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3692,8 +3692,24 @@
         "575": {
             "nombre_articulo": "CABALLA AL ACEITE BAHIA",
             "precio": 3400.0758,
-            "modificado": false,
+            "modificado": true,
             "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "582": {
+            "nombre_articulo": "ATUN DESMENUZADO AL ACEITE BAHIA",
+            "precio": 1134.1451,
+            "modificado": true,
+            "factor": "48",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "583": {
+            "nombre_articulo": "ATUN LOMITO AL AGUA BAHIA",
+            "precio": 2181.5937,
+            "modificado": true,
+            "factor": "48",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         }
