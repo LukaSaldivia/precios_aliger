@@ -1,5 +1,5 @@
 {
-    "FECHA": "19-02-2026",
+    "FECHA": "23-02-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -2944,7 +2944,7 @@
         "437": {
             "nombre_articulo": "LIMPIADOR LIQ.LAVANDA",
             "precio": 837.0658999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 499.9
@@ -2952,7 +2952,7 @@
         "438": {
             "nombre_articulo": "LIMPIADOR LIQUIDO MARINA",
             "precio": 837.0658999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2960,7 +2960,7 @@
         "439": {
             "nombre_articulo": "LIMPIADOR LIQUIDO PINO",
             "precio": 837.0658999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2968,7 +2968,7 @@
         "440": {
             "nombre_articulo": "LIMPIADOR LIQUIDO CITRONELA",
             "precio": 837.0658999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2976,7 +2976,7 @@
         "467": {
             "nombre_articulo": "DETERGENTE LIMON SUIZA X 300",
             "precio": 751.0591000000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "18",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2992,7 +2992,7 @@
         "469": {
             "nombre_articulo": "DETERGENTE VERDE SUIZA X 300",
             "precio": 751.0591000000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "18",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3128,7 +3128,7 @@
             "peso_promedio": 0.0
         }
     },
-    "Inalpa": {
+    "Bahia": {
         "231": {
             "nombre_articulo": "LENTEJAS BAHIA X 300",
             "precio": 952.9113,
@@ -3137,19 +3137,67 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
-        "255": {
-            "nombre_articulo": "ARVEJA X 300 INALPA",
-            "precio": 430.88100000000003,
+        "570": {
+            "nombre_articulo": "ARVEJAS X300 BAHIA",
+            "precio": 548.6261000000001,
             "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
-        "300": {
-            "nombre_articulo": "CHOCLO X 300",
-            "precio": 1012.8668,
+        "571": {
+            "nombre_articulo": "ATUN DESMENUZADO AL NATURAL BAHIA",
+            "precio": 1134.1451,
+            "modificado": true,
+            "factor": "48",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "572": {
+            "nombre_articulo": "ATUN LOMITO AL ACEITE BAHIA",
+            "precio": 2181.5937,
+            "modificado": true,
+            "factor": "48",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "573": {
+            "nombre_articulo": "CABALLA AL NATURAL BAHIA",
+            "precio": 3400.0758,
             "modificado": false,
             "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "574": {
+            "nombre_articulo": "CHOCLO X 300 BAHIA",
+            "precio": 1109.8604,
+            "modificado": false,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "575": {
+            "nombre_articulo": "CABALLA AL ACEITE BAHIA",
+            "precio": 3400.0758,
+            "modificado": true,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "582": {
+            "nombre_articulo": "ATUN DESMENUZADO AL ACEITE BAHIA",
+            "precio": 1134.1451,
+            "modificado": true,
+            "factor": "48",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "583": {
+            "nombre_articulo": "ATUN LOMITO AL AGUA BAHIA",
+            "precio": 2181.5937,
+            "modificado": true,
+            "factor": "48",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         }
@@ -3234,6 +3282,24 @@
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.3
+        }
+    },
+    "Inalpa": {
+        "255": {
+            "nombre_articulo": "ARVEJA X 300 INALPA",
+            "precio": 430.88100000000003,
+            "modificado": false,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "300": {
+            "nombre_articulo": "CHOCLO X 300",
+            "precio": 1012.8668,
+            "modificado": false,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
         }
     },
     "Abuelo Marcelino": {
@@ -3427,8 +3493,8 @@
         },
         "434": {
             "nombre_articulo": "VINAGRE X 5 LTS",
-            "precio": 2492.4064000000003,
-            "modificado": false,
+            "precio": 2617.0243,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3623,7 +3689,7 @@
         },
         "581": {
             "nombre_articulo": "LONGA NAPOLITANA ANGELANI",
-            "precio": 0.0,
+            "precio": 11206.1246,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
@@ -3648,72 +3714,6 @@
             "peso_promedio": 4.0
         }
     },
-    "Bahia": {
-        "570": {
-            "nombre_articulo": "ARVEJAS X300 BAHIA",
-            "precio": 548.6261000000001,
-            "modificado": false,
-            "factor": "24",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "571": {
-            "nombre_articulo": "ATUN DESMENUZADO AL NATURAL BAHIA",
-            "precio": 1134.1451,
-            "modificado": true,
-            "factor": "48",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "572": {
-            "nombre_articulo": "ATUN LOMITO AL ACEITE BAHIA",
-            "precio": 2181.5937,
-            "modificado": true,
-            "factor": "48",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "573": {
-            "nombre_articulo": "CABALLA AL NATURAL BAHIA",
-            "precio": 3400.0758,
-            "modificado": false,
-            "factor": "24",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "574": {
-            "nombre_articulo": "CHOCLO X 300 BAHIA",
-            "precio": 1109.8604,
-            "modificado": false,
-            "factor": "24",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "575": {
-            "nombre_articulo": "CABALLA AL ACEITE BAHIA",
-            "precio": 3400.0758,
-            "modificado": true,
-            "factor": "24",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "582": {
-            "nombre_articulo": "ATUN DESMENUZADO AL ACEITE BAHIA",
-            "precio": 1134.1451,
-            "modificado": true,
-            "factor": "48",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "583": {
-            "nombre_articulo": "ATUN LOMITO AL AGUA BAHIA",
-            "precio": 2181.5937,
-            "modificado": true,
-            "factor": "48",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        }
-    },
     "Frigo 103": {
         "577": {
             "nombre_articulo": "QUESO DE CERDO 103",
@@ -3730,6 +3730,32 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
+        }
+    },
+    "Salaberry y Sabio": {
+        "584": {
+            "nombre_articulo": "MANTECA X 100 S Y S",
+            "precio": 904.4992,
+            "modificado": true,
+            "factor": "60",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "585": {
+            "nombre_articulo": "MANTECA X 200 S Y S",
+            "precio": 1808.9984,
+            "modificado": true,
+            "factor": "30",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "586": {
+            "nombre_articulo": "MANTECA PILON COTAMPO",
+            "precio": 22612.5042,
+            "modificado": true,
+            "factor": "8",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
         }
     }
 }
