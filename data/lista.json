@@ -2825,8 +2825,8 @@
         },
         "144": {
             "nombre_articulo": "CREMOSO LA JUANITA",
-            "precio": 5732.5202,
-            "modificado": false,
+            "precio": 5952.111,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
@@ -3379,24 +3379,24 @@
         },
         "335": {
             "nombre_articulo": "PECHERA DON LUIS",
-            "precio": 13085.0973,
-            "modificado": false,
+            "precio": 13708.1989,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 500.0
         },
         "336": {
             "nombre_articulo": "LONGA CALABRESA DON LUIS",
-            "precio": 13085.0973,
-            "modificado": false,
+            "precio": 13708.1989,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 500.0
         },
         "337": {
             "nombre_articulo": "SALAME DON LUIS",
-            "precio": 13511.2956,
-            "modificado": false,
+            "precio": 14082.064699999999,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 500.0
