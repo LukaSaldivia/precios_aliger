@@ -1,5 +1,5 @@
 {
-    "FECHA": "04-03-2026",
+    "FECHA": "05-03-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -1668,7 +1668,7 @@
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
             "precio": 8952.789999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
@@ -1676,7 +1676,7 @@
         "50": {
             "nombre_articulo": "MORTADELA FAM. PALADINI",
             "precio": 2913.7526,
-            "modificado": true,
+            "modificado": false,
             "factor": "16",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1684,7 +1684,7 @@
         "51": {
             "nombre_articulo": "MORTADELA X 2.5KG PALADINI",
             "precio": 9760.8038,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
@@ -1692,7 +1692,7 @@
         "157": {
             "nombre_articulo": "VIENA X 6 FELA",
             "precio": 1011.1849000000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1700,7 +1700,7 @@
         "266": {
             "nombre_articulo": "PALETA PALADINI X6KG",
             "precio": 12094.0589,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
@@ -1708,7 +1708,7 @@
         "340": {
             "nombre_articulo": "VIENA X 6 PALADINI",
             "precio": 1795.7368,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1716,7 +1716,7 @@
         "357": {
             "nombre_articulo": "LEBERWURST X 250 GRS.",
             "precio": 2007.2569,
-            "modificado": true,
+            "modificado": false,
             "factor": "26",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1724,7 +1724,7 @@
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
             "precio": 11527.6821,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
@@ -1732,7 +1732,7 @@
         "398": {
             "nombre_articulo": "MILAN TIVOLI",
             "precio": 9608.9246,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
@@ -1740,7 +1740,7 @@
         "399": {
             "nombre_articulo": "MILAN FELA",
             "precio": 12011.1618,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
@@ -1748,7 +1748,7 @@
         "400": {
             "nombre_articulo": "BONDIOLA PALADINI",
             "precio": 25855.098499999996,
-            "modificado": true,
+            "modificado": false,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
@@ -1884,7 +1884,7 @@
         "550": {
             "nombre_articulo": "CRUDO BLOQUE PALADINI",
             "precio": 35244.2387,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -2162,7 +2162,7 @@
         "82": {
             "nombre_articulo": "FRASCO X1.8KG 0",
             "precio": 13010.1378,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2226,7 +2226,7 @@
         "90": {
             "nombre_articulo": "FRASCO NEGRA X2KG 0",
             "precio": 17402.5709,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2274,7 +2274,7 @@
         "96": {
             "nombre_articulo": "BIDON DESC X4KG 0",
             "precio": 35863.432,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2290,7 +2290,7 @@
         "98": {
             "nombre_articulo": "BIDON RODAJA X4KG",
             "precio": 28455.57,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2370,7 +2370,7 @@
         "108": {
             "nombre_articulo": "BIDON X4.6KG 3",
             "precio": 23399.4156,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2624,7 +2624,7 @@
         "201": {
             "nombre_articulo": "MORRON X 800",
             "precio": 3433.0846,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3713,16 +3713,16 @@
     "El Destino": {
         "568": {
             "nombre_articulo": "CREMOSO EL DESTINO",
-            "precio": 5455.7932,
-            "modificado": false,
+            "precio": 5618.9859,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
         },
         "569": {
             "nombre_articulo": "BARRA TYBO EL DESTINO",
-            "precio": 7312.8769999999995,
-            "modificado": false,
+            "precio": 7529.1403,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
@@ -3768,7 +3768,7 @@
         "587": {
             "nombre_articulo": "TOMATE POUCH CAROYENSE X 2.5",
             "precio": 2472.3083,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
