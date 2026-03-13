@@ -1,5 +1,5 @@
 {
-    "FECHA": "12-03-2026",
+    "FECHA": "13-03-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -2537,16 +2537,16 @@
         },
         "124": {
             "nombre_articulo": "PALETA P/EMP.W",
-            "precio": 2425.0699,
-            "modificado": false,
+            "precio": 2637.1224,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.8
         },
         "427": {
             "nombre_articulo": "PALETA DE CERDO W",
-            "precio": 4403.4199,
-            "modificado": false,
+            "precio": 4695.3687,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.7
@@ -3404,7 +3404,7 @@
         "335": {
             "nombre_articulo": "PECHERA DON LUIS",
             "precio": 13708.1989,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 500.0
@@ -3412,7 +3412,7 @@
         "336": {
             "nombre_articulo": "LONGA CALABRESA DON LUIS",
             "precio": 13708.1989,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 500.0
@@ -3420,7 +3420,7 @@
         "337": {
             "nombre_articulo": "SALAME DON LUIS",
             "precio": 14082.064699999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 500.0
@@ -3722,7 +3722,7 @@
         "568": {
             "nombre_articulo": "CREMOSO EL DESTINO",
             "precio": 5618.9859,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
@@ -3730,7 +3730,7 @@
         "569": {
             "nombre_articulo": "BARRA TYBO EL DESTINO",
             "precio": 7529.1403,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
