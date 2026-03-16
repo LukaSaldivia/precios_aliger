@@ -1,5 +1,5 @@
 {
-    "FECHA": "13-03-2026",
+    "FECHA": "16-03-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -222,6 +222,14 @@
         "125": {
             "nombre_articulo": "",
             "precio": 6891.5428999999995,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "139": {
+            "nombre_articulo": "",
+            "precio": 3832.8201999999997,
             "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
@@ -531,6 +539,22 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
+        "352": {
+            "nombre_articulo": "",
+            "precio": 1605.6095,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "353": {
+            "nombre_articulo": "",
+            "precio": 2233.4543,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
         "355": {
             "nombre_articulo": "",
             "precio": 719.829,
@@ -646,6 +670,14 @@
         "463": {
             "nombre_articulo": "",
             "precio": 10717.9259,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "464": {
+            "nombre_articulo": "",
+            "precio": 22983.344999999998,
             "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
@@ -2070,7 +2102,7 @@
         "147": {
             "nombre_articulo": "QUESO AZUL 1/2 EMPERADOR",
             "precio": 11787.5417,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
@@ -2590,7 +2622,7 @@
         "128": {
             "nombre_articulo": "QUESO AZUL 1/2 ALLOA",
             "precio": 12383.611899999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.4
@@ -2598,7 +2630,7 @@
         "129": {
             "nombre_articulo": "QUESO AZUL ALLOA",
             "precio": 11432.1647,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -2668,14 +2700,6 @@
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 11.5
-        },
-        "464": {
-            "nombre_articulo": "ALMENDRAS PELADAS",
-            "precio": 22983.344999999998,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 5.5
         }
     },
     "Rodriguez Acacio": {
@@ -2830,29 +2854,11 @@
             "peso_promedio": 0.0
         }
     },
-    "La Juanita": {
-        "139": {
-            "nombre_articulo": "DULCE DE LECHE LA JUANITA",
-            "precio": 3832.8201999999997,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "144": {
-            "nombre_articulo": "CREMOSO LA JUANITA",
-            "precio": 6178.744,
-            "modificado": true,
-            "factor": "4",
-            "unidad_kilo": "K",
-            "peso_promedio": 4.0
-        }
-    },
     "Cavade": {
         "143": {
             "nombre_articulo": "PAPEL HIGIENICO CAVADE X 4X 30 MTS.",
             "precio": 1099.9262999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2868,10 +2874,20 @@
         "589": {
             "nombre_articulo": "HIGIENICO KAVADE X 24",
             "precio": 5668.2087,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
+        }
+    },
+    "La Juanita": {
+        "144": {
+            "nombre_articulo": "CREMOSO LA JUANITA",
+            "precio": 6178.744,
+            "modificado": true,
+            "factor": "4",
+            "unidad_kilo": "K",
+            "peso_promedio": 4.0
         }
     },
     "Amanecer": {
@@ -2918,22 +2934,6 @@
         "351": {
             "nombre_articulo": "CEREAL CON CHOCOLATE X 80 GRS.",
             "precio": 1064.0619,
-            "modificado": false,
-            "factor": "30",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "352": {
-            "nombre_articulo": "GARRAPIÑADA DE ALMENDRA X 80 GRS.",
-            "precio": 1605.6095,
-            "modificado": false,
-            "factor": "30",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "353": {
-            "nombre_articulo": "ALMENDRAS CON CHOCOLATE X 100 GRS.",
-            "precio": 2233.4543,
             "modificado": false,
             "factor": "30",
             "unidad_kilo": "U",
@@ -3023,8 +3023,8 @@
         },
         "440": {
             "nombre_articulo": "LIMPIADOR LIQUIDO CITRONELA",
-            "precio": 837.0658999999999,
-            "modificado": false,
+            "precio": 892.496,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3084,7 +3084,7 @@
         "178": {
             "nombre_articulo": "SAL GRUESA TRESAL X 1 KG",
             "precio": 843.6362,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3092,7 +3092,7 @@
         "250": {
             "nombre_articulo": "SAL FINA TRESAL X 500",
             "precio": 508.91389999999996,
-            "modificado": true,
+            "modificado": false,
             "factor": "20",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3549,16 +3549,16 @@
     "Lopardo": {
         "490": {
             "nombre_articulo": "PALETA COCIDA DON SILVIO",
-            "precio": 5669.951099999999,
-            "modificado": false,
+            "precio": 5714.1887,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
         },
         "496": {
             "nombre_articulo": "QUESO DE CERDO LOPARDO",
-            "precio": 6723.897399999999,
-            "modificado": false,
+            "precio": 3987.8453999999997,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
@@ -3570,6 +3570,14 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.1
+        },
+        "590": {
+            "nombre_articulo": "MORCILLA AL VACIO",
+            "precio": 4050.1483,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 4.6
         }
     },
     "Cabaña Azul": {
@@ -3672,7 +3680,7 @@
         "560": {
             "nombre_articulo": "MILAN 1/2 AL VACIO ANGELANI",
             "precio": 12207.617400000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.2
@@ -3680,7 +3688,7 @@
         "561": {
             "nombre_articulo": "SALAME ESPAÑOL ANGELANI",
             "precio": 11757.134399999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.2
@@ -3688,7 +3696,7 @@
         "566": {
             "nombre_articulo": "SALAMIN ANGELANI",
             "precio": 13676.3396,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
@@ -3696,7 +3704,7 @@
         "580": {
             "nombre_articulo": "LONGA.PURO CERDO ANGELANI",
             "precio": 15276.153199999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 0.6
@@ -3704,7 +3712,7 @@
         "581": {
             "nombre_articulo": "LONGA NAPOLITANA ANGELANI",
             "precio": 12206.939799999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 0.6
