@@ -1,5 +1,5 @@
 {
-    "FECHA": "23-04-2026",
+    "FECHA": "25-04-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -1059,14 +1059,6 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
-        "565": {
-            "nombre_articulo": "",
-            "precio": 42061.8506,
-            "modificado": false,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
         "576": {
             "nombre_articulo": "",
             "precio": 16940.0242,
@@ -2044,7 +2036,7 @@
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
             "precio": 12262.5635,
-            "modificado": false,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
@@ -2184,6 +2176,14 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.5
+        },
+        "565": {
+            "nombre_articulo": "CRUDO ESPUÑA",
+            "precio": 42493.59069999999,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 4.7
         }
     },
     "Quesada": {
@@ -3070,7 +3070,7 @@
         "158": {
             "nombre_articulo": "COPETIN X 300",
             "precio": 1722.7738,
-            "modificado": true,
+            "modificado": false,
             "factor": "25",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3086,7 +3086,7 @@
         "373": {
             "nombre_articulo": "CONITOS CON QUESO X 800",
             "precio": 11901.935099999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "5",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3463,8 +3463,8 @@
     "Abuelo Marcelino": {
         "308": {
             "nombre_articulo": "CREMOSO ABUELO",
-            "precio": 5958.9959,
-            "modificado": false,
+            "precio": 6197.3659,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -3526,7 +3526,7 @@
         "553": {
             "nombre_articulo": "ACEITE GERASOLES X 4.5 LTS.",
             "precio": 10816.988599999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
