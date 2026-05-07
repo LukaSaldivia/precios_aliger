@@ -1,50 +1,50 @@
 {
-    "FECHA": "05-05-2026",
+    "FECHA": "07-05-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
-            "precio": 5651.0751,
-            "modificado": false,
+            "precio": 6045.886,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "47": {
             "nombre_articulo": "PAPAS CORTE AMERICANO",
-            "precio": 5651.0751,
-            "modificado": false,
+            "precio": 6045.886,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "48": {
             "nombre_articulo": "PAPAS PAY PEIPO",
-            "precio": 5612.536599999999,
-            "modificado": false,
+            "precio": 6005.3994,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "49": {
             "nombre_articulo": "PALITOS SALADOS PEIPO",
-            "precio": 5119.2196,
-            "modificado": false,
+            "precio": 5159.222199999999,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "52": {
             "nombre_articulo": "MANI SALADO PEIPO",
-            "precio": 4849.8494,
-            "modificado": false,
+            "precio": 4887.7465999999995,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
         },
         "53": {
             "nombre_articulo": "MANI C/CASCARA PEIPO",
-            "precio": 6237.9251,
-            "modificado": false,
+            "precio": 6286.6639,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -59,72 +59,64 @@
         },
         "55": {
             "nombre_articulo": "PIZZA ROLLS PEIPO",
-            "precio": 2245.3001999999997,
-            "modificado": false,
+            "precio": 2262.5669000000003,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "56": {
             "nombre_articulo": "MAIZ INFLADO PEIPO",
-            "precio": 3219.9431,
-            "modificado": false,
+            "precio": 3927.5510999999997,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "57": {
             "nombre_articulo": "MANI REPELADO PEIPO",
-            "precio": 5031.0469,
-            "modificado": false,
+            "precio": 5070.3598,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "58": {
             "nombre_articulo": "TUBITOS PEIPO",
-            "precio": 3073.3032,
-            "modificado": false,
+            "precio": 3097.2975,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "208": {
             "nombre_articulo": "PAPA CHEDDAR PEIPO X 330",
-            "precio": 4834.3493,
-            "modificado": false,
-            "factor": "10",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "366": {
-            "nombre_articulo": "MANI JAPONES X 700 PEIPO",
-            "precio": 4271.179,
-            "modificado": false,
+            "precio": 5172.75,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "458": {
             "nombre_articulo": "CHEESTICK QUESO X 300",
-            "precio": 2501.7355000000002,
-            "modificado": false,
+            "precio": 2521.5915999999997,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "511": {
             "nombre_articulo": "CHEESTICK CHEDDAR X265GR",
-            "precio": 2701.1314,
-            "modificado": false,
+            "precio": 2722.7419999999997,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "518": {
             "nombre_articulo": "PALITOS SABOR QUESO X 500",
-            "precio": 5119.2196,
-            "modificado": false,
+            "precio": 5159.222199999999,
+            "modificado": true,
             "factor": "14",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -718,6 +710,14 @@
         "361": {
             "nombre_articulo": "",
             "precio": 3185.2766,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "366": {
+            "nombre_articulo": "",
+            "precio": 4271.179,
             "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
@@ -1686,7 +1686,7 @@
         "39": {
             "nombre_articulo": "DULCE DE MEMBRILLO",
             "precio": 12714.9825,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
@@ -1694,7 +1694,7 @@
         "40": {
             "nombre_articulo": "DULCE DE BATATA",
             "precio": 10324.324999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
@@ -1702,7 +1702,7 @@
         "41": {
             "nombre_articulo": "DULCE DE BATATA C/CHOC",
             "precio": 10324.324999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 500.0
@@ -2421,8 +2421,8 @@
     "Aliger": {
         "71": {
             "nombre_articulo": "SARDO ALIGER",
-            "precio": 8696.1006,
-            "modificado": false,
+            "precio": 9090.003999999999,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.9
@@ -3305,16 +3305,16 @@
     "Bahia": {
         "231": {
             "nombre_articulo": "LENTEJAS BAHIA X 300",
-            "precio": 1110.175,
-            "modificado": false,
+            "precio": 1175.636,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "570": {
             "nombre_articulo": "ARVEJAS X300 BAHIA",
-            "precio": 617.4872,
-            "modificado": false,
+            "precio": 654.0413,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3594,7 +3594,7 @@
         "434": {
             "nombre_articulo": "VINAGRE X 5 LTS",
             "precio": 3318.8606,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3610,7 +3610,7 @@
         "553": {
             "nombre_articulo": "ACEITE GIRASOL X 5 LTS",
             "precio": 11793.265,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3730,7 +3730,7 @@
         "580": {
             "nombre_articulo": "LONGA.PURO CERDO ANGELANI",
             "precio": 15352.153299999998,
-            "modificado": false,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 0.6
