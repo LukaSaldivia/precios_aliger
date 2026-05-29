@@ -1,5 +1,5 @@
 {
-    "FECHA": "28-05-2026",
+    "FECHA": "29-05-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -1296,7 +1296,7 @@
         "11": {
             "nombre_articulo": "PANCETA AHUM C/C EMEZETA",
             "precio": 14490.1251,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
@@ -2075,8 +2075,8 @@
         },
         "157": {
             "nombre_articulo": "VIENA X 6 FELA",
-            "precio": 1101.1968,
-            "modificado": false,
+            "precio": 1134.2298,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3575,32 +3575,32 @@
     "La Quesera": {
         "369": {
             "nombre_articulo": "QUESO RALLADO X 40 GRS.LA QUESERA",
-            "precio": 631.4506,
-            "modificado": false,
+            "precio": 656.7033,
+            "modificado": true,
             "factor": "20",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "370": {
             "nombre_articulo": "BARRA CHEDDAR LA QUESERA",
-            "precio": 16700.5168,
-            "modificado": false,
+            "precio": 17368.5336,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
         },
         "371": {
             "nombre_articulo": "GRUYERE CUÑA LA QUESERA",
-            "precio": 24751.348599999998,
-            "modificado": false,
+            "precio": 25741.406899999998,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
         },
         "372": {
             "nombre_articulo": "MIXTO CON SALAME LA QUESERA",
-            "precio": 13959.0803,
-            "modificado": false,
+            "precio": 14517.446899999999,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -3772,7 +3772,7 @@
         "566": {
             "nombre_articulo": "SALAMIN ANGELANI PIC.FINO",
             "precio": 13744.39,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
@@ -3812,7 +3812,7 @@
         "602": {
             "nombre_articulo": "SALAMIN ANGELANI PIC.GRUESO",
             "precio": 13744.39,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
