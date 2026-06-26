@@ -1,5 +1,5 @@
 {
-    "FECHA": "24-06-2026",
+    "FECHA": "26-06-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -1314,6 +1314,14 @@
             "factor": 1,
             "unidad_kilo": "U",
             "peso_promedio": 0.0
+        },
+        "611": {
+            "nombre_articulo": "",
+            "precio": 12581.930900000001,
+            "modificado": true,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
         }
     },
     "Emezeta": {
@@ -1344,7 +1352,7 @@
         "6": {
             "nombre_articulo": "PALETA MINI EMEZETA",
             "precio": 6708.8087000000005,
-            "modificado": true,
+            "modificado": false,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 3.5
@@ -1384,7 +1392,7 @@
         "11": {
             "nombre_articulo": "PANCETA AHUM C/C EMEZETA",
             "precio": 14490.1251,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
@@ -1400,7 +1408,7 @@
         "13": {
             "nombre_articulo": "PANCETA SALADA EMEZETA",
             "precio": 14333.5874,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.9
@@ -1812,7 +1820,7 @@
         "32": {
             "nombre_articulo": "MORTADELA BOCHA CALCHAQUI",
             "precio": 8641.5659,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 5.7
@@ -2188,7 +2196,7 @@
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
             "precio": 12991.624799999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
@@ -2542,10 +2550,10 @@
         "435": {
             "nombre_articulo": "PROVOLETA QUESADA",
             "precio": 14027.2033,
-            "modificado": false,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
-            "peso_promedio": 4.0
+            "peso_promedio": 5.0
         },
         "436": {
             "nombre_articulo": "RICOTTA QUESADA",
@@ -2870,7 +2878,7 @@
         "116": {
             "nombre_articulo": "ANCHOAS X90GR",
             "precio": 4820.7368,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2888,7 +2896,7 @@
         "118": {
             "nombre_articulo": "ANCHOAS 60 X 3",
             "precio": 35829.7456,
-            "modificado": true,
+            "modificado": false,
             "factor": "6",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2904,7 +2912,7 @@
         "120": {
             "nombre_articulo": "ANCHOAS 30 X 3",
             "precio": 19413.215799999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2912,7 +2920,7 @@
         "121": {
             "nombre_articulo": "ANCHOAS X1.5KG",
             "precio": 45894.4046,
-            "modificado": true,
+            "modificado": false,
             "factor": "6",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3050,7 +3058,7 @@
         "160": {
             "nombre_articulo": "CIRUELAS X 250 D'AGEN S/C",
             "precio": 2908.8036999999995,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3092,7 +3100,7 @@
         "136": {
             "nombre_articulo": "MAYONESA MONOPORCION",
             "precio": 16633.386,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3902,14 +3910,6 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.4
-        },
-        "611": {
-            "nombre_articulo": "BASTON PICADO GRUESO ANGELANI",
-            "precio": 12581.930900000001,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 1.2
         },
         "612": {
             "nombre_articulo": "MORCILA RUEDA ANGELANI",
