@@ -1,5 +1,5 @@
 {
-    "FECHA": "30-07-2026",
+    "FECHA": "31-07-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -2237,8 +2237,8 @@
         },
         "357": {
             "nombre_articulo": "LEBERWURST X 250 GRS.",
-            "precio": 1952.5286,
-            "modificado": false,
+            "precio": 1992.6643,
+            "modificado": true,
             "factor": "26",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2341,8 +2341,8 @@
         },
         "535": {
             "nombre_articulo": "EMPANADAS JAMON Y QUESO",
-            "precio": 5158.0485,
-            "modificado": false,
+            "precio": 5399.6976,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3254,7 +3254,7 @@
         "158": {
             "nombre_articulo": "COPETIN X 300",
             "precio": 1889.1125,
-            "modificado": true,
+            "modificado": false,
             "factor": "25",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4076,7 +4076,7 @@
         "624": {
             "nombre_articulo": "MEMBRILLO ARCO DE ORO",
             "precio": 10289.3681,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4084,7 +4084,7 @@
         "625": {
             "nombre_articulo": "BATATA ARCO DE ORO",
             "precio": 9292.0014,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4092,7 +4092,7 @@
         "626": {
             "nombre_articulo": "BATATA C/CHOC.ARCO DE ORO",
             "precio": 9506.6312,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
