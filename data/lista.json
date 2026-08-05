@@ -1,5 +1,5 @@
 {
-    "FECHA": "31-07-2026",
+    "FECHA": "05-08-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -167,8 +167,8 @@
     "Emezeta": {
         "3": {
             "nombre_articulo": "CRUDO EMEZETA",
-            "precio": 24558.0753,
-            "modificado": false,
+            "precio": 26277.1344,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 3.4
@@ -2448,7 +2448,7 @@
         "66": {
             "nombre_articulo": "MUZZA CILINDRO QUESADA",
             "precio": 8137.8429,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 5.5
@@ -2560,7 +2560,7 @@
         "315": {
             "nombre_articulo": "PARMESANO MITAD",
             "precio": 17570.1075,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
@@ -2659,8 +2659,8 @@
         },
         "86": {
             "nombre_articulo": "FRASCO X2KG DESC 0",
-            "precio": 17336.9042,
-            "modificado": false,
+            "precio": 19491.3818,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2691,8 +2691,8 @@
         },
         "90": {
             "nombre_articulo": "FRASCO NEGRA X2KG 0",
-            "precio": 17758.226199999997,
-            "modificado": false,
+            "precio": 17909.331,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2739,8 +2739,8 @@
         },
         "96": {
             "nombre_articulo": "BIDON DESC X4KG 0",
-            "precio": 36873.5763,
-            "modificado": false,
+            "precio": 36627.4502,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2997,16 +2997,16 @@
     "Alloa Vanguard": {
         "128": {
             "nombre_articulo": "QUESO AZUL 1/2 ALLOA",
-            "precio": 14747.346899999999,
-            "modificado": false,
+            "precio": 15336.4959,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.4
         },
         "129": {
             "nombre_articulo": "QUESO AZUL ALLOA",
-            "precio": 13406.896799999999,
-            "modificado": false,
+            "precio": 13942.708999999999,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -3395,16 +3395,16 @@
     "Tresal": {
         "178": {
             "nombre_articulo": "SAL GRUESA TRESAL X 1 KG",
-            "precio": 924.2100999999999,
-            "modificado": false,
+            "precio": 975.5625,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "250": {
             "nombre_articulo": "SAL FINA TRESAL X 500",
-            "precio": 557.5801,
-            "modificado": false,
+            "precio": 565.2031,
+            "modificado": true,
             "factor": "20",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3687,32 +3687,32 @@
     "La Quesera": {
         "369": {
             "nombre_articulo": "QUESO RALLADO X 40 GRS.LA QUESERA",
-            "precio": 740.2900999999999,
-            "modificado": false,
+            "precio": 702.5139,
+            "modificado": true,
             "factor": "20",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "370": {
             "nombre_articulo": "BARRA CHEDDAR LA QUESERA",
-            "precio": 17889.5838,
-            "modificado": false,
+            "precio": 18426.2914,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
         },
         "371": {
             "nombre_articulo": "GRUYERE CUÑA LA QUESERA",
-            "precio": 26513.6652,
-            "modificado": false,
+            "precio": 27309.0829,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
         },
         "372": {
             "nombre_articulo": "MIXTO CON SALAME LA QUESERA",
-            "precio": 14952.9622,
-            "modificado": false,
+            "precio": 15401.557599999998,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -3721,24 +3721,24 @@
     "Mix Dietetica": {
         "387": {
             "nombre_articulo": "MIX CRIOLLO X 10",
-            "precio": 11610.3493,
-            "modificado": false,
+            "precio": 11805.486,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
         },
         "388": {
             "nombre_articulo": "MIX FRUTOS SECOS X 10",
-            "precio": 25862.055999999997,
-            "modificado": false,
+            "precio": 26519.57,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 1.0
         },
         "389": {
             "nombre_articulo": "MIX FUERTE X 10",
-            "precio": 11850.74,
-            "modificado": false,
+            "precio": 12049.906,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 1.4
@@ -3747,8 +3747,8 @@
     "El Rey Granel": {
         "434": {
             "nombre_articulo": "VINAGRE X 5 LTS",
-            "precio": 3459.753,
-            "modificado": false,
+            "precio": 3206.7541,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3882,7 +3882,7 @@
         "580": {
             "nombre_articulo": "LONGA.PURO CERDO ANGELANI",
             "precio": 16551.456899999997,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 0.6
@@ -3938,7 +3938,7 @@
         "610": {
             "nombre_articulo": "CHORIZO BASTON GRUESO ANGELANI",
             "precio": 13114.5487,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.4
@@ -4005,8 +4005,8 @@
         },
         "569": {
             "nombre_articulo": "BARRA TYBO EL DESTINO",
-            "precio": 9151.4115,
-            "modificado": false,
+            "precio": 9406.031799999999,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
@@ -4014,10 +4014,18 @@
         "603": {
             "nombre_articulo": "SARDO ESTACIONADO EL DESTINO",
             "precio": 12665.408800000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
+        },
+        "628": {
+            "nombre_articulo": "HOLANDA EL DESTINO",
+            "precio": 11368.555,
+            "modificado": true,
+            "factor": "2",
+            "unidad_kilo": "K",
+            "peso_promedio": 4.8
         }
     },
     "Frigo 103": {
@@ -4067,6 +4075,14 @@
             "nombre_articulo": "BALDE VERDE RODAJAS",
             "precio": 29542.5009,
             "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "627": {
+            "nombre_articulo": "BALDE NEGRA 0",
+            "precio": 36433.6808,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
