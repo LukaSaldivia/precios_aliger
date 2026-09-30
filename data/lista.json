@@ -67,8 +67,8 @@
         },
         "56": {
             "nombre_articulo": "MAIZ INFLADO PEIPO",
-            "precio": 4489.4751,
-            "modificado": false,
+            "precio": 5139.9832,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -570,7 +570,7 @@
         "319": {
             "nombre_articulo": "AZUCAR IMPALPABLE X 200",
             "precio": 946.22,
-            "modificado": false,
+            "modificado": true,
             "factor": "30",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -691,8 +691,8 @@
         },
         "473": {
             "nombre_articulo": "LECHE LARGA VIDA ILOLAY",
-            "precio": 2158.4343,
-            "modificado": false,
+            "precio": 1823.6394,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.5
@@ -2888,9 +2888,9 @@
             "peso_promedio": 0.0
         },
         "281": {
-            "nombre_articulo": "HILERET CLASICO X 500",
-            "precio": 9891.2297,
-            "modificado": false,
+            "nombre_articulo": "HILERET CLASICO X 400",
+            "precio": 8396.673999999999,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
