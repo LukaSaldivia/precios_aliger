@@ -1,5 +1,5 @@
 {
-    "FECHA": "05-11-2026",
+    "FECHA": "11-11-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -231,7 +231,7 @@
         },
         "10": {
             "nombre_articulo": "BONDIOLA EMEZETA",
-            "precio": 20581.688599999998,
+            "precio": 20764.6406,
             "modificado": true,
             "factor": "12",
             "unidad_kilo": "K",
@@ -625,8 +625,8 @@
         },
         "481": {
             "nombre_articulo": "PEREJIL DESHIDRATADO X25GR",
-            "precio": 526.8824,
-            "modificado": false,
+            "precio": 744.7187,
+            "modificado": true,
             "factor": "50",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -811,17 +811,17 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
-        "96": {
+        "97": {
             "nombre_articulo": "",
-            "precio": 36627.4502,
+            "precio": 39314.957,
             "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
-        "97": {
+        "98": {
             "nombre_articulo": "",
-            "precio": 39314.957,
+            "precio": 31207.5456,
             "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
@@ -846,6 +846,14 @@
         "104": {
             "nombre_articulo": "",
             "precio": 25301.0516,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "105": {
+            "nombre_articulo": "",
+            "precio": 37603.0006,
             "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
@@ -902,14 +910,6 @@
         "140": {
             "nombre_articulo": "",
             "precio": 4999.5022,
-            "modificado": false,
-            "factor": 1,
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "142": {
-            "nombre_articulo": "",
-            "precio": 0.0,
             "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
@@ -1358,6 +1358,14 @@
         "239": {
             "nombre_articulo": "",
             "precio": 1688.555,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "240": {
+            "nombre_articulo": "",
+            "precio": 27867.873,
             "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
@@ -3003,6 +3011,14 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
+        "614": {
+            "nombre_articulo": "",
+            "precio": 42982.370200000005,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
         "615": {
             "nombre_articulo": "",
             "precio": 15758.1204,
@@ -3145,8 +3161,8 @@
         },
         "309": {
             "nombre_articulo": "BATATA C/GUINDAS",
-            "precio": 24662.5467,
-            "modificado": false,
+            "precio": 26341.566899999998,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3485,6 +3501,14 @@
             "unidad_kilo": "K",
             "peso_promedio": 2.8
         },
+        "142": {
+            "nombre_articulo": "LOMITO CRUDO ANGELANI",
+            "precio": 22124.7653,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 1.3
+        },
         "499": {
             "nombre_articulo": "BASTON COLORADO LARGO",
             "precio": 13887.7508,
@@ -3639,8 +3663,8 @@
         },
         "631": {
             "nombre_articulo": "BONDIOLA ANGELANI",
-            "precio": 23758.410499999998,
-            "modificado": false,
+            "precio": 23758.4226,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.4
@@ -3971,10 +3995,10 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
-        "98": {
-            "nombre_articulo": "BIDON RODAJA X4KG",
-            "precio": 31207.5456,
-            "modificado": false,
+        "96": {
+            "nombre_articulo": "BIDON DESC X4KG 0",
+            "precio": 29583.701399999998,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3995,25 +4019,9 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
-        "105": {
-            "nombre_articulo": "BIDON NEGRA DESC X4KG",
-            "precio": 37603.0006,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
         "107": {
             "nombre_articulo": "FRASCO NEGRA DESC X2KG",
             "precio": 20263.3981,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "240": {
-            "nombre_articulo": "BIDON PICKLE X4.6KG",
-            "precio": 27867.873,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
@@ -4066,14 +4074,6 @@
             "precio": 2588.1294999999996,
             "modificado": false,
             "factor": "4",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "614": {
-            "nombre_articulo": "BIDON NEGRA 00",
-            "precio": 42982.370200000005,
-            "modificado": false,
-            "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
@@ -4310,7 +4310,7 @@
         "131": {
             "nombre_articulo": "BOTELLA TOMATE ROD AC",
             "precio": 1818.0008,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4359,8 +4359,8 @@
     "Hellmans": {
         "135": {
             "nombre_articulo": "MAYONESA X2.9 HELLMANS",
-            "precio": 13369.374699999998,
-            "modificado": false,
+            "precio": 13386.9802,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
